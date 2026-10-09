@@ -1,0 +1,44 @@
+{
+  "name": "pcge-peru-js",
+  "version": "0.1.0",
+  "description": "Catálogos PCGE 2019 y 2026 para JavaScript, con trazabilidad y consulta de solo lectura.",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src",
+    "data",
+    "LICENSE",
+    "NOTICE",
+    "PROVENANCE.md",
+    "LICENSE-UNICODE",
+    "docs",
+    "scripts",
+    "schemas",
+    "CHANGELOG.md"
+  ],
+  "engines": {
+    "node": ">=24"
+  },
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mat-l-dev/pcge-peru-js.git"
+  },
+  "keywords": [
+    "pcge",
+    "peru",
+    "contabilidad",
+    "catalogo"
+  ],
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check src/index.js && npm test",
+    "prepack": "node --check src/index.js"
+  },
+  "devDependencies": {
+    "ajv": "8.17.1"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PCGEMetadata",
+  "description": "Schema for PCGE metadata file",
+  "type": "object",
+  "properties": {
+    "pcge_version": {
+      "type": "string",
+      "pattern": "^[0-9]+(?![\\s\\S])"
+    },
+    "schema_version": {
+      "type": "integer",
+      "minimum": 1,
+      "const": 1
+    },
+    "dataset_revision": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "entry_count": {
+      "type": "integer",
+      "minimum": 0
+    }
+  },
+  "required": [
+    "pcge_version",
+    "schema_version",
+    "dataset_revision",
+    "entry_count"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,8787 @@
+[
+  {
+    "code": "1",
+    "name": "ACTIVO DISPONIBLE Y EXIGIBLE",
+    "parent_code": null
+  },
+  {
+    "code": "10",
+    "name": "EFECTIVO Y EQUIVALENTES DE EFECTIVO",
+    "parent_code": "1"
+  },
+  {
+    "code": "101",
+    "name": "Caja",
+    "parent_code": "10"
+  },
+  {
+    "code": "102",
+    "name": "Fondos fijos",
+    "parent_code": "10"
+  },
+  {
+    "code": "103",
+    "name": "Efectivo y cheques en tránsito",
+    "parent_code": "10"
+  },
+  {
+    "code": "1031",
+    "name": "Efectivo en tránsito",
+    "parent_code": "103"
+  },
+  {
+    "code": "1032",
+    "name": "Cheques en tránsito",
+    "parent_code": "103"
+  },
+  {
+    "code": "104",
+    "name": "Cuentas corrientes en instituciones financieras",
+    "parent_code": "10"
+  },
+  {
+    "code": "1041",
+    "name": "Cuentas corrientes operativas",
+    "parent_code": "104"
+  },
+  {
+    "code": "1042",
+    "name": "Cuentas corrientes para fines específicos",
+    "parent_code": "104"
+  },
+  {
+    "code": "105",
+    "name": "Otros equivalentes de efectivo",
+    "parent_code": "10"
+  },
+  {
+    "code": "1051",
+    "name": "Otro equivalentes de efectivo",
+    "parent_code": "105"
+  },
+  {
+    "code": "106",
+    "name": "Depósitos en instituciones financieras",
+    "parent_code": "10"
+  },
+  {
+    "code": "1061",
+    "name": "Depósitos de ahorro",
+    "parent_code": "106"
+  },
+  {
+    "code": "1062",
+    "name": "Depósitos a plazo",
+    "parent_code": "106"
+  },
+  {
+    "code": "107",
+    "name": "Fondos sujetos a restricción",
+    "parent_code": "10"
+  },
+  {
+    "code": "1071",
+    "name": "Fondos en garantía",
+    "parent_code": "107"
+  },
+  {
+    "code": "1072",
+    "name": "Fondos retenidos por mandato de la autoridad",
+    "parent_code": "107"
+  },
+  {
+    "code": "1073",
+    "name": "Otros fondos sujetos a restricción",
+    "parent_code": "107"
+  },
+  {
+    "code": "11",
+    "name": "INVERSIONES FINANCIERAS",
+    "parent_code": "1"
+  },
+  {
+    "code": "111",
+    "name": "Inversiones mantenidas para negociación",
+    "parent_code": "11"
+  },
+  {
+    "code": "1111",
+    "name": "Valores emitidos o garantizados por el Estado",
+    "parent_code": "111"
+  },
+  {
+    "code": "11111",
+    "name": "Costo",
+    "parent_code": "1111"
+  },
+  {
+    "code": "11112",
+    "name": "Valor Razonable",
+    "parent_code": "1111"
+  },
+  {
+    "code": "1112",
+    "name": "Valores emitidos por el sistema financiero",
+    "parent_code": "111"
+  },
+  {
+    "code": "11121",
+    "name": "Costo",
+    "parent_code": "1112"
+  },
+  {
+    "code": "11122",
+    "name": "Valor Razonable",
+    "parent_code": "1112"
+  },
+  {
+    "code": "1113",
+    "name": "Valores emitidos por entidades",
+    "parent_code": "111"
+  },
+  {
+    "code": "11131",
+    "name": "Costo",
+    "parent_code": "1113"
+  },
+  {
+    "code": "11132",
+    "name": "Valor Razonable",
+    "parent_code": "1113"
+  },
+  {
+    "code": "1114",
+    "name": "Otros títulos representativos de deuda",
+    "parent_code": "111"
+  },
+  {
+    "code": "11141",
+    "name": "Costo",
+    "parent_code": "1114"
+  },
+  {
+    "code": "11142",
+    "name": "Valor Razonable",
+    "parent_code": "1114"
+  },
+  {
+    "code": "1115",
+    "name": "Participaciones en entidades",
+    "parent_code": "111"
+  },
+  {
+    "code": "11151",
+    "name": "Costo",
+    "parent_code": "1115"
+  },
+  {
+    "code": "11152",
+    "name": "Valor Razonable",
+    "parent_code": "1115"
+  },
+  {
+    "code": "112",
+    "name": "Otras inversiones financieras",
+    "parent_code": "11"
+  },
+  {
+    "code": "1121",
+    "name": "Otras inversiones financieras",
+    "parent_code": "112"
+  },
+  {
+    "code": "11211",
+    "name": "Costo",
+    "parent_code": "1121"
+  },
+  {
+    "code": "11212",
+    "name": "Valor Razonable",
+    "parent_code": "1121"
+  },
+  {
+    "code": "113",
+    "name": "Activos financieros – Acuerdo de compra",
+    "parent_code": "11"
+  },
+  {
+    "code": "1131",
+    "name": "Inversiones mantenidas para negociación – Acuerdo de compra",
+    "parent_code": "113"
+  },
+  {
+    "code": "11311",
+    "name": "Costo",
+    "parent_code": "1131"
+  },
+  {
+    "code": "11312",
+    "name": "Valor Razonable",
+    "parent_code": "1131"
+  },
+  {
+    "code": "1132",
+    "name": "Otras inversiones financieras",
+    "parent_code": "113"
+  },
+  {
+    "code": "11321",
+    "name": "Costo",
+    "parent_code": "1132"
+  },
+  {
+    "code": "11322",
+    "name": "Valor Razonable",
+    "parent_code": "1132"
+  },
+  {
+    "code": "12",
+    "name": "CUENTAS POR COBRAR COMERCIALES – TERCEROS",
+    "parent_code": "1"
+  },
+  {
+    "code": "121",
+    "name": "Facturas, boletas y otros comprobantes por cobrar",
+    "parent_code": "12"
+  },
+  {
+    "code": "1211",
+    "name": "No emitidas",
+    "parent_code": "121"
+  },
+  {
+    "code": "1212",
+    "name": "Emitidas en cartera",
+    "parent_code": "121"
+  },
+  {
+    "code": "1213",
+    "name": "En cobranza",
+    "parent_code": "121"
+  },
+  {
+    "code": "1214",
+    "name": "En descuento",
+    "parent_code": "121"
+  },
+  {
+    "code": "122",
+    "name": "Anticipos de clientes",
+    "parent_code": "12"
+  },
+  {
+    "code": "123",
+    "name": "Letras por cobrar",
+    "parent_code": "12"
+  },
+  {
+    "code": "1232",
+    "name": "En cartera",
+    "parent_code": "123"
+  },
+  {
+    "code": "1233",
+    "name": "En cobranza",
+    "parent_code": "123"
+  },
+  {
+    "code": "1234",
+    "name": "En descuento",
+    "parent_code": "123"
+  },
+  {
+    "code": "13",
+    "name": "CUENTAS POR COBRAR COMERCIALES – RELACIONADAS",
+    "parent_code": "1"
+  },
+  {
+    "code": "131",
+    "name": "Facturas, boletas y otros comprobantes por cobrar",
+    "parent_code": "13"
+  },
+  {
+    "code": "1311",
+    "name": "No emitidas",
+    "parent_code": "131"
+  },
+  {
+    "code": "1312",
+    "name": "En cartera",
+    "parent_code": "131"
+  },
+  {
+    "code": "1313",
+    "name": "En cobranza",
+    "parent_code": "131"
+  },
+  {
+    "code": "1314",
+    "name": "En descuento",
+    "parent_code": "131"
+  },
+  {
+    "code": "132",
+    "name": "Anticipos recibidos",
+    "parent_code": "13"
+  },
+  {
+    "code": "1321",
+    "name": "Anticipos recibidos",
+    "parent_code": "132"
+  },
+  {
+    "code": "133",
+    "name": "Letras por cobrar",
+    "parent_code": "13"
+  },
+  {
+    "code": "1331",
+    "name": "En cartera",
+    "parent_code": "133"
+  },
+  {
+    "code": "1332",
+    "name": "En cobranza",
+    "parent_code": "133"
+  },
+  {
+    "code": "1333",
+    "name": "En descuento",
+    "parent_code": "133"
+  },
+  {
+    "code": "14",
+    "name": "CUENTAS POR COBRAR AL PERSONAL, A LOS ACCIONISTAS (SOCIOS) y DIRECTORES",
+    "parent_code": "1"
+  },
+  {
+    "code": "141",
+    "name": "Personal",
+    "parent_code": "14"
+  },
+  {
+    "code": "1411",
+    "name": "Préstamos",
+    "parent_code": "141"
+  },
+  {
+    "code": "1412",
+    "name": "Adelanto de remuneraciones",
+    "parent_code": "141"
+  },
+  {
+    "code": "1413",
+    "name": "Entregas a rendir cuenta",
+    "parent_code": "141"
+  },
+  {
+    "code": "1419",
+    "name": "Otras cuentas por cobrar al personal",
+    "parent_code": "141"
+  },
+  {
+    "code": "142",
+    "name": "Accionistas (o socios)",
+    "parent_code": "14"
+  },
+  {
+    "code": "1421",
+    "name": "Suscripciones por cobrar a socios o accionistas",
+    "parent_code": "142"
+  },
+  {
+    "code": "1422",
+    "name": "Préstamos",
+    "parent_code": "142"
+  },
+  {
+    "code": "143",
+    "name": "Directores",
+    "parent_code": "14"
+  },
+  {
+    "code": "1431",
+    "name": "Préstamos",
+    "parent_code": "143"
+  },
+  {
+    "code": "1432",
+    "name": "Adelanto de dietas",
+    "parent_code": "143"
+  },
+  {
+    "code": "1433",
+    "name": "Entregas a rendir cuenta",
+    "parent_code": "143"
+  },
+  {
+    "code": "149",
+    "name": "Diversas",
+    "parent_code": "14"
+  },
+  {
+    "code": "16",
+    "name": "CUENTAS POR COBRAR DIVERSAS – TERCEROS",
+    "parent_code": "1"
+  },
+  {
+    "code": "161",
+    "name": "Préstamos",
+    "parent_code": "16"
+  },
+  {
+    "code": "1611",
+    "name": "Con garantía",
+    "parent_code": "161"
+  },
+  {
+    "code": "1612",
+    "name": "Sin garantía",
+    "parent_code": "161"
+  },
+  {
+    "code": "162",
+    "name": "Reclamaciones a terceros",
+    "parent_code": "16"
+  },
+  {
+    "code": "1621",
+    "name": "Compañías aseguradoras",
+    "parent_code": "162"
+  },
+  {
+    "code": "1622",
+    "name": "Transportadoras",
+    "parent_code": "162"
+  },
+  {
+    "code": "1623",
+    "name": "Servicios públicos",
+    "parent_code": "162"
+  },
+  {
+    "code": "1624",
+    "name": "Tributos",
+    "parent_code": "162"
+  },
+  {
+    "code": "1629",
+    "name": "Otras",
+    "parent_code": "162"
+  },
+  {
+    "code": "163",
+    "name": "Intereses, regalías y dividendos",
+    "parent_code": "16"
+  },
+  {
+    "code": "1631",
+    "name": "Intereses",
+    "parent_code": "163"
+  },
+  {
+    "code": "1632",
+    "name": "Regalías",
+    "parent_code": "163"
+  },
+  {
+    "code": "1633",
+    "name": "Dividendos",
+    "parent_code": "163"
+  },
+  {
+    "code": "164",
+    "name": "Depósitos otorgados en garantía",
+    "parent_code": "16"
+  },
+  {
+    "code": "1641",
+    "name": "Préstamos de instituciones financieras",
+    "parent_code": "164"
+  },
+  {
+    "code": "1642",
+    "name": "Préstamos de instituciones no financieras",
+    "parent_code": "164"
+  },
+  {
+    "code": "1643",
+    "name": "Depósitos en garantía por alquileres",
+    "parent_code": "164"
+  },
+  {
+    "code": "1649",
+    "name": "Otros depósitos en garantía",
+    "parent_code": "164"
+  },
+  {
+    "code": "165",
+    "name": "Venta de activo inmovilizado",
+    "parent_code": "16"
+  },
+  {
+    "code": "1651",
+    "name": "Inversión mobiliaria",
+    "parent_code": "165"
+  },
+  {
+    "code": "1652",
+    "name": "Propiedades de inversión",
+    "parent_code": "165"
+  },
+  {
+    "code": "1653",
+    "name": "Propiedad, planta y equipo",
+    "parent_code": "165"
+  },
+  {
+    "code": "1654",
+    "name": "Intangibles",
+    "parent_code": "165"
+  },
+  {
+    "code": "1655",
+    "name": "Activos biológicos",
+    "parent_code": "165"
+  },
+  {
+    "code": "1659",
+    "name": "Otros activos inmovilizados",
+    "parent_code": "165"
+  },
+  {
+    "code": "166",
+    "name": "Activos por instrumentos financieros",
+    "parent_code": "16"
+  },
+  {
+    "code": "1661",
+    "name": "Instrumentos financieros primarios",
+    "parent_code": "166"
+  },
+  {
+    "code": "16611",
+    "name": "Costo",
+    "parent_code": "1661"
+  },
+  {
+    "code": "16612",
+    "name": "Valor razonable",
+    "parent_code": "1661"
+  },
+  {
+    "code": "1662",
+    "name": "Instrumentos financieros derivados",
+    "parent_code": "166"
+  },
+  {
+    "code": "16621",
+    "name": "Costo",
+    "parent_code": "1662"
+  },
+  {
+    "code": "16622",
+    "name": "Valor razonable",
+    "parent_code": "1662"
+  },
+  {
+    "code": "167",
+    "name": "Tributos por acreditar",
+    "parent_code": "16"
+  },
+  {
+    "code": "1671",
+    "name": "Pagos a cuenta del impuesto a la renta",
+    "parent_code": "167"
+  },
+  {
+    "code": "1672",
+    "name": "Pagos a cuenta de ITAN",
+    "parent_code": "167"
+  },
+  {
+    "code": "1673",
+    "name": "IGV por acreditar en compras",
+    "parent_code": "167"
+  },
+  {
+    "code": "1674",
+    "name": "IGV por acreditar no domiciliados",
+    "parent_code": "167"
+  },
+  {
+    "code": "1675",
+    "name": "Obras por impuestos",
+    "parent_code": "167"
+  },
+  {
+    "code": "169",
+    "name": "Otras cuentas por cobrar diversas",
+    "parent_code": "16"
+  },
+  {
+    "code": "1691",
+    "name": "Entregas a rendir cuenta a terceros",
+    "parent_code": "169"
+  },
+  {
+    "code": "1699",
+    "name": "Otras cuentas por cobrar diversas",
+    "parent_code": "169"
+  },
+  {
+    "code": "17",
+    "name": "CUENTAS POR COBRAR DIVERSAS – RELACIONADAS",
+    "parent_code": "1"
+  },
+  {
+    "code": "171",
+    "name": "Préstamos",
+    "parent_code": "17"
+  },
+  {
+    "code": "1711",
+    "name": "Con garantía",
+    "parent_code": "171"
+  },
+  {
+    "code": "1712",
+    "name": "Sin garantía",
+    "parent_code": "171"
+  },
+  {
+    "code": "173",
+    "name": "Intereses, regalías y dividendos",
+    "parent_code": "17"
+  },
+  {
+    "code": "1731",
+    "name": "Intereses",
+    "parent_code": "173"
+  },
+  {
+    "code": "1732",
+    "name": "Regalías",
+    "parent_code": "173"
+  },
+  {
+    "code": "1733",
+    "name": "Dividendos",
+    "parent_code": "173"
+  },
+  {
+    "code": "174",
+    "name": "Depósitos otorgados en garantía",
+    "parent_code": "17"
+  },
+  {
+    "code": "1741",
+    "name": "Préstamos de instituciones financieras",
+    "parent_code": "174"
+  },
+  {
+    "code": "1742",
+    "name": "Préstamos de instituciones no financieras",
+    "parent_code": "174"
+  },
+  {
+    "code": "1743",
+    "name": "Depósitos en garantía por alquileres",
+    "parent_code": "174"
+  },
+  {
+    "code": "1749",
+    "name": "Otros depósitos en garantía",
+    "parent_code": "174"
+  },
+  {
+    "code": "175",
+    "name": "Venta de activo inmovilizado",
+    "parent_code": "17"
+  },
+  {
+    "code": "1751",
+    "name": "Inversión mobiliaria",
+    "parent_code": "175"
+  },
+  {
+    "code": "1752",
+    "name": "Propiedades de inversión",
+    "parent_code": "175"
+  },
+  {
+    "code": "1753",
+    "name": "Propiedad, planta y equipo",
+    "parent_code": "175"
+  },
+  {
+    "code": "1754",
+    "name": "Intangibles",
+    "parent_code": "175"
+  },
+  {
+    "code": "1755",
+    "name": "Activos biológicos",
+    "parent_code": "175"
+  },
+  {
+    "code": "1759",
+    "name": "Otros activos inmovilizados",
+    "parent_code": "175"
+  },
+  {
+    "code": "176",
+    "name": "Activos por instrumentos financieros",
+    "parent_code": "17"
+  },
+  {
+    "code": "1761",
+    "name": "Instrumentos financieros primarios",
+    "parent_code": "176"
+  },
+  {
+    "code": "17611",
+    "name": "Costo",
+    "parent_code": "1761"
+  },
+  {
+    "code": "17612",
+    "name": "Valor razonable",
+    "parent_code": "1761"
+  },
+  {
+    "code": "1762",
+    "name": "Instrumentos financieros derivados",
+    "parent_code": "176"
+  },
+  {
+    "code": "17621",
+    "name": "Costo",
+    "parent_code": "1762"
+  },
+  {
+    "code": "17622",
+    "name": "Valor razonable",
+    "parent_code": "1762"
+  },
+  {
+    "code": "179",
+    "name": "Otras cuentas por cobrar diversas",
+    "parent_code": "17"
+  },
+  {
+    "code": "18",
+    "name": "SERVICIOS Y OTROS CONTRATADOS POR ANTICIPADO",
+    "parent_code": "1"
+  },
+  {
+    "code": "181",
+    "name": "Costos financieros",
+    "parent_code": "18"
+  },
+  {
+    "code": "182",
+    "name": "Seguros",
+    "parent_code": "18"
+  },
+  {
+    "code": "183",
+    "name": "Alquileres",
+    "parent_code": "18"
+  },
+  {
+    "code": "184",
+    "name": "Primas pagadas por opciones",
+    "parent_code": "18"
+  },
+  {
+    "code": "185",
+    "name": "Mantenimiento de activos inmovilizados",
+    "parent_code": "18"
+  },
+  {
+    "code": "189",
+    "name": "Otros gastos contratados por anticipado",
+    "parent_code": "18"
+  },
+  {
+    "code": "19",
+    "name": "ESTIMACIÓN DE CUENTAS DE COBRANZA DUDOSA",
+    "parent_code": "1"
+  },
+  {
+    "code": "191",
+    "name": "Cuentas por cobrar comerciales – Terceros",
+    "parent_code": "19"
+  },
+  {
+    "code": "1911",
+    "name": "Facturas, boletas y otros comprobantes por cobrar",
+    "parent_code": "191"
+  },
+  {
+    "code": "1913",
+    "name": "Letras por cobrar",
+    "parent_code": "191"
+  },
+  {
+    "code": "192",
+    "name": "Cuentas por cobrar comerciales – Relacionadas",
+    "parent_code": "19"
+  },
+  {
+    "code": "1921",
+    "name": "Facturas, boletas y otros comprobantes por cobrar",
+    "parent_code": "192"
+  },
+  {
+    "code": "1923",
+    "name": "Letras por cobrar",
+    "parent_code": "192"
+  },
+  {
+    "code": "193",
+    "name": "Cuentas por cobrar al personal, a los accionistas (socios) y directores",
+    "parent_code": "19"
+  },
+  {
+    "code": "1931",
+    "name": "Personal",
+    "parent_code": "193"
+  },
+  {
+    "code": "1932",
+    "name": "Accionistas (o socios)",
+    "parent_code": "193"
+  },
+  {
+    "code": "1933",
+    "name": "Directores",
+    "parent_code": "193"
+  },
+  {
+    "code": "1939",
+    "name": "Diversas",
+    "parent_code": "193"
+  },
+  {
+    "code": "194",
+    "name": "Cuentas por cobrar diversas – Terceros",
+    "parent_code": "19"
+  },
+  {
+    "code": "1941",
+    "name": "Préstamos",
+    "parent_code": "194"
+  },
+  {
+    "code": "1942",
+    "name": "Reclamaciones a terceros",
+    "parent_code": "194"
+  },
+  {
+    "code": "1943",
+    "name": "Intereses, regalías y dividendos",
+    "parent_code": "194"
+  },
+  {
+    "code": "1944",
+    "name": "Depósitos otorgados en garantía",
+    "parent_code": "194"
+  },
+  {
+    "code": "1945",
+    "name": "Venta de activo inmovilizado",
+    "parent_code": "194"
+  },
+  {
+    "code": "1946",
+    "name": "Activos por instrumentos financieros",
+    "parent_code": "194"
+  },
+  {
+    "code": "1949",
+    "name": "Otras cuentas por cobrar diversas",
+    "parent_code": "194"
+  },
+  {
+    "code": "195",
+    "name": "Cuentas por cobrar diversas – Relacionadas",
+    "parent_code": "19"
+  },
+  {
+    "code": "1951",
+    "name": "Préstamos",
+    "parent_code": "195"
+  },
+  {
+    "code": "1953",
+    "name": "Intereses, regalías y dividendos",
+    "parent_code": "195"
+  },
+  {
+    "code": "1954",
+    "name": "Depósitos otorgados en garantía",
+    "parent_code": "195"
+  },
+  {
+    "code": "1955",
+    "name": "Venta de activo inmovilizado",
+    "parent_code": "195"
+  },
+  {
+    "code": "1956",
+    "name": "Activos por instrumentos financieros",
+    "parent_code": "195"
+  },
+  {
+    "code": "1959",
+    "name": "Otras cuentas por cobrar diversas",
+    "parent_code": "195"
+  },
+  {
+    "code": "2",
+    "name": "ACTIVO REALIZABLE",
+    "parent_code": null
+  },
+  {
+    "code": "20",
+    "name": "MERCADERÍAS",
+    "parent_code": "2"
+  },
+  {
+    "code": "201",
+    "name": "Mercaderías",
+    "parent_code": "20"
+  },
+  {
+    "code": "2011",
+    "name": "Mercaderías",
+    "parent_code": "201"
+  },
+  {
+    "code": "20111",
+    "name": "Costo",
+    "parent_code": "2011"
+  },
+  {
+    "code": "20114",
+    "name": "Valor razonable",
+    "parent_code": "2011"
+  },
+  {
+    "code": "21",
+    "name": "PRODUCTOS TERMINADOS",
+    "parent_code": "2"
+  },
+  {
+    "code": "211",
+    "name": "Productos terminados",
+    "parent_code": "21"
+  },
+  {
+    "code": "2111",
+    "name": "Productos terminados",
+    "parent_code": "211"
+  },
+  {
+    "code": "21111",
+    "name": "Costo",
+    "parent_code": "2111"
+  },
+  {
+    "code": "21113",
+    "name": "Costo de financiación",
+    "parent_code": "2111"
+  },
+  {
+    "code": "21114",
+    "name": "Valor razonable",
+    "parent_code": "2111"
+  },
+  {
+    "code": "215",
+    "name": "Inventario de servicios terminados",
+    "parent_code": "21"
+  },
+  {
+    "code": "2151",
+    "name": "Servicios terminados",
+    "parent_code": "215"
+  },
+  {
+    "code": "21511",
+    "name": "Costo",
+    "parent_code": "2151"
+  },
+  {
+    "code": "22",
+    "name": "SUBPRODUCTOS, DESECHOS Y DESPERDICIOS",
+    "parent_code": "2"
+  },
+  {
+    "code": "221",
+    "name": "Subproductos",
+    "parent_code": "22"
+  },
+  {
+    "code": "222",
+    "name": "Desechos y desperdicios",
+    "parent_code": "22"
+  },
+  {
+    "code": "23",
+    "name": "PRODUCTOS EN PROCESO",
+    "parent_code": "2"
+  },
+  {
+    "code": "231",
+    "name": "Productos en proceso",
+    "parent_code": "23"
+  },
+  {
+    "code": "2311",
+    "name": "Productos en proceso",
+    "parent_code": "231"
+  },
+  {
+    "code": "23111",
+    "name": "Costo",
+    "parent_code": "2311"
+  },
+  {
+    "code": "23113",
+    "name": "Costo de financiación",
+    "parent_code": "2311"
+  },
+  {
+    "code": "235",
+    "name": "Inventario de servicios en proceso",
+    "parent_code": "23"
+  },
+  {
+    "code": "2351",
+    "name": "Servicios en proceso",
+    "parent_code": "235"
+  },
+  {
+    "code": "23511",
+    "name": "Costo",
+    "parent_code": "2351"
+  },
+  {
+    "code": "24",
+    "name": "MATERIAS PRIMAS",
+    "parent_code": "2"
+  },
+  {
+    "code": "241",
+    "name": "Materias primas",
+    "parent_code": "24"
+  },
+  {
+    "code": "2411",
+    "name": "Materias primas",
+    "parent_code": "241"
+  },
+  {
+    "code": "24111",
+    "name": "Costo",
+    "parent_code": "2411"
+  },
+  {
+    "code": "24114",
+    "name": "Valor razonable",
+    "parent_code": "2411"
+  },
+  {
+    "code": "25",
+    "name": "MATERIALES AUXILIARES, SUMINISTROS Y REPUESTOS",
+    "parent_code": "2"
+  },
+  {
+    "code": "251",
+    "name": "Materiales auxiliares",
+    "parent_code": "25"
+  },
+  {
+    "code": "252",
+    "name": "Suministros",
+    "parent_code": "25"
+  },
+  {
+    "code": "2521",
+    "name": "Combustibles",
+    "parent_code": "252"
+  },
+  {
+    "code": "2522",
+    "name": "Lubricantes",
+    "parent_code": "252"
+  },
+  {
+    "code": "2523",
+    "name": "Energía",
+    "parent_code": "252"
+  },
+  {
+    "code": "2524",
+    "name": "Otros suministros",
+    "parent_code": "252"
+  },
+  {
+    "code": "253",
+    "name": "Repuestos",
+    "parent_code": "25"
+  },
+  {
+    "code": "26",
+    "name": "ENVASES Y EMBALAJES",
+    "parent_code": "2"
+  },
+  {
+    "code": "261",
+    "name": "Envases",
+    "parent_code": "26"
+  },
+  {
+    "code": "262",
+    "name": "Embalajes",
+    "parent_code": "26"
+  },
+  {
+    "code": "27",
+    "name": "ACTIVOS NO CORRIENTES MANTENIDOS PARA LA VENTA",
+    "parent_code": "2"
+  },
+  {
+    "code": "271",
+    "name": "Propiedades de inversión",
+    "parent_code": "27"
+  },
+  {
+    "code": "2711",
+    "name": "Terrenos",
+    "parent_code": "271"
+  },
+  {
+    "code": "27111",
+    "name": "Costo",
+    "parent_code": "2711"
+  },
+  {
+    "code": "27112",
+    "name": "Revaluación",
+    "parent_code": "2711"
+  },
+  {
+    "code": "27114",
+    "name": "Valor razonable",
+    "parent_code": "2711"
+  },
+  {
+    "code": "2712",
+    "name": "Edificaciones",
+    "parent_code": "271"
+  },
+  {
+    "code": "27121",
+    "name": "Costo",
+    "parent_code": "2712"
+  },
+  {
+    "code": "27122",
+    "name": "Revaluación",
+    "parent_code": "2712"
+  },
+  {
+    "code": "27123",
+    "name": "Costos de financiación",
+    "parent_code": "2712"
+  },
+  {
+    "code": "27124",
+    "name": "Valor razonable",
+    "parent_code": "2712"
+  },
+  {
+    "code": "272",
+    "name": "Propiedad, planta y equipo",
+    "parent_code": "27"
+  },
+  {
+    "code": "2720",
+    "name": "Planta productora en producción",
+    "parent_code": "272"
+  },
+  {
+    "code": "27201",
+    "name": "Costo",
+    "parent_code": "2720"
+  },
+  {
+    "code": "27202",
+    "name": "Revaluación",
+    "parent_code": "2720"
+  },
+  {
+    "code": "27203",
+    "name": "Costo de financiación",
+    "parent_code": "2720"
+  },
+  {
+    "code": "27204",
+    "name": "Valor razonable",
+    "parent_code": "2720"
+  },
+  {
+    "code": "2721",
+    "name": "Planta productora en desarrollo",
+    "parent_code": "272"
+  },
+  {
+    "code": "27211",
+    "name": "Costo",
+    "parent_code": "2721"
+  },
+  {
+    "code": "27212",
+    "name": "Revaluación",
+    "parent_code": "2721"
+  },
+  {
+    "code": "27213",
+    "name": "Costo de financiación",
+    "parent_code": "2721"
+  },
+  {
+    "code": "27214",
+    "name": "Valor razonable",
+    "parent_code": "2721"
+  },
+  {
+    "code": "2722",
+    "name": "Terrenos",
+    "parent_code": "272"
+  },
+  {
+    "code": "27221",
+    "name": "Costo",
+    "parent_code": "2722"
+  },
+  {
+    "code": "27222",
+    "name": "Revaluación",
+    "parent_code": "2722"
+  },
+  {
+    "code": "2723",
+    "name": "Edificaciones",
+    "parent_code": "272"
+  },
+  {
+    "code": "27231",
+    "name": "Costo",
+    "parent_code": "2723"
+  },
+  {
+    "code": "27232",
+    "name": "Revaluación",
+    "parent_code": "2723"
+  },
+  {
+    "code": "27233",
+    "name": "Costo de financiación",
+    "parent_code": "2723"
+  },
+  {
+    "code": "2724",
+    "name": "Maquinarias y equipos de explotación",
+    "parent_code": "272"
+  },
+  {
+    "code": "27241",
+    "name": "Costo",
+    "parent_code": "2724"
+  },
+  {
+    "code": "27242",
+    "name": "Revaluación",
+    "parent_code": "2724"
+  },
+  {
+    "code": "2725",
+    "name": "Unidades de transporte",
+    "parent_code": "272"
+  },
+  {
+    "code": "27251",
+    "name": "Costo",
+    "parent_code": "2725"
+  },
+  {
+    "code": "27252",
+    "name": "Revaluación",
+    "parent_code": "2725"
+  },
+  {
+    "code": "2726",
+    "name": "Muebles y enseres",
+    "parent_code": "272"
+  },
+  {
+    "code": "27261",
+    "name": "Costo",
+    "parent_code": "2726"
+  },
+  {
+    "code": "27262",
+    "name": "Revaluación",
+    "parent_code": "2726"
+  },
+  {
+    "code": "2727",
+    "name": "Equipos diversos",
+    "parent_code": "272"
+  },
+  {
+    "code": "27271",
+    "name": "Costo",
+    "parent_code": "2727"
+  },
+  {
+    "code": "27272",
+    "name": "Revaluación",
+    "parent_code": "2727"
+  },
+  {
+    "code": "2728",
+    "name": "Herramientas y unidades de reemplazo",
+    "parent_code": "272"
+  },
+  {
+    "code": "27281",
+    "name": "Costo",
+    "parent_code": "2728"
+  },
+  {
+    "code": "27282",
+    "name": "Revaluación",
+    "parent_code": "2728"
+  },
+  {
+    "code": "2729",
+    "name": "Obras en curso",
+    "parent_code": "272"
+  },
+  {
+    "code": "27291",
+    "name": "Costo",
+    "parent_code": "2729"
+  },
+  {
+    "code": "27292",
+    "name": "Revaluación",
+    "parent_code": "2729"
+  },
+  {
+    "code": "273",
+    "name": "Intangibles",
+    "parent_code": "27"
+  },
+  {
+    "code": "2731",
+    "name": "Concesiones, licencias y derechos",
+    "parent_code": "273"
+  },
+  {
+    "code": "27311",
+    "name": "Costo",
+    "parent_code": "2731"
+  },
+  {
+    "code": "27312",
+    "name": "Revaluación",
+    "parent_code": "2731"
+  },
+  {
+    "code": "2732",
+    "name": "Patentes y propiedad industrial",
+    "parent_code": "273"
+  },
+  {
+    "code": "27321",
+    "name": "Costo",
+    "parent_code": "2732"
+  },
+  {
+    "code": "27322",
+    "name": "Revaluación",
+    "parent_code": "2732"
+  },
+  {
+    "code": "2733",
+    "name": "Programas de computadora (software)",
+    "parent_code": "273"
+  },
+  {
+    "code": "27331",
+    "name": "Costo",
+    "parent_code": "2733"
+  },
+  {
+    "code": "27332",
+    "name": "Revaluación",
+    "parent_code": "2733"
+  },
+  {
+    "code": "2734",
+    "name": "Costos de exploración y desarrollo",
+    "parent_code": "273"
+  },
+  {
+    "code": "27341",
+    "name": "Costo",
+    "parent_code": "2734"
+  },
+  {
+    "code": "27342",
+    "name": "Revaluación",
+    "parent_code": "2734"
+  },
+  {
+    "code": "2735",
+    "name": "Fórmulas, diseños y prototipos",
+    "parent_code": "273"
+  },
+  {
+    "code": "27351",
+    "name": "Costo",
+    "parent_code": "2735"
+  },
+  {
+    "code": "27352",
+    "name": "Revaluación",
+    "parent_code": "2735"
+  },
+  {
+    "code": "2739",
+    "name": "Otros activos intangibles",
+    "parent_code": "273"
+  },
+  {
+    "code": "27391",
+    "name": "Costo",
+    "parent_code": "2739"
+  },
+  {
+    "code": "27392",
+    "name": "Revaluación",
+    "parent_code": "2739"
+  },
+  {
+    "code": "274",
+    "name": "Activos biológicos",
+    "parent_code": "27"
+  },
+  {
+    "code": "2741",
+    "name": "Activos biológicos en producción",
+    "parent_code": "274"
+  },
+  {
+    "code": "27411",
+    "name": "Costo",
+    "parent_code": "2741"
+  },
+  {
+    "code": "27413",
+    "name": "Costos de financiación",
+    "parent_code": "2741"
+  },
+  {
+    "code": "27414",
+    "name": "Valor razonable",
+    "parent_code": "2741"
+  },
+  {
+    "code": "2742",
+    "name": "Activos biológicos en desarrollo",
+    "parent_code": "274"
+  },
+  {
+    "code": "27421",
+    "name": "Costo",
+    "parent_code": "2742"
+  },
+  {
+    "code": "27423",
+    "name": "Costos de financiación",
+    "parent_code": "2742"
+  },
+  {
+    "code": "27424",
+    "name": "Valor razonable",
+    "parent_code": "2742"
+  },
+  {
+    "code": "275",
+    "name": "Depreciación acumulada – Propiedades de inversión",
+    "parent_code": "27"
+  },
+  {
+    "code": "2752",
+    "name": "Edificaciones",
+    "parent_code": "275"
+  },
+  {
+    "code": "27521",
+    "name": "Costo",
+    "parent_code": "2752"
+  },
+  {
+    "code": "27522",
+    "name": "Revaluación",
+    "parent_code": "2752"
+  },
+  {
+    "code": "27523",
+    "name": "Costo de financiación",
+    "parent_code": "2752"
+  },
+  {
+    "code": "276",
+    "name": "Depreciación acumulada – Propiedad, planta y equipo",
+    "parent_code": "27"
+  },
+  {
+    "code": "2760",
+    "name": "Planta productora en producción",
+    "parent_code": "276"
+  },
+  {
+    "code": "27601",
+    "name": "Costo",
+    "parent_code": "2760"
+  },
+  {
+    "code": "27602",
+    "name": "Revaluación",
+    "parent_code": "2760"
+  },
+  {
+    "code": "27603",
+    "name": "Costo de financiación",
+    "parent_code": "2760"
+  },
+  {
+    "code": "27604",
+    "name": "Valor razonable",
+    "parent_code": "2760"
+  },
+  {
+    "code": "2762",
+    "name": "Edificaciones",
+    "parent_code": "276"
+  },
+  {
+    "code": "27621",
+    "name": "Costo",
+    "parent_code": "2762"
+  },
+  {
+    "code": "27622",
+    "name": "Revaluación",
+    "parent_code": "2762"
+  },
+  {
+    "code": "27623",
+    "name": "Costo de financiación",
+    "parent_code": "2762"
+  },
+  {
+    "code": "2763",
+    "name": "Maquinarias y equipo de explotación",
+    "parent_code": "276"
+  },
+  {
+    "code": "27631",
+    "name": "Costo",
+    "parent_code": "2763"
+  },
+  {
+    "code": "27632",
+    "name": "Revaluación",
+    "parent_code": "2763"
+  },
+  {
+    "code": "27633",
+    "name": "Costo de financiación",
+    "parent_code": "2763"
+  },
+  {
+    "code": "2764",
+    "name": "Unidades de transporte",
+    "parent_code": "276"
+  },
+  {
+    "code": "27641",
+    "name": "Costo",
+    "parent_code": "2764"
+  },
+  {
+    "code": "27642",
+    "name": "Revaluación",
+    "parent_code": "2764"
+  },
+  {
+    "code": "2765",
+    "name": "Muebles y enseres",
+    "parent_code": "276"
+  },
+  {
+    "code": "27651",
+    "name": "Costo",
+    "parent_code": "2765"
+  },
+  {
+    "code": "27652",
+    "name": "Revaluación",
+    "parent_code": "2765"
+  },
+  {
+    "code": "2766",
+    "name": "Equipos diversos",
+    "parent_code": "276"
+  },
+  {
+    "code": "27661",
+    "name": "Costo",
+    "parent_code": "2766"
+  },
+  {
+    "code": "27662",
+    "name": "Revaluación",
+    "parent_code": "2766"
+  },
+  {
+    "code": "2767",
+    "name": "Herramientas y unidades de reemplazo",
+    "parent_code": "276"
+  },
+  {
+    "code": "27671",
+    "name": "Costo",
+    "parent_code": "2767"
+  },
+  {
+    "code": "27672",
+    "name": "Revaluación",
+    "parent_code": "2767"
+  },
+  {
+    "code": "277",
+    "name": "Amortización acumulada – Intangibles",
+    "parent_code": "27"
+  },
+  {
+    "code": "2771",
+    "name": "Concesiones, licencias y derechos",
+    "parent_code": "277"
+  },
+  {
+    "code": "27711",
+    "name": "Costo",
+    "parent_code": "2771"
+  },
+  {
+    "code": "27712",
+    "name": "Revaluación",
+    "parent_code": "2771"
+  },
+  {
+    "code": "2772",
+    "name": "Patentes y propiedad industrial",
+    "parent_code": "277"
+  },
+  {
+    "code": "27721",
+    "name": "Costo",
+    "parent_code": "2772"
+  },
+  {
+    "code": "27722",
+    "name": "Revaluación",
+    "parent_code": "2772"
+  },
+  {
+    "code": "2773",
+    "name": "Programas de computadora (software)",
+    "parent_code": "277"
+  },
+  {
+    "code": "27731",
+    "name": "Costo",
+    "parent_code": "2773"
+  },
+  {
+    "code": "27732",
+    "name": "Revaluación",
+    "parent_code": "2773"
+  },
+  {
+    "code": "2774",
+    "name": "Costos de exploración y desarrollo",
+    "parent_code": "277"
+  },
+  {
+    "code": "27741",
+    "name": "Costo",
+    "parent_code": "2774"
+  },
+  {
+    "code": "27742",
+    "name": "Revaluación",
+    "parent_code": "2774"
+  },
+  {
+    "code": "2775",
+    "name": "Fórmulas, diseños y prototipos",
+    "parent_code": "277"
+  },
+  {
+    "code": "27751",
+    "name": "Costo",
+    "parent_code": "2775"
+  },
+  {
+    "code": "27752",
+    "name": "Revaluación",
+    "parent_code": "2775"
+  },
+  {
+    "code": "2779",
+    "name": "Otros activos intangibles",
+    "parent_code": "277"
+  },
+  {
+    "code": "27791",
+    "name": "Costo",
+    "parent_code": "2779"
+  },
+  {
+    "code": "27792",
+    "name": "Revaluación",
+    "parent_code": "2779"
+  },
+  {
+    "code": "278",
+    "name": "Depreciación acumulada – Activos biológicos",
+    "parent_code": "27"
+  },
+  {
+    "code": "2781",
+    "name": "Activos biológicos en producción",
+    "parent_code": "278"
+  },
+  {
+    "code": "27811",
+    "name": "Costo",
+    "parent_code": "2781"
+  },
+  {
+    "code": "27813",
+    "name": "Costo de financiación",
+    "parent_code": "2781"
+  },
+  {
+    "code": "2782",
+    "name": "Activos biológicos en desarrollo",
+    "parent_code": "278"
+  },
+  {
+    "code": "27821",
+    "name": "Costo",
+    "parent_code": "2782"
+  },
+  {
+    "code": "27823",
+    "name": "Costo de financiación",
+    "parent_code": "2782"
+  },
+  {
+    "code": "279",
+    "name": "Desvalorización acumulada",
+    "parent_code": "27"
+  },
+  {
+    "code": "2791",
+    "name": "Propiedad de inversión",
+    "parent_code": "279"
+  },
+  {
+    "code": "27910",
+    "name": "Planta productora en producción",
+    "parent_code": "2791"
+  },
+  {
+    "code": "27911",
+    "name": "Planta productora en desarrollo",
+    "parent_code": "2791"
+  },
+  {
+    "code": "27912",
+    "name": "Terrenos",
+    "parent_code": "2791"
+  },
+  {
+    "code": "27913",
+    "name": "Edificaciones",
+    "parent_code": "2791"
+  },
+  {
+    "code": "2793",
+    "name": "Propiedad, planta y equipo",
+    "parent_code": "279"
+  },
+  {
+    "code": "27930",
+    "name": "Plantas productoras en producción",
+    "parent_code": "2793"
+  },
+  {
+    "code": "27931",
+    "name": "Planta productora en desarrollo",
+    "parent_code": "2793"
+  },
+  {
+    "code": "27932",
+    "name": "Terrenos",
+    "parent_code": "2793"
+  },
+  {
+    "code": "27933",
+    "name": "Edificaciones",
+    "parent_code": "2793"
+  },
+  {
+    "code": "27934",
+    "name": "Maquinarias y equipos de explotación",
+    "parent_code": "2793"
+  },
+  {
+    "code": "27935",
+    "name": "Unidades de transporte",
+    "parent_code": "2793"
+  },
+  {
+    "code": "27936",
+    "name": "Muebles y enseres",
+    "parent_code": "2793"
+  },
+  {
+    "code": "27937",
+    "name": "Equipos diversos",
+    "parent_code": "2793"
+  },
+  {
+    "code": "27938",
+    "name": "Herramientas y unidades de reemplazo",
+    "parent_code": "2793"
+  },
+  {
+    "code": "2794",
+    "name": "Intangibles",
+    "parent_code": "279"
+  },
+  {
+    "code": "27941",
+    "name": "Concesiones, licencias y otros derechos",
+    "parent_code": "2794"
+  },
+  {
+    "code": "27942",
+    "name": "Patentes y propiedad industrial",
+    "parent_code": "2794"
+  },
+  {
+    "code": "27943",
+    "name": "Programas de computadora (software)",
+    "parent_code": "2794"
+  },
+  {
+    "code": "27944",
+    "name": "Costos de exploración y desarrollo",
+    "parent_code": "2794"
+  },
+  {
+    "code": "27945",
+    "name": "Fórmulas, diseños y prototipos",
+    "parent_code": "2794"
+  },
+  {
+    "code": "27949",
+    "name": "Otros activos intangibles",
+    "parent_code": "2794"
+  },
+  {
+    "code": "2795",
+    "name": "Activos biológicos",
+    "parent_code": "279"
+  },
+  {
+    "code": "27951",
+    "name": "Activos biológicos en producción",
+    "parent_code": "2795"
+  },
+  {
+    "code": "27952",
+    "name": "Activos biológicos en desarrollo",
+    "parent_code": "2795"
+  },
+  {
+    "code": "28",
+    "name": "INVENTARIOS POR RECIBIR",
+    "parent_code": "2"
+  },
+  {
+    "code": "281",
+    "name": "Mercaderías",
+    "parent_code": "28"
+  },
+  {
+    "code": "284",
+    "name": "Materias primas",
+    "parent_code": "28"
+  },
+  {
+    "code": "285",
+    "name": "Materiales auxiliares, suministros y repuestos",
+    "parent_code": "28"
+  },
+  {
+    "code": "286",
+    "name": "Envases y embalajes",
+    "parent_code": "28"
+  },
+  {
+    "code": "29",
+    "name": "DESVALORIZACIÓN DE INVENTARIOS",
+    "parent_code": "2"
+  },
+  {
+    "code": "291",
+    "name": "Mercaderías",
+    "parent_code": "29"
+  },
+  {
+    "code": "2911",
+    "name": "Mercaderías",
+    "parent_code": "291"
+  },
+  {
+    "code": "29111",
+    "name": "Costo",
+    "parent_code": "2911"
+  },
+  {
+    "code": "292",
+    "name": "Productos terminados",
+    "parent_code": "29"
+  },
+  {
+    "code": "2921",
+    "name": "Productos terminados",
+    "parent_code": "292"
+  },
+  {
+    "code": "29211",
+    "name": "Costo",
+    "parent_code": "2921"
+  },
+  {
+    "code": "29213",
+    "name": "Costo de financiación",
+    "parent_code": "2921"
+  },
+  {
+    "code": "2925",
+    "name": "Inventario de servicios terminados",
+    "parent_code": "292"
+  },
+  {
+    "code": "29251",
+    "name": "Costo",
+    "parent_code": "2925"
+  },
+  {
+    "code": "293",
+    "name": "Subproductos, desechos y desperdicios",
+    "parent_code": "29"
+  },
+  {
+    "code": "2931",
+    "name": "Subproductos",
+    "parent_code": "293"
+  },
+  {
+    "code": "2932",
+    "name": "Desechos y desperdicios",
+    "parent_code": "293"
+  },
+  {
+    "code": "294",
+    "name": "Productos en proceso",
+    "parent_code": "29"
+  },
+  {
+    "code": "2941",
+    "name": "Productos en proceso",
+    "parent_code": "294"
+  },
+  {
+    "code": "29411",
+    "name": "Costo",
+    "parent_code": "2941"
+  },
+  {
+    "code": "29413",
+    "name": "Costo de financiación",
+    "parent_code": "2941"
+  },
+  {
+    "code": "2945",
+    "name": "Inventario de servicios en proceso",
+    "parent_code": "294"
+  },
+  {
+    "code": "295",
+    "name": "Materias primas",
+    "parent_code": "29"
+  },
+  {
+    "code": "2951",
+    "name": "Materias primas",
+    "parent_code": "295"
+  },
+  {
+    "code": "29511",
+    "name": "Costo",
+    "parent_code": "2951"
+  },
+  {
+    "code": "296",
+    "name": "Materiales auxiliares, suministros y repuestos",
+    "parent_code": "29"
+  },
+  {
+    "code": "2961",
+    "name": "Materiales auxiliares",
+    "parent_code": "296"
+  },
+  {
+    "code": "2962",
+    "name": "Suministros",
+    "parent_code": "296"
+  },
+  {
+    "code": "2963",
+    "name": "Repuestos",
+    "parent_code": "296"
+  },
+  {
+    "code": "297",
+    "name": "Envases y embalajes",
+    "parent_code": "29"
+  },
+  {
+    "code": "2971",
+    "name": "Envases",
+    "parent_code": "297"
+  },
+  {
+    "code": "2972",
+    "name": "Embalajes",
+    "parent_code": "297"
+  },
+  {
+    "code": "298",
+    "name": "Existencias por recibir",
+    "parent_code": "29"
+  },
+  {
+    "code": "2981",
+    "name": "Mercaderías",
+    "parent_code": "298"
+  },
+  {
+    "code": "2982",
+    "name": "Materias primas",
+    "parent_code": "298"
+  },
+  {
+    "code": "2983",
+    "name": "Materiales auxiliares, suministros y repuestos",
+    "parent_code": "298"
+  },
+  {
+    "code": "2984",
+    "name": "Envases y embalajes",
+    "parent_code": "298"
+  },
+  {
+    "code": "3",
+    "name": "ACTIVO INMOVILIZADO",
+    "parent_code": null
+  },
+  {
+    "code": "30",
+    "name": "INVERSIONES MOBILIARIAS",
+    "parent_code": "3"
+  },
+  {
+    "code": "301",
+    "name": "Inversiones a ser mantenidas hasta el vencimiento",
+    "parent_code": "30"
+  },
+  {
+    "code": "3011",
+    "name": "Instrumentos financieros representativos de deuda",
+    "parent_code": "301"
+  },
+  {
+    "code": "302",
+    "name": "Instrumentos financieros representativos de derecho patrimonial",
+    "parent_code": "30"
+  },
+  {
+    "code": "3021",
+    "name": "Certificados de suscripción preferente",
+    "parent_code": "302"
+  },
+  {
+    "code": "3022",
+    "name": "Acciones representativas de capital social – Comunes",
+    "parent_code": "302"
+  },
+  {
+    "code": "30221",
+    "name": "Costo",
+    "parent_code": "3022"
+  },
+  {
+    "code": "30224",
+    "name": "Valor razonable",
+    "parent_code": "3022"
+  },
+  {
+    "code": "30225",
+    "name": "Participación patrimonial",
+    "parent_code": "3022"
+  },
+  {
+    "code": "3023",
+    "name": "Acciones representativas de capital social – Preferentes",
+    "parent_code": "302"
+  },
+  {
+    "code": "30231",
+    "name": "Costo",
+    "parent_code": "3023"
+  },
+  {
+    "code": "30234",
+    "name": "Valor razonable",
+    "parent_code": "3023"
+  },
+  {
+    "code": "30235",
+    "name": "Participación patrimonial",
+    "parent_code": "3023"
+  },
+  {
+    "code": "3024",
+    "name": "Acciones de inversión",
+    "parent_code": "302"
+  },
+  {
+    "code": "30241",
+    "name": "Costo",
+    "parent_code": "3024"
+  },
+  {
+    "code": "30244",
+    "name": "Valor razonable",
+    "parent_code": "3024"
+  },
+  {
+    "code": "30245",
+    "name": "Participación patrimonial",
+    "parent_code": "3024"
+  },
+  {
+    "code": "3028",
+    "name": "Otros títulos representativos de patrimonio",
+    "parent_code": "302"
+  },
+  {
+    "code": "30281",
+    "name": "Costo",
+    "parent_code": "3028"
+  },
+  {
+    "code": "30284",
+    "name": "Valor razonable",
+    "parent_code": "3028"
+  },
+  {
+    "code": "30285",
+    "name": "Participación patrimonial",
+    "parent_code": "3028"
+  },
+  {
+    "code": "303",
+    "name": "Certificados de participación en fondos - Cuotas",
+    "parent_code": "30"
+  },
+  {
+    "code": "3031",
+    "name": "Fondos de inversión",
+    "parent_code": "303"
+  },
+  {
+    "code": "30311",
+    "name": "Costo",
+    "parent_code": "3031"
+  },
+  {
+    "code": "30314",
+    "name": "Valor razonable",
+    "parent_code": "3031"
+  },
+  {
+    "code": "3032",
+    "name": "Fondos mutuos",
+    "parent_code": "303"
+  },
+  {
+    "code": "30321",
+    "name": "Costo",
+    "parent_code": "3032"
+  },
+  {
+    "code": "30324",
+    "name": "Valor razonable",
+    "parent_code": "3032"
+  },
+  {
+    "code": "304",
+    "name": "Participaciones en acuerdos conjuntos",
+    "parent_code": "30"
+  },
+  {
+    "code": "3041",
+    "name": "Operaciones conjuntas",
+    "parent_code": "304"
+  },
+  {
+    "code": "30411",
+    "name": "Costo",
+    "parent_code": "3041"
+  },
+  {
+    "code": "30414",
+    "name": "Valor razonable",
+    "parent_code": "3041"
+  },
+  {
+    "code": "30415",
+    "name": "Participación patrimonial",
+    "parent_code": "3041"
+  },
+  {
+    "code": "3042",
+    "name": "Negocios conjuntos",
+    "parent_code": "304"
+  },
+  {
+    "code": "30421",
+    "name": "Costo",
+    "parent_code": "3042"
+  },
+  {
+    "code": "30424",
+    "name": "Valor razonable",
+    "parent_code": "3042"
+  },
+  {
+    "code": "30425",
+    "name": "Participación patrimonial",
+    "parent_code": "3042"
+  },
+  {
+    "code": "308",
+    "name": "Inversiones mobiliarias – Acuerdos de compra",
+    "parent_code": "30"
+  },
+  {
+    "code": "3081",
+    "name": "Instrumentos financieros representativos de deuda – Acuerdo de compra",
+    "parent_code": "308"
+  },
+  {
+    "code": "30811",
+    "name": "Costo",
+    "parent_code": "3081"
+  },
+  {
+    "code": "30814",
+    "name": "Valor razonable",
+    "parent_code": "3081"
+  },
+  {
+    "code": "3082",
+    "name": "Instrumentos financieros representativos de derecho patrimonial – Acuerdo de compra",
+    "parent_code": "308"
+  },
+  {
+    "code": "30821",
+    "name": "Costo",
+    "parent_code": "3082"
+  },
+  {
+    "code": "30824",
+    "name": "Valor razonable",
+    "parent_code": "3082"
+  },
+  {
+    "code": "31",
+    "name": "PROPIEDADES DE INVERSIÓN",
+    "parent_code": "3"
+  },
+  {
+    "code": "311",
+    "name": "Terrenos",
+    "parent_code": "31"
+  },
+  {
+    "code": "3111",
+    "name": "Urbanos",
+    "parent_code": "311"
+  },
+  {
+    "code": "31111",
+    "name": "Costo",
+    "parent_code": "3111"
+  },
+  {
+    "code": "31112",
+    "name": "Revaluación",
+    "parent_code": "3111"
+  },
+  {
+    "code": "31114",
+    "name": "Valor razonable",
+    "parent_code": "3111"
+  },
+  {
+    "code": "3112",
+    "name": "Rurales",
+    "parent_code": "311"
+  },
+  {
+    "code": "31121",
+    "name": "Costo",
+    "parent_code": "3112"
+  },
+  {
+    "code": "31122",
+    "name": "Revaluación",
+    "parent_code": "3112"
+  },
+  {
+    "code": "31124",
+    "name": "Valor razonable",
+    "parent_code": "3112"
+  },
+  {
+    "code": "312",
+    "name": "Edificaciones",
+    "parent_code": "31"
+  },
+  {
+    "code": "3121",
+    "name": "Edificaciones",
+    "parent_code": "312"
+  },
+  {
+    "code": "31211",
+    "name": "Costo",
+    "parent_code": "3121"
+  },
+  {
+    "code": "31212",
+    "name": "Revaluación",
+    "parent_code": "3121"
+  },
+  {
+    "code": "31213",
+    "name": "Costos de financiación",
+    "parent_code": "3121"
+  },
+  {
+    "code": "31214",
+    "name": "Valor razonable",
+    "parent_code": "3121"
+  },
+  {
+    "code": "313",
+    "name": "Construcciones en curso",
+    "parent_code": "31"
+  },
+  {
+    "code": "3131",
+    "name": "Edificaciones",
+    "parent_code": "313"
+  },
+  {
+    "code": "31311",
+    "name": "Costo",
+    "parent_code": "3131"
+  },
+  {
+    "code": "31312",
+    "name": "Revaluación",
+    "parent_code": "3131"
+  },
+  {
+    "code": "31313",
+    "name": "Costos de financiación",
+    "parent_code": "3131"
+  },
+  {
+    "code": "31314",
+    "name": "Valor razonable",
+    "parent_code": "3131"
+  },
+  {
+    "code": "32",
+    "name": "ACTIVOS POR DERECHO DE USO",
+    "parent_code": "3"
+  },
+  {
+    "code": "321",
+    "name": "Propiedades de inversión - Arrendamiento financiero",
+    "parent_code": "32"
+  },
+  {
+    "code": "3211",
+    "name": "Terrenos",
+    "parent_code": "321"
+  },
+  {
+    "code": "32111",
+    "name": "Costo",
+    "parent_code": "3211"
+  },
+  {
+    "code": "32112",
+    "name": "Revaluación",
+    "parent_code": "3211"
+  },
+  {
+    "code": "32114",
+    "name": "Valor razonable",
+    "parent_code": "3211"
+  },
+  {
+    "code": "3212",
+    "name": "Edificaciones",
+    "parent_code": "321"
+  },
+  {
+    "code": "32121",
+    "name": "Costo",
+    "parent_code": "3212"
+  },
+  {
+    "code": "32122",
+    "name": "Revaluación",
+    "parent_code": "3212"
+  },
+  {
+    "code": "32123",
+    "name": "Costo de financiación",
+    "parent_code": "3212"
+  },
+  {
+    "code": "32124",
+    "name": "Valor razonable",
+    "parent_code": "3212"
+  },
+  {
+    "code": "322",
+    "name": "Propiedad, planta y equipo - Arrendamiento financiero",
+    "parent_code": "32"
+  },
+  {
+    "code": "3220",
+    "name": "Planta productora en producción",
+    "parent_code": "322"
+  },
+  {
+    "code": "32201",
+    "name": "Costo",
+    "parent_code": "3220"
+  },
+  {
+    "code": "32202",
+    "name": "Revaluación",
+    "parent_code": "3220"
+  },
+  {
+    "code": "32203",
+    "name": "Costo de financiación",
+    "parent_code": "3220"
+  },
+  {
+    "code": "3221",
+    "name": "Planta productora en desarrollo",
+    "parent_code": "322"
+  },
+  {
+    "code": "32211",
+    "name": "Costo",
+    "parent_code": "3221"
+  },
+  {
+    "code": "32212",
+    "name": "Revaluación",
+    "parent_code": "3221"
+  },
+  {
+    "code": "32213",
+    "name": "Costo de financiación",
+    "parent_code": "3221"
+  },
+  {
+    "code": "3222",
+    "name": "Terrenos",
+    "parent_code": "322"
+  },
+  {
+    "code": "32221",
+    "name": "Costo",
+    "parent_code": "3222"
+  },
+  {
+    "code": "32222",
+    "name": "Revaluación",
+    "parent_code": "3222"
+  },
+  {
+    "code": "3223",
+    "name": "Edificaciones",
+    "parent_code": "322"
+  },
+  {
+    "code": "32231",
+    "name": "Costo",
+    "parent_code": "3223"
+  },
+  {
+    "code": "32232",
+    "name": "Revaluación",
+    "parent_code": "3223"
+  },
+  {
+    "code": "32233",
+    "name": "Costo de financiación",
+    "parent_code": "3223"
+  },
+  {
+    "code": "3224",
+    "name": "Maquinaria y equipo de explotación",
+    "parent_code": "322"
+  },
+  {
+    "code": "32241",
+    "name": "Costo",
+    "parent_code": "3224"
+  },
+  {
+    "code": "32242",
+    "name": "Revaluación",
+    "parent_code": "3224"
+  },
+  {
+    "code": "32243",
+    "name": "Costo de financiación",
+    "parent_code": "3224"
+  },
+  {
+    "code": "3225",
+    "name": "Unidades de transporte",
+    "parent_code": "322"
+  },
+  {
+    "code": "32251",
+    "name": "Costo",
+    "parent_code": "3225"
+  },
+  {
+    "code": "32252",
+    "name": "Revaluación",
+    "parent_code": "3225"
+  },
+  {
+    "code": "3226",
+    "name": "Muebles y enseres",
+    "parent_code": "322"
+  },
+  {
+    "code": "32261",
+    "name": "Costo",
+    "parent_code": "3226"
+  },
+  {
+    "code": "32262",
+    "name": "Revaluación",
+    "parent_code": "3226"
+  },
+  {
+    "code": "3227",
+    "name": "Equipos diversos",
+    "parent_code": "322"
+  },
+  {
+    "code": "32271",
+    "name": "Costo",
+    "parent_code": "3227"
+  },
+  {
+    "code": "32272",
+    "name": "Revaluación",
+    "parent_code": "3227"
+  },
+  {
+    "code": "3228",
+    "name": "Herramientas y unidades de reemplazo",
+    "parent_code": "322"
+  },
+  {
+    "code": "32281",
+    "name": "Costo",
+    "parent_code": "3228"
+  },
+  {
+    "code": "32282",
+    "name": "Revaluación",
+    "parent_code": "3228"
+  },
+  {
+    "code": "323",
+    "name": "Propiedad, planta y equipo - Arrendamiento operativo",
+    "parent_code": "32"
+  },
+  {
+    "code": "3230",
+    "name": "Planta productora en producción",
+    "parent_code": "323"
+  },
+  {
+    "code": "32301",
+    "name": "Costo",
+    "parent_code": "3230"
+  },
+  {
+    "code": "32302",
+    "name": "Revaluación",
+    "parent_code": "3230"
+  },
+  {
+    "code": "3232",
+    "name": "Terrenos",
+    "parent_code": "323"
+  },
+  {
+    "code": "32321",
+    "name": "Costo",
+    "parent_code": "3232"
+  },
+  {
+    "code": "3233",
+    "name": "Edificaciones",
+    "parent_code": "323"
+  },
+  {
+    "code": "32331",
+    "name": "Costo",
+    "parent_code": "3233"
+  },
+  {
+    "code": "32332",
+    "name": "Revaluación",
+    "parent_code": "3233"
+  },
+  {
+    "code": "3234",
+    "name": "Maquinaria y equipo de explotación",
+    "parent_code": "323"
+  },
+  {
+    "code": "32341",
+    "name": "Costo",
+    "parent_code": "3234"
+  },
+  {
+    "code": "32342",
+    "name": "Revaluación",
+    "parent_code": "3234"
+  },
+  {
+    "code": "3235",
+    "name": "Unidades de transporte",
+    "parent_code": "323"
+  },
+  {
+    "code": "32351",
+    "name": "Costo",
+    "parent_code": "3235"
+  },
+  {
+    "code": "32352",
+    "name": "Revaluación",
+    "parent_code": "3235"
+  },
+  {
+    "code": "3236",
+    "name": "Equipos diversos",
+    "parent_code": "323"
+  },
+  {
+    "code": "32361",
+    "name": "Costo",
+    "parent_code": "3236"
+  },
+  {
+    "code": "32362",
+    "name": "Revaluación",
+    "parent_code": "3236"
+  },
+  {
+    "code": "33",
+    "name": "PROPIEDAD, PLANTA Y EQUIPO",
+    "parent_code": "3"
+  },
+  {
+    "code": "330",
+    "name": "Planta productora",
+    "parent_code": "33"
+  },
+  {
+    "code": "3301",
+    "name": "Planta productora en producción",
+    "parent_code": "330"
+  },
+  {
+    "code": "33011",
+    "name": "Costo",
+    "parent_code": "3301"
+  },
+  {
+    "code": "33012",
+    "name": "Revaluación",
+    "parent_code": "3301"
+  },
+  {
+    "code": "33013",
+    "name": "Costo de financiación",
+    "parent_code": "3301"
+  },
+  {
+    "code": "33014",
+    "name": "Valor razonable",
+    "parent_code": "3301"
+  },
+  {
+    "code": "3302",
+    "name": "Planta productora en desarrollo",
+    "parent_code": "330"
+  },
+  {
+    "code": "33021",
+    "name": "Costo",
+    "parent_code": "3302"
+  },
+  {
+    "code": "33022",
+    "name": "Revaluación",
+    "parent_code": "3302"
+  },
+  {
+    "code": "33023",
+    "name": "Costo de financiación",
+    "parent_code": "3302"
+  },
+  {
+    "code": "33024",
+    "name": "Valor razonable",
+    "parent_code": "3302"
+  },
+  {
+    "code": "331",
+    "name": "Terrenos",
+    "parent_code": "33"
+  },
+  {
+    "code": "3311",
+    "name": "Terrenos",
+    "parent_code": "331"
+  },
+  {
+    "code": "33111",
+    "name": "Costo",
+    "parent_code": "3311"
+  },
+  {
+    "code": "33112",
+    "name": "Revaluación",
+    "parent_code": "3311"
+  },
+  {
+    "code": "332",
+    "name": "Edificaciones",
+    "parent_code": "33"
+  },
+  {
+    "code": "3321",
+    "name": "Edificaciones",
+    "parent_code": "332"
+  },
+  {
+    "code": "33211",
+    "name": "Costo",
+    "parent_code": "3321"
+  },
+  {
+    "code": "33212",
+    "name": "Revaluación",
+    "parent_code": "3321"
+  },
+  {
+    "code": "33213",
+    "name": "Costo de financiación",
+    "parent_code": "3321"
+  },
+  {
+    "code": "3324",
+    "name": "Instalaciones",
+    "parent_code": "332"
+  },
+  {
+    "code": "33241",
+    "name": "Costo",
+    "parent_code": "3324"
+  },
+  {
+    "code": "33242",
+    "name": "Revaluación",
+    "parent_code": "3324"
+  },
+  {
+    "code": "33243",
+    "name": "Costo de financiación",
+    "parent_code": "3324"
+  },
+  {
+    "code": "3325",
+    "name": "Mejoras en locales arrendados.",
+    "parent_code": "332"
+  },
+  {
+    "code": "33251",
+    "name": "Costo",
+    "parent_code": "3325"
+  },
+  {
+    "code": "33252",
+    "name": "Revaluación",
+    "parent_code": "3325"
+  },
+  {
+    "code": "33253",
+    "name": "Costo de Financiación",
+    "parent_code": "3325"
+  },
+  {
+    "code": "333",
+    "name": "Maquinaria y equipo de explotación",
+    "parent_code": "33"
+  },
+  {
+    "code": "3331",
+    "name": "Maquinaria y equipo de explotación",
+    "parent_code": "333"
+  },
+  {
+    "code": "33311",
+    "name": "Costo",
+    "parent_code": "3331"
+  },
+  {
+    "code": "33312",
+    "name": "Revaluación",
+    "parent_code": "3331"
+  },
+  {
+    "code": "33313",
+    "name": "Costo de financiación",
+    "parent_code": "3331"
+  },
+  {
+    "code": "334",
+    "name": "Unidades de transporte",
+    "parent_code": "33"
+  },
+  {
+    "code": "3341",
+    "name": "Vehículos motorizados",
+    "parent_code": "334"
+  },
+  {
+    "code": "33411",
+    "name": "Costo",
+    "parent_code": "3341"
+  },
+  {
+    "code": "33412",
+    "name": "Revaluación",
+    "parent_code": "3341"
+  },
+  {
+    "code": "3342",
+    "name": "Vehículos no motorizados",
+    "parent_code": "334"
+  },
+  {
+    "code": "33421",
+    "name": "Costo",
+    "parent_code": "3342"
+  },
+  {
+    "code": "33422",
+    "name": "Revaluación",
+    "parent_code": "3342"
+  },
+  {
+    "code": "335",
+    "name": "Muebles y enseres",
+    "parent_code": "33"
+  },
+  {
+    "code": "3351",
+    "name": "Muebles",
+    "parent_code": "335"
+  },
+  {
+    "code": "33511",
+    "name": "Costo",
+    "parent_code": "3351"
+  },
+  {
+    "code": "33512",
+    "name": "Revaluación",
+    "parent_code": "3351"
+  },
+  {
+    "code": "3352",
+    "name": "Enseres",
+    "parent_code": "335"
+  },
+  {
+    "code": "33521",
+    "name": "Costo",
+    "parent_code": "3352"
+  },
+  {
+    "code": "33522",
+    "name": "Revaluación",
+    "parent_code": "3352"
+  },
+  {
+    "code": "336",
+    "name": "Equipos diversos",
+    "parent_code": "33"
+  },
+  {
+    "code": "3361",
+    "name": "Equipo para procesamiento de información",
+    "parent_code": "336"
+  },
+  {
+    "code": "33611",
+    "name": "Costo",
+    "parent_code": "3361"
+  },
+  {
+    "code": "33612",
+    "name": "Revaluación",
+    "parent_code": "3361"
+  },
+  {
+    "code": "3362",
+    "name": "Equipo de comunicación",
+    "parent_code": "336"
+  },
+  {
+    "code": "33621",
+    "name": "Costo",
+    "parent_code": "3362"
+  },
+  {
+    "code": "33622",
+    "name": "Revaluación",
+    "parent_code": "3362"
+  },
+  {
+    "code": "3363",
+    "name": "Equipo de seguridad",
+    "parent_code": "336"
+  },
+  {
+    "code": "33631",
+    "name": "Costo",
+    "parent_code": "3363"
+  },
+  {
+    "code": "33632",
+    "name": "Revaluación",
+    "parent_code": "3363"
+  },
+  {
+    "code": "3364",
+    "name": "Equipo de medio ambiente",
+    "parent_code": "336"
+  },
+  {
+    "code": "33641",
+    "name": "Costo",
+    "parent_code": "3364"
+  },
+  {
+    "code": "33642",
+    "name": "Revaluación",
+    "parent_code": "3364"
+  },
+  {
+    "code": "3369",
+    "name": "Otros equipos",
+    "parent_code": "336"
+  },
+  {
+    "code": "33691",
+    "name": "Costo",
+    "parent_code": "3369"
+  },
+  {
+    "code": "33692",
+    "name": "Revaluación",
+    "parent_code": "3369"
+  },
+  {
+    "code": "337",
+    "name": "Herramientas y unidades de reemplazo",
+    "parent_code": "33"
+  },
+  {
+    "code": "3371",
+    "name": "Herramientas",
+    "parent_code": "337"
+  },
+  {
+    "code": "33711",
+    "name": "Costo",
+    "parent_code": "3371"
+  },
+  {
+    "code": "33712",
+    "name": "Revaluación",
+    "parent_code": "3371"
+  },
+  {
+    "code": "3372",
+    "name": "Unidades de reemplazo",
+    "parent_code": "337"
+  },
+  {
+    "code": "33721",
+    "name": "Costo",
+    "parent_code": "3372"
+  },
+  {
+    "code": "33722",
+    "name": "Revaluación",
+    "parent_code": "3372"
+  },
+  {
+    "code": "338",
+    "name": "Unidades por recibir",
+    "parent_code": "33"
+  },
+  {
+    "code": "3381",
+    "name": "Maquinaria y equipo de explotación",
+    "parent_code": "338"
+  },
+  {
+    "code": "3382",
+    "name": "Equipo de transporte",
+    "parent_code": "338"
+  },
+  {
+    "code": "3383",
+    "name": "Muebles y enseres",
+    "parent_code": "338"
+  },
+  {
+    "code": "3386",
+    "name": "Equipos diversos",
+    "parent_code": "338"
+  },
+  {
+    "code": "3387",
+    "name": "Herramientas y unidades de reemplazo",
+    "parent_code": "338"
+  },
+  {
+    "code": "339",
+    "name": "Obras en curso",
+    "parent_code": "33"
+  },
+  {
+    "code": "3391",
+    "name": "Adecuación de terrenos",
+    "parent_code": "339"
+  },
+  {
+    "code": "3392",
+    "name": "Edificaciones en curso",
+    "parent_code": "339"
+  },
+  {
+    "code": "33921",
+    "name": "Costo",
+    "parent_code": "3392"
+  },
+  {
+    "code": "33922",
+    "name": "Costo de financiación",
+    "parent_code": "3392"
+  },
+  {
+    "code": "3393",
+    "name": "Maquinaria en montaje",
+    "parent_code": "339"
+  },
+  {
+    "code": "33931",
+    "name": "Costo",
+    "parent_code": "3393"
+  },
+  {
+    "code": "33932",
+    "name": "Costo de financiación",
+    "parent_code": "3393"
+  },
+  {
+    "code": "34",
+    "name": "INTANGIBLES",
+    "parent_code": "3"
+  },
+  {
+    "code": "341",
+    "name": "Concesiones, licencias y otros derechos",
+    "parent_code": "34"
+  },
+  {
+    "code": "3411",
+    "name": "Derechos por concesiones",
+    "parent_code": "341"
+  },
+  {
+    "code": "34111",
+    "name": "Costo",
+    "parent_code": "3411"
+  },
+  {
+    "code": "34112",
+    "name": "Revaluación",
+    "parent_code": "3411"
+  },
+  {
+    "code": "3412",
+    "name": "Licencias",
+    "parent_code": "341"
+  },
+  {
+    "code": "34121",
+    "name": "Costo",
+    "parent_code": "3412"
+  },
+  {
+    "code": "34122",
+    "name": "Revaluación",
+    "parent_code": "3412"
+  },
+  {
+    "code": "3419",
+    "name": "Otros derechos",
+    "parent_code": "341"
+  },
+  {
+    "code": "34191",
+    "name": "Costo",
+    "parent_code": "3419"
+  },
+  {
+    "code": "34192",
+    "name": "Revaluación",
+    "parent_code": "3419"
+  },
+  {
+    "code": "342",
+    "name": "Patentes y propiedad industrial",
+    "parent_code": "34"
+  },
+  {
+    "code": "3421",
+    "name": "Patentes",
+    "parent_code": "342"
+  },
+  {
+    "code": "34211",
+    "name": "Costo",
+    "parent_code": "3421"
+  },
+  {
+    "code": "34212",
+    "name": "Revaluación",
+    "parent_code": "3421"
+  },
+  {
+    "code": "3422",
+    "name": "Marcas",
+    "parent_code": "342"
+  },
+  {
+    "code": "34221",
+    "name": "Costo",
+    "parent_code": "3422"
+  },
+  {
+    "code": "34222",
+    "name": "Revaluación",
+    "parent_code": "3422"
+  },
+  {
+    "code": "343",
+    "name": "Programas de computadora ( software )",
+    "parent_code": "34"
+  },
+  {
+    "code": "3431",
+    "name": "Aplicaciones informáticas",
+    "parent_code": "343"
+  },
+  {
+    "code": "34311",
+    "name": "Costo",
+    "parent_code": "3431"
+  },
+  {
+    "code": "34312",
+    "name": "Revaluación",
+    "parent_code": "3431"
+  },
+  {
+    "code": "344",
+    "name": "Costos de exploración y desarrollo",
+    "parent_code": "34"
+  },
+  {
+    "code": "3441",
+    "name": "Costos de exploración",
+    "parent_code": "344"
+  },
+  {
+    "code": "34411",
+    "name": "Costo",
+    "parent_code": "3441"
+  },
+  {
+    "code": "34412",
+    "name": "Revaluación",
+    "parent_code": "3441"
+  },
+  {
+    "code": "34413",
+    "name": "Costo de financiación",
+    "parent_code": "3441"
+  },
+  {
+    "code": "3442",
+    "name": "Costos de desarrollo",
+    "parent_code": "344"
+  },
+  {
+    "code": "34421",
+    "name": "Costo",
+    "parent_code": "3442"
+  },
+  {
+    "code": "34422",
+    "name": "Revaluación",
+    "parent_code": "3442"
+  },
+  {
+    "code": "34423",
+    "name": "Costo de financiación",
+    "parent_code": "3442"
+  },
+  {
+    "code": "345",
+    "name": "Fórmulas, diseños y prototipos",
+    "parent_code": "34"
+  },
+  {
+    "code": "3451",
+    "name": "Fórmulas",
+    "parent_code": "345"
+  },
+  {
+    "code": "34511",
+    "name": "Costo",
+    "parent_code": "3451"
+  },
+  {
+    "code": "34512",
+    "name": "Revaluación",
+    "parent_code": "3451"
+  },
+  {
+    "code": "3452",
+    "name": "Diseños y prototipos",
+    "parent_code": "345"
+  },
+  {
+    "code": "34521",
+    "name": "Costo",
+    "parent_code": "3452"
+  },
+  {
+    "code": "34522",
+    "name": "Revaluación",
+    "parent_code": "3452"
+  },
+  {
+    "code": "347",
+    "name": "Plusvalía mercantil",
+    "parent_code": "34"
+  },
+  {
+    "code": "3471",
+    "name": "Plusvalía mercantil",
+    "parent_code": "347"
+  },
+  {
+    "code": "349",
+    "name": "Otros activos intangibles",
+    "parent_code": "34"
+  },
+  {
+    "code": "3491",
+    "name": "Otros activos intangibles",
+    "parent_code": "349"
+  },
+  {
+    "code": "34911",
+    "name": "Costo",
+    "parent_code": "3491"
+  },
+  {
+    "code": "34912",
+    "name": "Revaluación",
+    "parent_code": "3491"
+  },
+  {
+    "code": "35",
+    "name": "ACTIVOS BIOLÓGICOS",
+    "parent_code": "3"
+  },
+  {
+    "code": "351",
+    "name": "Activos biológicos en producción",
+    "parent_code": "35"
+  },
+  {
+    "code": "3511",
+    "name": "De origen animal",
+    "parent_code": "351"
+  },
+  {
+    "code": "35111",
+    "name": "Costo",
+    "parent_code": "3511"
+  },
+  {
+    "code": "35113",
+    "name": "Costo de financiación",
+    "parent_code": "3511"
+  },
+  {
+    "code": "35114",
+    "name": "Valor razonable",
+    "parent_code": "3511"
+  },
+  {
+    "code": "3512",
+    "name": "De origen vegetal",
+    "parent_code": "351"
+  },
+  {
+    "code": "35121",
+    "name": "Costo",
+    "parent_code": "3512"
+  },
+  {
+    "code": "35123",
+    "name": "Costo de financiación",
+    "parent_code": "3512"
+  },
+  {
+    "code": "35124",
+    "name": "Valor razonable",
+    "parent_code": "3512"
+  },
+  {
+    "code": "352",
+    "name": "Activos biológicos en desarrollo",
+    "parent_code": "35"
+  },
+  {
+    "code": "3521",
+    "name": "De origen animal",
+    "parent_code": "352"
+  },
+  {
+    "code": "35211",
+    "name": "Costo",
+    "parent_code": "3521"
+  },
+  {
+    "code": "35213",
+    "name": "Costo de financiación",
+    "parent_code": "3521"
+  },
+  {
+    "code": "35214",
+    "name": "Valor razonable",
+    "parent_code": "3521"
+  },
+  {
+    "code": "3522",
+    "name": "De origen vegetal",
+    "parent_code": "352"
+  },
+  {
+    "code": "35221",
+    "name": "Costo",
+    "parent_code": "3522"
+  },
+  {
+    "code": "35223",
+    "name": "Costo de financiación",
+    "parent_code": "3522"
+  },
+  {
+    "code": "35224",
+    "name": "Valor razonable",
+    "parent_code": "3522"
+  },
+  {
+    "code": "36",
+    "name": "DESVALORIZACIÓN DE ACTIVO INMOVILIZADO",
+    "parent_code": "3"
+  },
+  {
+    "code": "361",
+    "name": "Desvalorización de propiedades de inversión",
+    "parent_code": "36"
+  },
+  {
+    "code": "3611",
+    "name": "Terrenos",
+    "parent_code": "361"
+  },
+  {
+    "code": "36111",
+    "name": "Costo",
+    "parent_code": "3611"
+  },
+  {
+    "code": "36112",
+    "name": "Revaluación",
+    "parent_code": "3611"
+  },
+  {
+    "code": "3612",
+    "name": "Edificaciones",
+    "parent_code": "361"
+  },
+  {
+    "code": "36121",
+    "name": "Costo",
+    "parent_code": "3612"
+  },
+  {
+    "code": "36122",
+    "name": "Revaluación",
+    "parent_code": "3612"
+  },
+  {
+    "code": "36123",
+    "name": "Costo de financiación",
+    "parent_code": "3612"
+  },
+  {
+    "code": "3613",
+    "name": "Construcciones en curso - edificaciones",
+    "parent_code": "361"
+  },
+  {
+    "code": "36131",
+    "name": "Costo",
+    "parent_code": "3613"
+  },
+  {
+    "code": "36132",
+    "name": "Revaluación",
+    "parent_code": "3613"
+  },
+  {
+    "code": "36133",
+    "name": "Costo de financiación",
+    "parent_code": "3613"
+  },
+  {
+    "code": "362",
+    "name": "Desvalorización de propiedades de inversión - Arrendamiento financiero",
+    "parent_code": "36"
+  },
+  {
+    "code": "3621",
+    "name": "Terrenos",
+    "parent_code": "362"
+  },
+  {
+    "code": "36211",
+    "name": "Costo",
+    "parent_code": "3621"
+  },
+  {
+    "code": "36212",
+    "name": "Revaluación",
+    "parent_code": "3621"
+  },
+  {
+    "code": "3622",
+    "name": "Edificaciones",
+    "parent_code": "362"
+  },
+  {
+    "code": "36221",
+    "name": "Costo",
+    "parent_code": "3622"
+  },
+  {
+    "code": "36222",
+    "name": "Revaluación",
+    "parent_code": "3622"
+  },
+  {
+    "code": "36223",
+    "name": "Costo de financiación",
+    "parent_code": "3622"
+  },
+  {
+    "code": "363",
+    "name": "Desvalorización de propiedad, planta y equipo - Arrendamiento financiero",
+    "parent_code": "36"
+  },
+  {
+    "code": "3631",
+    "name": "Terrenos",
+    "parent_code": "363"
+  },
+  {
+    "code": "36311",
+    "name": "Costo",
+    "parent_code": "3631"
+  },
+  {
+    "code": "36312",
+    "name": "Revaluación",
+    "parent_code": "3631"
+  },
+  {
+    "code": "3632",
+    "name": "Edificaciones",
+    "parent_code": "363"
+  },
+  {
+    "code": "36321",
+    "name": "Costo",
+    "parent_code": "3632"
+  },
+  {
+    "code": "36322",
+    "name": "Revaluación",
+    "parent_code": "3632"
+  },
+  {
+    "code": "36323",
+    "name": "Costo de financiación",
+    "parent_code": "3632"
+  },
+  {
+    "code": "3633",
+    "name": "Maquinaria y equipo de explotación",
+    "parent_code": "363"
+  },
+  {
+    "code": "36331",
+    "name": "Costo",
+    "parent_code": "3633"
+  },
+  {
+    "code": "36332",
+    "name": "Revaluación",
+    "parent_code": "3633"
+  },
+  {
+    "code": "36333",
+    "name": "Costo de financiación",
+    "parent_code": "3633"
+  },
+  {
+    "code": "3634",
+    "name": "Unidades de transporte",
+    "parent_code": "363"
+  },
+  {
+    "code": "36341",
+    "name": "Costo",
+    "parent_code": "3634"
+  },
+  {
+    "code": "36342",
+    "name": "Revaluación",
+    "parent_code": "3634"
+  },
+  {
+    "code": "3635",
+    "name": "Muebles y enseres",
+    "parent_code": "363"
+  },
+  {
+    "code": "36351",
+    "name": "Costo",
+    "parent_code": "3635"
+  },
+  {
+    "code": "36352",
+    "name": "Revaluación",
+    "parent_code": "3635"
+  },
+  {
+    "code": "3636",
+    "name": "Equipos diversos",
+    "parent_code": "363"
+  },
+  {
+    "code": "36361",
+    "name": "Costo",
+    "parent_code": "3636"
+  },
+  {
+    "code": "36362",
+    "name": "Revaluación",
+    "parent_code": "3636"
+  },
+  {
+    "code": "364",
+    "name": "Desvalorización de propiedad, planta y equipo",
+    "parent_code": "36"
+  },
+  {
+    "code": "3640",
+    "name": "Planta productora en producción",
+    "parent_code": "364"
+  },
+  {
+    "code": "36401",
+    "name": "Costo",
+    "parent_code": "3640"
+  },
+  {
+    "code": "36402",
+    "name": "Planta productora en producción - Revaluación",
+    "parent_code": "3640"
+  },
+  {
+    "code": "36403",
+    "name": "Planta productora en producción - Costo de financiación",
+    "parent_code": "3640"
+  },
+  {
+    "code": "36405",
+    "name": "Planta productora en desarrollo - Costo",
+    "parent_code": "3640"
+  },
+  {
+    "code": "36406",
+    "name": "Planta productora en desarrollo - Revaluación",
+    "parent_code": "3640"
+  },
+  {
+    "code": "36407",
+    "name": "Planta productora en desarrollo - Costo de financiación",
+    "parent_code": "3640"
+  },
+  {
+    "code": "36408",
+    "name": "Planta productora en desarrollo - Valor razonable",
+    "parent_code": "3640"
+  },
+  {
+    "code": "3641",
+    "name": "Terrenos",
+    "parent_code": "364"
+  },
+  {
+    "code": "36411",
+    "name": "Costo",
+    "parent_code": "3641"
+  },
+  {
+    "code": "36412",
+    "name": "Revaluación",
+    "parent_code": "3641"
+  },
+  {
+    "code": "3642",
+    "name": "Edificaciones",
+    "parent_code": "364"
+  },
+  {
+    "code": "36421",
+    "name": "Edificaciones - Costo",
+    "parent_code": "3642"
+  },
+  {
+    "code": "36422",
+    "name": "Edificaciones - Revaluación",
+    "parent_code": "3642"
+  },
+  {
+    "code": "36423",
+    "name": "Edificaciones - Costo de financiación",
+    "parent_code": "3642"
+  },
+  {
+    "code": "36424",
+    "name": "Instalaciones - Costo",
+    "parent_code": "3642"
+  },
+  {
+    "code": "36425",
+    "name": "Instalaciones - Revaluación",
+    "parent_code": "3642"
+  },
+  {
+    "code": "36426",
+    "name": "Instalaciones - Costo de financiación",
+    "parent_code": "3642"
+  },
+  {
+    "code": "36427",
+    "name": "Mejoras en locales arrendados - Costo",
+    "parent_code": "3642"
+  },
+  {
+    "code": "36428",
+    "name": "Mejoras en locales arrendados - Revaluación",
+    "parent_code": "3642"
+  },
+  {
+    "code": "36429",
+    "name": "Mejoras en locales arrendados - Costo de financiación",
+    "parent_code": "3642"
+  },
+  {
+    "code": "3643",
+    "name": "Maquinaria y equipo de explotación",
+    "parent_code": "364"
+  },
+  {
+    "code": "36431",
+    "name": "Costo",
+    "parent_code": "3643"
+  },
+  {
+    "code": "36432",
+    "name": "Revaluación",
+    "parent_code": "3643"
+  },
+  {
+    "code": "36433",
+    "name": "Costo de financiación",
+    "parent_code": "3643"
+  },
+  {
+    "code": "3644",
+    "name": "Unidades de transporte",
+    "parent_code": "364"
+  },
+  {
+    "code": "36441",
+    "name": "Costo",
+    "parent_code": "3644"
+  },
+  {
+    "code": "36442",
+    "name": "Revaluación",
+    "parent_code": "3644"
+  },
+  {
+    "code": "3645",
+    "name": "Muebles y enseres",
+    "parent_code": "364"
+  },
+  {
+    "code": "36451",
+    "name": "Costo",
+    "parent_code": "3645"
+  },
+  {
+    "code": "36452",
+    "name": "Revaluación",
+    "parent_code": "3645"
+  },
+  {
+    "code": "3646",
+    "name": "Equipos diversos",
+    "parent_code": "364"
+  },
+  {
+    "code": "36461",
+    "name": "Costo",
+    "parent_code": "3646"
+  },
+  {
+    "code": "36462",
+    "name": "Revaluación",
+    "parent_code": "3646"
+  },
+  {
+    "code": "3647",
+    "name": "Herramientas y unidades de reemplazo",
+    "parent_code": "364"
+  },
+  {
+    "code": "36471",
+    "name": "Herramientas - Costo",
+    "parent_code": "3647"
+  },
+  {
+    "code": "3649",
+    "name": "Obras en curso",
+    "parent_code": "364"
+  },
+  {
+    "code": "36491",
+    "name": "Costo",
+    "parent_code": "3649"
+  },
+  {
+    "code": "36492",
+    "name": "Revaluación",
+    "parent_code": "3649"
+  },
+  {
+    "code": "365",
+    "name": "Desvalorización de intangibles",
+    "parent_code": "36"
+  },
+  {
+    "code": "3651",
+    "name": "Concesiones, licencias y otros derechos",
+    "parent_code": "365"
+  },
+  {
+    "code": "36511",
+    "name": "Costo",
+    "parent_code": "3651"
+  },
+  {
+    "code": "36512",
+    "name": "Revaluación",
+    "parent_code": "3651"
+  },
+  {
+    "code": "3652",
+    "name": "Patentes y propiedad industrial",
+    "parent_code": "365"
+  },
+  {
+    "code": "36521",
+    "name": "Costo",
+    "parent_code": "3652"
+  },
+  {
+    "code": "36522",
+    "name": "Revaluación",
+    "parent_code": "3652"
+  },
+  {
+    "code": "3653",
+    "name": "Programas de computadora ( software )",
+    "parent_code": "365"
+  },
+  {
+    "code": "36531",
+    "name": "Costo",
+    "parent_code": "3653"
+  },
+  {
+    "code": "36532",
+    "name": "Revaluación",
+    "parent_code": "3653"
+  },
+  {
+    "code": "3654",
+    "name": "Costos de exploración y desarrollo",
+    "parent_code": "365"
+  },
+  {
+    "code": "36541",
+    "name": "Costo",
+    "parent_code": "3654"
+  },
+  {
+    "code": "36542",
+    "name": "Revaluación",
+    "parent_code": "3654"
+  },
+  {
+    "code": "36543",
+    "name": "Costo de financiación",
+    "parent_code": "3654"
+  },
+  {
+    "code": "3655",
+    "name": "Fórmulas, diseños y prototipos",
+    "parent_code": "365"
+  },
+  {
+    "code": "36551",
+    "name": "Costo",
+    "parent_code": "3655"
+  },
+  {
+    "code": "36552",
+    "name": "Revaluación",
+    "parent_code": "3655"
+  },
+  {
+    "code": "3657",
+    "name": "Plusvalía mercantil",
+    "parent_code": "365"
+  },
+  {
+    "code": "3659",
+    "name": "Otros activos intangibles",
+    "parent_code": "365"
+  },
+  {
+    "code": "36591",
+    "name": "Costo",
+    "parent_code": "3659"
+  },
+  {
+    "code": "36592",
+    "name": "Revaluación",
+    "parent_code": "3659"
+  },
+  {
+    "code": "366",
+    "name": "Desvalorización de activos biológicos",
+    "parent_code": "36"
+  },
+  {
+    "code": "3661",
+    "name": "Activos biológicos en producción",
+    "parent_code": "366"
+  },
+  {
+    "code": "36611",
+    "name": "Costo",
+    "parent_code": "3661"
+  },
+  {
+    "code": "36613",
+    "name": "Costo de financiación",
+    "parent_code": "3661"
+  },
+  {
+    "code": "3662",
+    "name": "Activos biológicos en desarrollo",
+    "parent_code": "366"
+  },
+  {
+    "code": "36621",
+    "name": "Costo",
+    "parent_code": "3662"
+  },
+  {
+    "code": "36622",
+    "name": "Costo de financiación",
+    "parent_code": "3662"
+  },
+  {
+    "code": "367",
+    "name": "Desvalorización de inversiones mobiliarias",
+    "parent_code": "36"
+  },
+  {
+    "code": "3671",
+    "name": "Inversiones a ser mantenidas hasta el vencimiento",
+    "parent_code": "367"
+  },
+  {
+    "code": "36711",
+    "name": "Costo",
+    "parent_code": "3671"
+  },
+  {
+    "code": "3672",
+    "name": "Inversiones financieras repres entativas de derecho patrimonial",
+    "parent_code": "367"
+  },
+  {
+    "code": "36721",
+    "name": "Costo",
+    "parent_code": "3672"
+  },
+  {
+    "code": "3673",
+    "name": "Otras inversiones financieras",
+    "parent_code": "367"
+  },
+  {
+    "code": "36731",
+    "name": "Costo",
+    "parent_code": "3673"
+  },
+  {
+    "code": "37",
+    "name": "ACTIVO DIFERIDO",
+    "parent_code": "3"
+  },
+  {
+    "code": "371",
+    "name": "Impuesto a la renta diferido",
+    "parent_code": "37"
+  },
+  {
+    "code": "3711",
+    "name": "Impuesto a la renta diferido – Patrimonio",
+    "parent_code": "371"
+  },
+  {
+    "code": "3712",
+    "name": "Impuesto a la renta diferido – Resultados",
+    "parent_code": "371"
+  },
+  {
+    "code": "372",
+    "name": "Participaciones de los trabajadores diferidas",
+    "parent_code": "37"
+  },
+  {
+    "code": "3721",
+    "name": "Participaciones de los trabajadores diferidas – Patrimonio",
+    "parent_code": "372"
+  },
+  {
+    "code": "3722",
+    "name": "Participaciones de los trabajadores diferidas – Resultados",
+    "parent_code": "372"
+  },
+  {
+    "code": "373",
+    "name": "Intereses diferidos",
+    "parent_code": "37"
+  },
+  {
+    "code": "3731",
+    "name": "Intereses no devengados en transacciones con terceros",
+    "parent_code": "373"
+  },
+  {
+    "code": "3732",
+    "name": "Intereses no devengados en medición a valor descontado",
+    "parent_code": "373"
+  },
+  {
+    "code": "38",
+    "name": "OTROS ACTIVOS",
+    "parent_code": "3"
+  },
+  {
+    "code": "381",
+    "name": "Bienes de arte y cultura",
+    "parent_code": "38"
+  },
+  {
+    "code": "3811",
+    "name": "Obras de arte",
+    "parent_code": "381"
+  },
+  {
+    "code": "3812",
+    "name": "Biblioteca",
+    "parent_code": "381"
+  },
+  {
+    "code": "3813",
+    "name": "Otros",
+    "parent_code": "381"
+  },
+  {
+    "code": "382",
+    "name": "Diversos",
+    "parent_code": "38"
+  },
+  {
+    "code": "3821",
+    "name": "Monedas y joyas",
+    "parent_code": "382"
+  },
+  {
+    "code": "3822",
+    "name": "Bienes entregados en comodato",
+    "parent_code": "382"
+  },
+  {
+    "code": "3823",
+    "name": "Bienes recibidos en pago (adjudicados y realizables)",
+    "parent_code": "382"
+  },
+  {
+    "code": "3829",
+    "name": "Otros",
+    "parent_code": "382"
+  },
+  {
+    "code": "39",
+    "name": "DEPRECIACIÓN y AMORTIZACIÓN ACUMULADOS",
+    "parent_code": "3"
+  },
+  {
+    "code": "391",
+    "name": "Depreciación acumulada propiedades de inversión",
+    "parent_code": "39"
+  },
+  {
+    "code": "3911",
+    "name": "Edificaciones",
+    "parent_code": "391"
+  },
+  {
+    "code": "39111",
+    "name": "Costo",
+    "parent_code": "3911"
+  },
+  {
+    "code": "39112",
+    "name": "Revaluación",
+    "parent_code": "3911"
+  },
+  {
+    "code": "39113",
+    "name": "Costo de financiación",
+    "parent_code": "3911"
+  },
+  {
+    "code": "392",
+    "name": "Depreciación acumulada propiedades de in versión - Arrendamiento financiero",
+    "parent_code": "39"
+  },
+  {
+    "code": "3921",
+    "name": "Edificaciones",
+    "parent_code": "392"
+  },
+  {
+    "code": "39211",
+    "name": "Costo",
+    "parent_code": "3921"
+  },
+  {
+    "code": "39212",
+    "name": "Revaluación",
+    "parent_code": "3921"
+  },
+  {
+    "code": "39213",
+    "name": "Costo de financiación",
+    "parent_code": "3921"
+  },
+  {
+    "code": "393",
+    "name": "Depreciación acumulada propiedad, plant a y equipo - Arrendamiento financiero",
+    "parent_code": "39"
+  },
+  {
+    "code": "3932",
+    "name": "Edificaciones",
+    "parent_code": "393"
+  },
+  {
+    "code": "39321",
+    "name": "Costo",
+    "parent_code": "3932"
+  },
+  {
+    "code": "39322",
+    "name": "Revaluación",
+    "parent_code": "3932"
+  },
+  {
+    "code": "39323",
+    "name": "Costo de financiación",
+    "parent_code": "3932"
+  },
+  {
+    "code": "3933",
+    "name": "Maquinarias y equipos de explotación",
+    "parent_code": "393"
+  },
+  {
+    "code": "39331",
+    "name": "Costo",
+    "parent_code": "3933"
+  },
+  {
+    "code": "39332",
+    "name": "Revaluación",
+    "parent_code": "3933"
+  },
+  {
+    "code": "39333",
+    "name": "Costo de financiación",
+    "parent_code": "3933"
+  },
+  {
+    "code": "3934",
+    "name": "Unidades de transporte",
+    "parent_code": "393"
+  },
+  {
+    "code": "39341",
+    "name": "Costo",
+    "parent_code": "3934"
+  },
+  {
+    "code": "39342",
+    "name": "Revaluación",
+    "parent_code": "3934"
+  },
+  {
+    "code": "3935",
+    "name": "Muebles y enseres",
+    "parent_code": "393"
+  },
+  {
+    "code": "39351",
+    "name": "Costo",
+    "parent_code": "3935"
+  },
+  {
+    "code": "3936",
+    "name": "Equipos diversos",
+    "parent_code": "393"
+  },
+  {
+    "code": "39361",
+    "name": "Costo",
+    "parent_code": "3936"
+  },
+  {
+    "code": "39362",
+    "name": "Revaluación",
+    "parent_code": "3936"
+  },
+  {
+    "code": "394",
+    "name": "Depreciación acumulada - Arrendamiento operativo",
+    "parent_code": "39"
+  },
+  {
+    "code": "3941",
+    "name": "Activos por derecho de uso - arrendamiento operativo",
+    "parent_code": "394"
+  },
+  {
+    "code": "39410",
+    "name": "Plantas productoras",
+    "parent_code": "3941"
+  },
+  {
+    "code": "39411",
+    "name": "Terrenos",
+    "parent_code": "3941"
+  },
+  {
+    "code": "39412",
+    "name": "Edificaciones",
+    "parent_code": "3941"
+  },
+  {
+    "code": "39413",
+    "name": "Maquinarias y equipos de explotación",
+    "parent_code": "3941"
+  },
+  {
+    "code": "39414",
+    "name": "Unidades de transporte",
+    "parent_code": "3941"
+  },
+  {
+    "code": "39415",
+    "name": "Equipos diversos",
+    "parent_code": "3941"
+  },
+  {
+    "code": "395",
+    "name": "Depreciación acumulada de propiedad, planta y equipo",
+    "parent_code": "39"
+  },
+  {
+    "code": "3952",
+    "name": "Depreciación acumulada - Costo",
+    "parent_code": "395"
+  },
+  {
+    "code": "39520",
+    "name": "Plantas productoras",
+    "parent_code": "3952"
+  },
+  {
+    "code": "39521",
+    "name": "Edificaciones",
+    "parent_code": "3952"
+  },
+  {
+    "code": "39522",
+    "name": "Instalaciones",
+    "parent_code": "3952"
+  },
+  {
+    "code": "39523",
+    "name": "Mejoras en locales arrendados",
+    "parent_code": "3952"
+  },
+  {
+    "code": "39524",
+    "name": "Maquinarias y equipos de explotación",
+    "parent_code": "3952"
+  },
+  {
+    "code": "39525",
+    "name": "Unidades de transporte",
+    "parent_code": "3952"
+  },
+  {
+    "code": "39526",
+    "name": "Muebles y enseres",
+    "parent_code": "3952"
+  },
+  {
+    "code": "39527",
+    "name": "Equipos diversos",
+    "parent_code": "3952"
+  },
+  {
+    "code": "39528",
+    "name": "Herramientas",
+    "parent_code": "3952"
+  },
+  {
+    "code": "39529",
+    "name": "Unidades de reemplazo",
+    "parent_code": "3952"
+  },
+  {
+    "code": "3953",
+    "name": "Propiedad, planta y equipo - Revaluación",
+    "parent_code": "395"
+  },
+  {
+    "code": "39530",
+    "name": "Plantas productoras",
+    "parent_code": "3953"
+  },
+  {
+    "code": "39531",
+    "name": "Edificaciones",
+    "parent_code": "3953"
+  },
+  {
+    "code": "39532",
+    "name": "Instalaciones",
+    "parent_code": "3953"
+  },
+  {
+    "code": "39533",
+    "name": "Mejoras en locales arrendados",
+    "parent_code": "3953"
+  },
+  {
+    "code": "39534",
+    "name": "Maquinarias y equipos de explotación",
+    "parent_code": "3953"
+  },
+  {
+    "code": "39535",
+    "name": "Unidades de transporte",
+    "parent_code": "3953"
+  },
+  {
+    "code": "39536",
+    "name": "Muebles y enseres",
+    "parent_code": "3953"
+  },
+  {
+    "code": "39537",
+    "name": "Equipos diversos",
+    "parent_code": "3953"
+  },
+  {
+    "code": "39538",
+    "name": "Herramientas y unidades de reemplazo",
+    "parent_code": "3953"
+  },
+  {
+    "code": "3954",
+    "name": "Propiedad, planta y equipo - Costo de financiación",
+    "parent_code": "395"
+  },
+  {
+    "code": "39540",
+    "name": "Plantas productoras",
+    "parent_code": "3954"
+  },
+  {
+    "code": "39541",
+    "name": "Edificaciones",
+    "parent_code": "3954"
+  },
+  {
+    "code": "39542",
+    "name": "Maquinarias y equipos de explotación",
+    "parent_code": "3954"
+  },
+  {
+    "code": "3955",
+    "name": "Propiedad, planta y equipo - Valor razonable",
+    "parent_code": "395"
+  },
+  {
+    "code": "39550",
+    "name": "Plantas productoras",
+    "parent_code": "3955"
+  },
+  {
+    "code": "396",
+    "name": "Amortización acumulada",
+    "parent_code": "39"
+  },
+  {
+    "code": "3961",
+    "name": "Intangibles – Costo",
+    "parent_code": "396"
+  },
+  {
+    "code": "39611",
+    "name": "Concesiones, licencias y otros derechos",
+    "parent_code": "3961"
+  },
+  {
+    "code": "39612",
+    "name": "Patentes y propiedad industrial",
+    "parent_code": "3961"
+  },
+  {
+    "code": "39613",
+    "name": "Programas de computadora ( software )",
+    "parent_code": "3961"
+  },
+  {
+    "code": "39614",
+    "name": "Costos de exploración y desarrollo",
+    "parent_code": "3961"
+  },
+  {
+    "code": "39615",
+    "name": "Fórmulas, diseños y prototipos",
+    "parent_code": "3961"
+  },
+  {
+    "code": "39619",
+    "name": "Otros activos intangibles",
+    "parent_code": "3961"
+  },
+  {
+    "code": "3962",
+    "name": "Intangibles – Revaluación",
+    "parent_code": "396"
+  },
+  {
+    "code": "39621",
+    "name": "Concesiones, licencias y otros derechos",
+    "parent_code": "3962"
+  },
+  {
+    "code": "39622",
+    "name": "Patentes y propiedad industrial",
+    "parent_code": "3962"
+  },
+  {
+    "code": "39623",
+    "name": "Programas de computadora ( software )",
+    "parent_code": "3962"
+  },
+  {
+    "code": "39624",
+    "name": "Costos de exploración y desarrollo",
+    "parent_code": "3962"
+  },
+  {
+    "code": "39625",
+    "name": "Fórmulas, diseños y prototipos",
+    "parent_code": "3962"
+  },
+  {
+    "code": "39629",
+    "name": "Otros activos intangibles",
+    "parent_code": "3962"
+  },
+  {
+    "code": "3963",
+    "name": "Intangibles – Costos de financiación",
+    "parent_code": "396"
+  },
+  {
+    "code": "39633",
+    "name": "Programas de computadora",
+    "parent_code": "3963"
+  },
+  {
+    "code": "39634",
+    "name": "Costos de exploración",
+    "parent_code": "3963"
+  },
+  {
+    "code": "39635",
+    "name": "Costos de desarrollo",
+    "parent_code": "3963"
+  },
+  {
+    "code": "398",
+    "name": "Depreciación acumulada - Activos biológicos en producción",
+    "parent_code": "39"
+  },
+  {
+    "code": "3981",
+    "name": "Activos biológicos en producción - Costo",
+    "parent_code": "398"
+  },
+  {
+    "code": "39811",
+    "name": "Activos biológicos en producción",
+    "parent_code": "3981"
+  },
+  {
+    "code": "4",
+    "name": "PASIVO",
+    "parent_code": null
+  },
+  {
+    "code": "40",
+    "name": "TRIBUTOS, CONTRAPRESTACIONES Y APORTES AL SISTEMA PÚBLICO DE PENSIONES Y DE SALUD POR PAGAR",
+    "parent_code": "4"
+  },
+  {
+    "code": "401",
+    "name": "Gobierno nacional",
+    "parent_code": "40"
+  },
+  {
+    "code": "4011",
+    "name": "Impuesto general a las ventas",
+    "parent_code": "401"
+  },
+  {
+    "code": "40111",
+    "name": "IGV – Cuenta propia",
+    "parent_code": "4011"
+  },
+  {
+    "code": "40112",
+    "name": "IGV – Servicios prestados por no domiciliados",
+    "parent_code": "4011"
+  },
+  {
+    "code": "40113",
+    "name": "IGV – Régimen de percepciones",
+    "parent_code": "4011"
+  },
+  {
+    "code": "40114",
+    "name": "IGV – Régimen de retenciones",
+    "parent_code": "4011"
+  },
+  {
+    "code": "40115",
+    "name": "IGV – Importaciones",
+    "parent_code": "4011"
+  },
+  {
+    "code": "40116",
+    "name": "IGV – Destinado a operaciones gravadas",
+    "parent_code": "4011"
+  },
+  {
+    "code": "40117",
+    "name": "IGV - Destinado a operaciones comunes",
+    "parent_code": "4011"
+  },
+  {
+    "code": "4012",
+    "name": "Impuesto selectivo al consumo",
+    "parent_code": "401"
+  },
+  {
+    "code": "4015",
+    "name": "Derechos aduaneros",
+    "parent_code": "401"
+  },
+  {
+    "code": "40151",
+    "name": "Derechos arancelarios",
+    "parent_code": "4015"
+  },
+  {
+    "code": "40152",
+    "name": "Otros derechos arancelarios",
+    "parent_code": "4015"
+  },
+  {
+    "code": "4017",
+    "name": "Impuesto a la renta",
+    "parent_code": "401"
+  },
+  {
+    "code": "40171",
+    "name": "Renta de tercera categoría",
+    "parent_code": "4017"
+  },
+  {
+    "code": "40172",
+    "name": "Renta de cuarta categoría",
+    "parent_code": "4017"
+  },
+  {
+    "code": "40173",
+    "name": "Renta de quinta categoría",
+    "parent_code": "4017"
+  },
+  {
+    "code": "40174",
+    "name": "Renta de no domiciliados",
+    "parent_code": "4017"
+  },
+  {
+    "code": "40175",
+    "name": "Otras retenciones",
+    "parent_code": "4017"
+  },
+  {
+    "code": "4018",
+    "name": "Otros impuestos y contraprestaciones",
+    "parent_code": "401"
+  },
+  {
+    "code": "40181",
+    "name": "Impuesto a las transacciones financieras",
+    "parent_code": "4018"
+  },
+  {
+    "code": "40182",
+    "name": "Impuesto a los juegos de casino y tragamonedas",
+    "parent_code": "4018"
+  },
+  {
+    "code": "40183",
+    "name": "Tasas por la prestación de servicios públicos",
+    "parent_code": "4018"
+  },
+  {
+    "code": "40184",
+    "name": "Regalías",
+    "parent_code": "4018"
+  },
+  {
+    "code": "40185",
+    "name": "Impuesto a los dividendos",
+    "parent_code": "4018"
+  },
+  {
+    "code": "40186",
+    "name": "Impuesto temporal a los activos netos",
+    "parent_code": "4018"
+  },
+  {
+    "code": "40189",
+    "name": "Otros impuestos",
+    "parent_code": "4018"
+  },
+  {
+    "code": "402",
+    "name": "Certificados tributarios",
+    "parent_code": "40"
+  },
+  {
+    "code": "403",
+    "name": "Instituciones públicas",
+    "parent_code": "40"
+  },
+  {
+    "code": "4031",
+    "name": "ESSALUD",
+    "parent_code": "403"
+  },
+  {
+    "code": "4032",
+    "name": "ONP",
+    "parent_code": "403"
+  },
+  {
+    "code": "4033",
+    "name": "Contribución al SENATI",
+    "parent_code": "403"
+  },
+  {
+    "code": "4034",
+    "name": "Contribución al SENCICO",
+    "parent_code": "403"
+  },
+  {
+    "code": "4039",
+    "name": "Otras instituciones",
+    "parent_code": "403"
+  },
+  {
+    "code": "405",
+    "name": "Gobiernos regionales",
+    "parent_code": "40"
+  },
+  {
+    "code": "406",
+    "name": "Gobiernos locales",
+    "parent_code": "40"
+  },
+  {
+    "code": "4061",
+    "name": "Impuestos",
+    "parent_code": "406"
+  },
+  {
+    "code": "40611",
+    "name": "Impuesto al patrimonio vehicular",
+    "parent_code": "4061"
+  },
+  {
+    "code": "40612",
+    "name": "Impuesto a las apuestas",
+    "parent_code": "4061"
+  },
+  {
+    "code": "40613",
+    "name": "Impuesto a los juegos",
+    "parent_code": "4061"
+  },
+  {
+    "code": "40614",
+    "name": "Impuesto de alcabala",
+    "parent_code": "4061"
+  },
+  {
+    "code": "40615",
+    "name": "Impuesto predial",
+    "parent_code": "4061"
+  },
+  {
+    "code": "40616",
+    "name": "Impuesto a los espectáculos públicos no deportivos",
+    "parent_code": "4061"
+  },
+  {
+    "code": "4062",
+    "name": "Contribuciones",
+    "parent_code": "406"
+  },
+  {
+    "code": "4063",
+    "name": "Tasas",
+    "parent_code": "406"
+  },
+  {
+    "code": "40631",
+    "name": "Licencia de apertura de establecimientos",
+    "parent_code": "4063"
+  },
+  {
+    "code": "40632",
+    "name": "Transporte público",
+    "parent_code": "4063"
+  },
+  {
+    "code": "40633",
+    "name": "Estacionamiento de vehículos",
+    "parent_code": "4063"
+  },
+  {
+    "code": "40634",
+    "name": "Servicios públicos o arbitrios",
+    "parent_code": "4063"
+  },
+  {
+    "code": "40635",
+    "name": "Servicios administrativos o derechos",
+    "parent_code": "4063"
+  },
+  {
+    "code": "409",
+    "name": "Otros costos administrativos e intereses",
+    "parent_code": "40"
+  },
+  {
+    "code": "41",
+    "name": "REMUNERACIONES Y PARTICIPACIONES POR PAGAR",
+    "parent_code": "4"
+  },
+  {
+    "code": "411",
+    "name": "Remuneraciones por pagar",
+    "parent_code": "41"
+  },
+  {
+    "code": "4111",
+    "name": "Sueldos y salarios por pagar",
+    "parent_code": "411"
+  },
+  {
+    "code": "4112",
+    "name": "Comisiones por pagar",
+    "parent_code": "411"
+  },
+  {
+    "code": "4113",
+    "name": "Remuneraciones en especie por pagar",
+    "parent_code": "411"
+  },
+  {
+    "code": "4114",
+    "name": "Gratificaciones por pagar",
+    "parent_code": "411"
+  },
+  {
+    "code": "4115",
+    "name": "Vacaciones por pagar",
+    "parent_code": "411"
+  },
+  {
+    "code": "413",
+    "name": "Participaciones de los trabajadores por pagar",
+    "parent_code": "41"
+  },
+  {
+    "code": "415",
+    "name": "Beneficios sociales de los trabajadores por pagar",
+    "parent_code": "41"
+  },
+  {
+    "code": "4151",
+    "name": "Compensación por tiempo de servicios",
+    "parent_code": "415"
+  },
+  {
+    "code": "4152",
+    "name": "Adelanto de compensación por tiempo de servicios",
+    "parent_code": "415"
+  },
+  {
+    "code": "4153",
+    "name": "Pensiones y jubilaciones",
+    "parent_code": "415"
+  },
+  {
+    "code": "417",
+    "name": "Administradoras de fondos de pensiones",
+    "parent_code": "41"
+  },
+  {
+    "code": "419",
+    "name": "Otras remuneraciones y participaciones por pagar",
+    "parent_code": "41"
+  },
+  {
+    "code": "42",
+    "name": "CUENTAS POR PAGAR COMERCIALES TERCEROS",
+    "parent_code": "4"
+  },
+  {
+    "code": "421",
+    "name": "Facturas, boletas y otros comprobantes por pagar",
+    "parent_code": "42"
+  },
+  {
+    "code": "4211",
+    "name": "No emitidas",
+    "parent_code": "421"
+  },
+  {
+    "code": "4212",
+    "name": "Emitidas",
+    "parent_code": "421"
+  },
+  {
+    "code": "422",
+    "name": "Anticipos a proveedores",
+    "parent_code": "42"
+  },
+  {
+    "code": "423",
+    "name": "Letras por pagar",
+    "parent_code": "42"
+  },
+  {
+    "code": "424",
+    "name": "Honorarios por pagar",
+    "parent_code": "42"
+  },
+  {
+    "code": "43",
+    "name": "CUENTAS POR PAGAR COMERCIALES RELACIONADAS",
+    "parent_code": "4"
+  },
+  {
+    "code": "431",
+    "name": "Facturas, boletas y otros comprobantes por pagar",
+    "parent_code": "43"
+  },
+  {
+    "code": "4311",
+    "name": "No emitidas",
+    "parent_code": "431"
+  },
+  {
+    "code": "4312",
+    "name": "Emitidas",
+    "parent_code": "431"
+  },
+  {
+    "code": "432",
+    "name": "Anticipos otorgados",
+    "parent_code": "43"
+  },
+  {
+    "code": "4321",
+    "name": "Anticipos otorgados",
+    "parent_code": "432"
+  },
+  {
+    "code": "433",
+    "name": "Letras por pagar",
+    "parent_code": "43"
+  },
+  {
+    "code": "4331",
+    "name": "Letras por pagar",
+    "parent_code": "433"
+  },
+  {
+    "code": "434",
+    "name": "Honorarios por pagar",
+    "parent_code": "43"
+  },
+  {
+    "code": "4341",
+    "name": "Honorarios por pagar",
+    "parent_code": "434"
+  },
+  {
+    "code": "44",
+    "name": "CUENTAS POR PAGAR A LOS ACCIONISTAS (SOCIOS, PARTÍCIPES) Y DIRECTORES",
+    "parent_code": "4"
+  },
+  {
+    "code": "441",
+    "name": "Accionistas ( socios, partícipes)",
+    "parent_code": "44"
+  },
+  {
+    "code": "4411",
+    "name": "Préstamos",
+    "parent_code": "441"
+  },
+  {
+    "code": "4412",
+    "name": "Dividendos",
+    "parent_code": "441"
+  },
+  {
+    "code": "4419",
+    "name": "Otras cuentas por pagar",
+    "parent_code": "441"
+  },
+  {
+    "code": "442",
+    "name": "Directores",
+    "parent_code": "44"
+  },
+  {
+    "code": "4421",
+    "name": "Dietas",
+    "parent_code": "442"
+  },
+  {
+    "code": "4429",
+    "name": "Otras cuentas por pagar",
+    "parent_code": "442"
+  },
+  {
+    "code": "45",
+    "name": "OBLIGACIONES FINANCIERAS",
+    "parent_code": "4"
+  },
+  {
+    "code": "451",
+    "name": "Préstamos de instituciones financieras y otras entidades",
+    "parent_code": "45"
+  },
+  {
+    "code": "4511",
+    "name": "Instituciones financieras",
+    "parent_code": "451"
+  },
+  {
+    "code": "4512",
+    "name": "Otras entidades",
+    "parent_code": "451"
+  },
+  {
+    "code": "452",
+    "name": "Contratos de arrendamiento financiero",
+    "parent_code": "45"
+  },
+  {
+    "code": "453",
+    "name": "Obligaciones emitidas",
+    "parent_code": "45"
+  },
+  {
+    "code": "4531",
+    "name": "Bonos emitidos",
+    "parent_code": "453"
+  },
+  {
+    "code": "4532",
+    "name": "Bonos titulizados",
+    "parent_code": "453"
+  },
+  {
+    "code": "4533",
+    "name": "Papeles comerciales",
+    "parent_code": "453"
+  },
+  {
+    "code": "4539",
+    "name": "Otras obligaciones",
+    "parent_code": "453"
+  },
+  {
+    "code": "454",
+    "name": "Otros Instrumentos financieros por pagar",
+    "parent_code": "45"
+  },
+  {
+    "code": "4541",
+    "name": "Letras",
+    "parent_code": "454"
+  },
+  {
+    "code": "4542",
+    "name": "Papeles comerciales",
+    "parent_code": "454"
+  },
+  {
+    "code": "4543",
+    "name": "Bonos",
+    "parent_code": "454"
+  },
+  {
+    "code": "4544",
+    "name": "Pagarés",
+    "parent_code": "454"
+  },
+  {
+    "code": "4545",
+    "name": "Facturas conformadas",
+    "parent_code": "454"
+  },
+  {
+    "code": "4549",
+    "name": "Otras obligaciones financieras",
+    "parent_code": "454"
+  },
+  {
+    "code": "455",
+    "name": "Costos de financiación por pagar",
+    "parent_code": "45"
+  },
+  {
+    "code": "4551",
+    "name": "Préstamos de instituciones financieras y otras entidades",
+    "parent_code": "455"
+  },
+  {
+    "code": "45511",
+    "name": "Instituciones financieras",
+    "parent_code": "4551"
+  },
+  {
+    "code": "45512",
+    "name": "Otras entidades",
+    "parent_code": "4551"
+  },
+  {
+    "code": "4552",
+    "name": "Contratos de arrendamiento financiero",
+    "parent_code": "455"
+  },
+  {
+    "code": "4553",
+    "name": "Obligaciones emitidas",
+    "parent_code": "455"
+  },
+  {
+    "code": "45531",
+    "name": "Bonos emitidos",
+    "parent_code": "4553"
+  },
+  {
+    "code": "45532",
+    "name": "Bonos titulizados",
+    "parent_code": "4553"
+  },
+  {
+    "code": "45533",
+    "name": "Papeles comerciales",
+    "parent_code": "4553"
+  },
+  {
+    "code": "45539",
+    "name": "Otras obligaciones",
+    "parent_code": "4553"
+  },
+  {
+    "code": "4554",
+    "name": "Otros instrumentos financieros por pagar",
+    "parent_code": "455"
+  },
+  {
+    "code": "45541",
+    "name": "Letras",
+    "parent_code": "4554"
+  },
+  {
+    "code": "45542",
+    "name": "Papeles comerciales",
+    "parent_code": "4554"
+  },
+  {
+    "code": "45543",
+    "name": "Bonos",
+    "parent_code": "4554"
+  },
+  {
+    "code": "45544",
+    "name": "Pagarés",
+    "parent_code": "4554"
+  },
+  {
+    "code": "45545",
+    "name": "Facturas conformadas",
+    "parent_code": "4554"
+  },
+  {
+    "code": "45549",
+    "name": "Otras obligaciones financieras",
+    "parent_code": "4554"
+  },
+  {
+    "code": "456",
+    "name": "Préstamos con compromisos de recompra",
+    "parent_code": "45"
+  },
+  {
+    "code": "46",
+    "name": "CUENTAS POR PAGAR DIVERSAS – TERCEROS",
+    "parent_code": "4"
+  },
+  {
+    "code": "461",
+    "name": "Reclamaciones de terceros",
+    "parent_code": "46"
+  },
+  {
+    "code": "464",
+    "name": "Pasivos por instrumentos financieros",
+    "parent_code": "46"
+  },
+  {
+    "code": "4641",
+    "name": "Instrumentos financieros primarios",
+    "parent_code": "464"
+  },
+  {
+    "code": "4642",
+    "name": "Instrumentos financieros derivados",
+    "parent_code": "464"
+  },
+  {
+    "code": "46421",
+    "name": "Cartera de negociación",
+    "parent_code": "4642"
+  },
+  {
+    "code": "46422",
+    "name": "Instrumentos de cobertura",
+    "parent_code": "4642"
+  },
+  {
+    "code": "465",
+    "name": "Pasivos por compra de activo inmovilizado",
+    "parent_code": "46"
+  },
+  {
+    "code": "4651",
+    "name": "Inversiones mobiliarias",
+    "parent_code": "465"
+  },
+  {
+    "code": "4652",
+    "name": "Propiedades de inversión",
+    "parent_code": "465"
+  },
+  {
+    "code": "4653",
+    "name": "Activos adquiridos en arrendamiento financiero",
+    "parent_code": "465"
+  },
+  {
+    "code": "4654",
+    "name": "Propiedad, planta y equipo",
+    "parent_code": "465"
+  },
+  {
+    "code": "4655",
+    "name": "Intangibles",
+    "parent_code": "465"
+  },
+  {
+    "code": "4656",
+    "name": "Activos biológicos",
+    "parent_code": "465"
+  },
+  {
+    "code": "466",
+    "name": "Participación de terceros en acuerdos conjuntos",
+    "parent_code": "46"
+  },
+  {
+    "code": "467",
+    "name": "Depósitos recibidos en garantía",
+    "parent_code": "46"
+  },
+  {
+    "code": "469",
+    "name": "Otras cuentas por pagar diversas",
+    "parent_code": "46"
+  },
+  {
+    "code": "4691",
+    "name": "Subsidios gubernamentales",
+    "parent_code": "469"
+  },
+  {
+    "code": "4692",
+    "name": "Donaciones condicionadas",
+    "parent_code": "469"
+  },
+  {
+    "code": "4699",
+    "name": "Otras cuentas por pagar",
+    "parent_code": "469"
+  },
+  {
+    "code": "47",
+    "name": "CUENTAS POR PAGAR DIVERSAS – RELACIONADAS",
+    "parent_code": "4"
+  },
+  {
+    "code": "471",
+    "name": "Préstamos",
+    "parent_code": "47"
+  },
+  {
+    "code": "472",
+    "name": "Costos de financiación",
+    "parent_code": "47"
+  },
+  {
+    "code": "473",
+    "name": "Anticipos recibidos",
+    "parent_code": "47"
+  },
+  {
+    "code": "474",
+    "name": "Regalías",
+    "parent_code": "47"
+  },
+  {
+    "code": "475",
+    "name": "Dividendos",
+    "parent_code": "47"
+  },
+  {
+    "code": "476",
+    "name": "Depósitos recibidos en garantía",
+    "parent_code": "47"
+  },
+  {
+    "code": "477",
+    "name": "Pasivo por compra de activo inmovilizado",
+    "parent_code": "47"
+  },
+  {
+    "code": "4771",
+    "name": "Inversiones mobiliarias",
+    "parent_code": "477"
+  },
+  {
+    "code": "4772",
+    "name": "Inversiones inmobiliarias",
+    "parent_code": "477"
+  },
+  {
+    "code": "4773",
+    "name": "Activos adquiridos en arrendamiento financiero",
+    "parent_code": "477"
+  },
+  {
+    "code": "4774",
+    "name": "Propiedad, planta y equipo",
+    "parent_code": "477"
+  },
+  {
+    "code": "4775",
+    "name": "Intangibles",
+    "parent_code": "477"
+  },
+  {
+    "code": "4776",
+    "name": "Activos biológicos",
+    "parent_code": "477"
+  },
+  {
+    "code": "479",
+    "name": "Otras cuentas por pagar diversas",
+    "parent_code": "47"
+  },
+  {
+    "code": "4791",
+    "name": "Otras cuentas por pagar diversas",
+    "parent_code": "479"
+  },
+  {
+    "code": "48",
+    "name": "PROVISIONES",
+    "parent_code": "4"
+  },
+  {
+    "code": "481",
+    "name": "Provisión para litigios",
+    "parent_code": "48"
+  },
+  {
+    "code": "482",
+    "name": "Provisión por desmantelamiento, retiro o rehabilitación del inmovilizado",
+    "parent_code": "48"
+  },
+  {
+    "code": "483",
+    "name": "Provisión para reestructuraciones",
+    "parent_code": "48"
+  },
+  {
+    "code": "484",
+    "name": "Provisión para protección y remediación del medio ambiente",
+    "parent_code": "48"
+  },
+  {
+    "code": "485",
+    "name": "Provisión para gastos de responsabilidad social",
+    "parent_code": "48"
+  },
+  {
+    "code": "486",
+    "name": "Provisión para garantías",
+    "parent_code": "48"
+  },
+  {
+    "code": "487",
+    "name": "Provisión por activos por derecho de uso",
+    "parent_code": "48"
+  },
+  {
+    "code": "489",
+    "name": "Otras provisiones",
+    "parent_code": "48"
+  },
+  {
+    "code": "49",
+    "name": "PASIVO DIFERIDO",
+    "parent_code": "4"
+  },
+  {
+    "code": "491",
+    "name": "Impuesto a la renta diferido",
+    "parent_code": "49"
+  },
+  {
+    "code": "4911",
+    "name": "Impuesto a la renta diferido – Patrimonio",
+    "parent_code": "491"
+  },
+  {
+    "code": "4912",
+    "name": "Impuesto a la renta diferido – Resultados",
+    "parent_code": "491"
+  },
+  {
+    "code": "492",
+    "name": "Participaciones de los trabajadores diferidas",
+    "parent_code": "49"
+  },
+  {
+    "code": "4921",
+    "name": "Participaciones de los trabajadores diferidas – Patrimonio",
+    "parent_code": "492"
+  },
+  {
+    "code": "4922",
+    "name": "Participaciones de los trabajadores diferidas – Resultados",
+    "parent_code": "492"
+  },
+  {
+    "code": "493",
+    "name": "Intereses diferidos",
+    "parent_code": "49"
+  },
+  {
+    "code": "4931",
+    "name": "Intereses no devengados en transacciones con terceros",
+    "parent_code": "493"
+  },
+  {
+    "code": "4932",
+    "name": "Intereses no devengados en medición a valor descontado",
+    "parent_code": "493"
+  },
+  {
+    "code": "494",
+    "name": "Ganancia en venta con arrendamiento financiero paralelo",
+    "parent_code": "49"
+  },
+  {
+    "code": "495",
+    "name": "Subsidios recibidos diferidos",
+    "parent_code": "49"
+  },
+  {
+    "code": "496",
+    "name": "Ingresos diferidos",
+    "parent_code": "49"
+  },
+  {
+    "code": "497",
+    "name": "Costos diferidos",
+    "parent_code": "49"
+  },
+  {
+    "code": "5",
+    "name": "PATRIMONIO NETO",
+    "parent_code": null
+  },
+  {
+    "code": "50",
+    "name": "CAPITAL",
+    "parent_code": "5"
+  },
+  {
+    "code": "501",
+    "name": "Capital social",
+    "parent_code": "50"
+  },
+  {
+    "code": "5011",
+    "name": "Acciones",
+    "parent_code": "501"
+  },
+  {
+    "code": "5012",
+    "name": "Participaciones",
+    "parent_code": "501"
+  },
+  {
+    "code": "502",
+    "name": "Acciones en tesorería",
+    "parent_code": "50"
+  },
+  {
+    "code": "51",
+    "name": "ACCIONES DE INVERSIÓN",
+    "parent_code": "5"
+  },
+  {
+    "code": "511",
+    "name": "Acciones de inversión",
+    "parent_code": "51"
+  },
+  {
+    "code": "512",
+    "name": "Acciones de inversión en tesorería",
+    "parent_code": "51"
+  },
+  {
+    "code": "52",
+    "name": "CAPITAL ADICIONAL",
+    "parent_code": "5"
+  },
+  {
+    "code": "521",
+    "name": "Primas (descuento) de acciones",
+    "parent_code": "52"
+  },
+  {
+    "code": "522",
+    "name": "Capitalizaciones en trámite",
+    "parent_code": "52"
+  },
+  {
+    "code": "5221",
+    "name": "Aportes",
+    "parent_code": "522"
+  },
+  {
+    "code": "5222",
+    "name": "Reservas",
+    "parent_code": "522"
+  },
+  {
+    "code": "5223",
+    "name": "Acreencias",
+    "parent_code": "522"
+  },
+  {
+    "code": "5224",
+    "name": "Utilidades",
+    "parent_code": "522"
+  },
+  {
+    "code": "523",
+    "name": "Reducciones de capital pendientes de formalización",
+    "parent_code": "52"
+  },
+  {
+    "code": "56",
+    "name": "RESULTADOS NO REALIZADOS",
+    "parent_code": "5"
+  },
+  {
+    "code": "561",
+    "name": "Diferencia en cambio de inversiones permanentes en entidades extranjeras",
+    "parent_code": "56"
+  },
+  {
+    "code": "562",
+    "name": "Instrumentos financieros – Coberturas",
+    "parent_code": "56"
+  },
+  {
+    "code": "563",
+    "name": "Resultado en activos o pasivos financieros mantenidos para negociación",
+    "parent_code": "56"
+  },
+  {
+    "code": "5631",
+    "name": "Ganancia",
+    "parent_code": "563"
+  },
+  {
+    "code": "5632",
+    "name": "Pérdida",
+    "parent_code": "563"
+  },
+  {
+    "code": "564",
+    "name": "Resultado en otros activos o pasivos por inversiones financieras",
+    "parent_code": "56"
+  },
+  {
+    "code": "5641",
+    "name": "Ganancia",
+    "parent_code": "564"
+  },
+  {
+    "code": "5642",
+    "name": "Pérdida",
+    "parent_code": "564"
+  },
+  {
+    "code": "565",
+    "name": "Resultado en activos o pasivos financieros mantenidos para negociación – Compra o venta convencional fecha de liquidación",
+    "parent_code": "56"
+  },
+  {
+    "code": "5651",
+    "name": "Ganancia",
+    "parent_code": "565"
+  },
+  {
+    "code": "5652",
+    "name": "Pérdida",
+    "parent_code": "565"
+  },
+  {
+    "code": "57",
+    "name": "EXCEDENTE DE REVALUACIÓN",
+    "parent_code": "5"
+  },
+  {
+    "code": "571",
+    "name": "Excedente de revaluación",
+    "parent_code": "57"
+  },
+  {
+    "code": "5711",
+    "name": "Propiedad de inversión",
+    "parent_code": "571"
+  },
+  {
+    "code": "57111",
+    "name": "Adquisición directa",
+    "parent_code": "5711"
+  },
+  {
+    "code": "57112",
+    "name": "Arrendamiento financiero",
+    "parent_code": "5711"
+  },
+  {
+    "code": "5712",
+    "name": "Propiedad, planta y equipo",
+    "parent_code": "571"
+  },
+  {
+    "code": "57121",
+    "name": "Adquisición directa",
+    "parent_code": "5712"
+  },
+  {
+    "code": "57122",
+    "name": "Arrendamiento financiero",
+    "parent_code": "5712"
+  },
+  {
+    "code": "5713",
+    "name": "Intangibles",
+    "parent_code": "571"
+  },
+  {
+    "code": "5714",
+    "name": "Activos por derecho de uso - arrendamiento operativo",
+    "parent_code": "571"
+  },
+  {
+    "code": "572",
+    "name": "Excedente de revaluación – Acciones liberadas recibidas",
+    "parent_code": "57"
+  },
+  {
+    "code": "573",
+    "name": "Participación en excedente de revaluación – Inversiones en entidades relacionadas",
+    "parent_code": "57"
+  },
+  {
+    "code": "58",
+    "name": "RESERVAS",
+    "parent_code": "5"
+  },
+  {
+    "code": "581",
+    "name": "Reinversión",
+    "parent_code": "58"
+  },
+  {
+    "code": "582",
+    "name": "Legal",
+    "parent_code": "58"
+  },
+  {
+    "code": "583",
+    "name": "Contractuales",
+    "parent_code": "58"
+  },
+  {
+    "code": "584",
+    "name": "Estatutarias",
+    "parent_code": "58"
+  },
+  {
+    "code": "585",
+    "name": "Facultativas",
+    "parent_code": "58"
+  },
+  {
+    "code": "589",
+    "name": "Otras reservas",
+    "parent_code": "58"
+  },
+  {
+    "code": "59",
+    "name": "RESULTADOS ACUMULADOS",
+    "parent_code": "5"
+  },
+  {
+    "code": "591",
+    "name": "Utilidades no distribuidas",
+    "parent_code": "59"
+  },
+  {
+    "code": "5911",
+    "name": "Utilidades acumuladas",
+    "parent_code": "591"
+  },
+  {
+    "code": "5912",
+    "name": "Ingresos de años anteriores",
+    "parent_code": "591"
+  },
+  {
+    "code": "592",
+    "name": "Pérdidas acumuladas",
+    "parent_code": "59"
+  },
+  {
+    "code": "5921",
+    "name": "Pérdidas acumuladas",
+    "parent_code": "592"
+  },
+  {
+    "code": "5922",
+    "name": "Gastos de años anteriores",
+    "parent_code": "592"
+  },
+  {
+    "code": "6",
+    "name": "GASTOS POR NATURALEZA",
+    "parent_code": null
+  },
+  {
+    "code": "60",
+    "name": "COMPRAS",
+    "parent_code": "6"
+  },
+  {
+    "code": "601",
+    "name": "Mercaderías",
+    "parent_code": "60"
+  },
+  {
+    "code": "6011",
+    "name": "Mercaderías",
+    "parent_code": "601"
+  },
+  {
+    "code": "602",
+    "name": "Materias primas",
+    "parent_code": "60"
+  },
+  {
+    "code": "603",
+    "name": "Materiales auxiliares, suministros y repuestos",
+    "parent_code": "60"
+  },
+  {
+    "code": "6031",
+    "name": "Materiales auxiliares",
+    "parent_code": "603"
+  },
+  {
+    "code": "6032",
+    "name": "Suministros",
+    "parent_code": "603"
+  },
+  {
+    "code": "6033",
+    "name": "Repuestos",
+    "parent_code": "603"
+  },
+  {
+    "code": "604",
+    "name": "Envases y embalajes",
+    "parent_code": "60"
+  },
+  {
+    "code": "6041",
+    "name": "Envases",
+    "parent_code": "604"
+  },
+  {
+    "code": "6042",
+    "name": "Embalajes",
+    "parent_code": "604"
+  },
+  {
+    "code": "609",
+    "name": "Costos vinculados con las compras",
+    "parent_code": "60"
+  },
+  {
+    "code": "6091",
+    "name": "Costos vinculados con las compras de mercaderías",
+    "parent_code": "609"
+  },
+  {
+    "code": "60911",
+    "name": "Transporte",
+    "parent_code": "6091"
+  },
+  {
+    "code": "60912",
+    "name": "Seguros",
+    "parent_code": "6091"
+  },
+  {
+    "code": "60913",
+    "name": "Derechos aduaneros",
+    "parent_code": "6091"
+  },
+  {
+    "code": "60914",
+    "name": "Comisiones",
+    "parent_code": "6091"
+  },
+  {
+    "code": "60919",
+    "name": "Otros costos",
+    "parent_code": "6091"
+  },
+  {
+    "code": "6092",
+    "name": "Costos vinculados con las compras de materias primas",
+    "parent_code": "609"
+  },
+  {
+    "code": "60921",
+    "name": "Transporte",
+    "parent_code": "6092"
+  },
+  {
+    "code": "60922",
+    "name": "Seguros",
+    "parent_code": "6092"
+  },
+  {
+    "code": "60923",
+    "name": "Derechos aduaneros",
+    "parent_code": "6092"
+  },
+  {
+    "code": "60924",
+    "name": "Comisiones",
+    "parent_code": "6092"
+  },
+  {
+    "code": "60925",
+    "name": "Otros costos",
+    "parent_code": "6092"
+  },
+  {
+    "code": "6093",
+    "name": "Costos vinculados con las compras de materiales, suministros y repuestos",
+    "parent_code": "609"
+  },
+  {
+    "code": "60931",
+    "name": "Transporte",
+    "parent_code": "6093"
+  },
+  {
+    "code": "60932",
+    "name": "Seguros",
+    "parent_code": "6093"
+  },
+  {
+    "code": "60933",
+    "name": "Derechos aduaneros",
+    "parent_code": "6093"
+  },
+  {
+    "code": "60934",
+    "name": "Comisiones",
+    "parent_code": "6093"
+  },
+  {
+    "code": "60935",
+    "name": "Otros costos",
+    "parent_code": "6093"
+  },
+  {
+    "code": "6094",
+    "name": "Costos vinculados con las compras de envases y embalajes",
+    "parent_code": "609"
+  },
+  {
+    "code": "60941",
+    "name": "Transporte",
+    "parent_code": "6094"
+  },
+  {
+    "code": "60942",
+    "name": "Seguros",
+    "parent_code": "6094"
+  },
+  {
+    "code": "60943",
+    "name": "Derechos aduaneros",
+    "parent_code": "6094"
+  },
+  {
+    "code": "60944",
+    "name": "Comisiones",
+    "parent_code": "6094"
+  },
+  {
+    "code": "60945",
+    "name": "Otros costos",
+    "parent_code": "6094"
+  },
+  {
+    "code": "61",
+    "name": "VARIACIÓN DE INVENTARIOS",
+    "parent_code": "6"
+  },
+  {
+    "code": "611",
+    "name": "Mercaderías",
+    "parent_code": "61"
+  },
+  {
+    "code": "6111",
+    "name": "Mercaderías",
+    "parent_code": "611"
+  },
+  {
+    "code": "612",
+    "name": "Materias primas",
+    "parent_code": "61"
+  },
+  {
+    "code": "6121",
+    "name": "Materias primas",
+    "parent_code": "612"
+  },
+  {
+    "code": "613",
+    "name": "Materiales auxiliares, suministros y repuestos",
+    "parent_code": "61"
+  },
+  {
+    "code": "6131",
+    "name": "Materiales auxiliares",
+    "parent_code": "613"
+  },
+  {
+    "code": "6132",
+    "name": "Suministros",
+    "parent_code": "613"
+  },
+  {
+    "code": "6133",
+    "name": "Repuestos",
+    "parent_code": "613"
+  },
+  {
+    "code": "614",
+    "name": "Envases y embalajes",
+    "parent_code": "61"
+  },
+  {
+    "code": "6141",
+    "name": "Envases",
+    "parent_code": "614"
+  },
+  {
+    "code": "6142",
+    "name": "Embalajes",
+    "parent_code": "614"
+  },
+  {
+    "code": "62",
+    "name": "GASTOS DE PERSONAL Y DIRECTORES",
+    "parent_code": "6"
+  },
+  {
+    "code": "621",
+    "name": "Remuneraciones",
+    "parent_code": "62"
+  },
+  {
+    "code": "6211",
+    "name": "Sueldos y salarios",
+    "parent_code": "621"
+  },
+  {
+    "code": "6212",
+    "name": "Comisiones",
+    "parent_code": "621"
+  },
+  {
+    "code": "6213",
+    "name": "Remuneraciones en especie",
+    "parent_code": "621"
+  },
+  {
+    "code": "6214",
+    "name": "Gratificaciones",
+    "parent_code": "621"
+  },
+  {
+    "code": "6215",
+    "name": "Vacaciones",
+    "parent_code": "621"
+  },
+  {
+    "code": "622",
+    "name": "Otras remuneraciones",
+    "parent_code": "62"
+  },
+  {
+    "code": "623",
+    "name": "Indemnizaciones al personal",
+    "parent_code": "62"
+  },
+  {
+    "code": "624",
+    "name": "Capacitación",
+    "parent_code": "62"
+  },
+  {
+    "code": "625",
+    "name": "Atención al personal",
+    "parent_code": "62"
+  },
+  {
+    "code": "627",
+    "name": "Seguridad, previsión social y otras contribuciones",
+    "parent_code": "62"
+  },
+  {
+    "code": "6271",
+    "name": "Régimen de prestaciones de salud",
+    "parent_code": "627"
+  },
+  {
+    "code": "6272",
+    "name": "Régimen de pensiones - Aporte de empresa",
+    "parent_code": "627"
+  },
+  {
+    "code": "6273",
+    "name": "Seguro complementario de trabajo de riesgo, accidentes de trabajo y enfermedades profesionales",
+    "parent_code": "627"
+  },
+  {
+    "code": "6274",
+    "name": "Seguro de vida",
+    "parent_code": "627"
+  },
+  {
+    "code": "6275",
+    "name": "Seguros particulares de prestaciones de salud – EPS y otros particulares",
+    "parent_code": "627"
+  },
+  {
+    "code": "6276",
+    "name": "Caja de beneficios de seguridad social del pescador",
+    "parent_code": "627"
+  },
+  {
+    "code": "6277",
+    "name": "Contribuciones al SENATI",
+    "parent_code": "627"
+  },
+  {
+    "code": "628",
+    "name": "Retribuciones al directorio",
+    "parent_code": "62"
+  },
+  {
+    "code": "629",
+    "name": "Beneficios sociales de los trabajadores",
+    "parent_code": "62"
+  },
+  {
+    "code": "6291",
+    "name": "Compensación por tiempo de servicio",
+    "parent_code": "629"
+  },
+  {
+    "code": "6292",
+    "name": "Pensiones y jubilaciones",
+    "parent_code": "629"
+  },
+  {
+    "code": "6293",
+    "name": "Otros beneficios post-empleo",
+    "parent_code": "629"
+  },
+  {
+    "code": "6294",
+    "name": "Participación en las utilidades",
+    "parent_code": "629"
+  },
+  {
+    "code": "62941",
+    "name": "Participación corriente",
+    "parent_code": "6294"
+  },
+  {
+    "code": "62942",
+    "name": "Participación diferida",
+    "parent_code": "6294"
+  },
+  {
+    "code": "63",
+    "name": "GASTOS DE SERVICIOS PRESTADOS POR TERCEROS",
+    "parent_code": "6"
+  },
+  {
+    "code": "631",
+    "name": "Transporte, correos y gastos de viaje",
+    "parent_code": "63"
+  },
+  {
+    "code": "6311",
+    "name": "Transporte",
+    "parent_code": "631"
+  },
+  {
+    "code": "63111",
+    "name": "De carga",
+    "parent_code": "6311"
+  },
+  {
+    "code": "63112",
+    "name": "De pasajeros",
+    "parent_code": "6311"
+  },
+  {
+    "code": "6312",
+    "name": "Correos",
+    "parent_code": "631"
+  },
+  {
+    "code": "6313",
+    "name": "Alojamiento",
+    "parent_code": "631"
+  },
+  {
+    "code": "6314",
+    "name": "Alimentación",
+    "parent_code": "631"
+  },
+  {
+    "code": "6315",
+    "name": "Otros gastos de viaje",
+    "parent_code": "631"
+  },
+  {
+    "code": "632",
+    "name": "Asesoría y consultoría",
+    "parent_code": "63"
+  },
+  {
+    "code": "6321",
+    "name": "Administrativa",
+    "parent_code": "632"
+  },
+  {
+    "code": "6322",
+    "name": "Legal y tributaria",
+    "parent_code": "632"
+  },
+  {
+    "code": "6323",
+    "name": "Auditoría y contable",
+    "parent_code": "632"
+  },
+  {
+    "code": "6324",
+    "name": "Mercadotecnia",
+    "parent_code": "632"
+  },
+  {
+    "code": "6325",
+    "name": "Medioambiental",
+    "parent_code": "632"
+  },
+  {
+    "code": "6326",
+    "name": "Investigación y desarrollo",
+    "parent_code": "632"
+  },
+  {
+    "code": "6327",
+    "name": "Producción",
+    "parent_code": "632"
+  },
+  {
+    "code": "6329",
+    "name": "Otros",
+    "parent_code": "632"
+  },
+  {
+    "code": "633",
+    "name": "Producción encargada a terceros",
+    "parent_code": "63"
+  },
+  {
+    "code": "634",
+    "name": "Mantenimiento y reparaciones",
+    "parent_code": "63"
+  },
+  {
+    "code": "6341",
+    "name": "Propiedad de inversión",
+    "parent_code": "634"
+  },
+  {
+    "code": "6342",
+    "name": "Activos por derecho de uso",
+    "parent_code": "634"
+  },
+  {
+    "code": "63421",
+    "name": "Financiero",
+    "parent_code": "6342"
+  },
+  {
+    "code": "6343",
+    "name": "Propiedad, planta y equipo",
+    "parent_code": "634"
+  },
+  {
+    "code": "6344",
+    "name": "Intangibles",
+    "parent_code": "634"
+  },
+  {
+    "code": "6345",
+    "name": "Activos biológicos",
+    "parent_code": "634"
+  },
+  {
+    "code": "635",
+    "name": "Alquileres",
+    "parent_code": "63"
+  },
+  {
+    "code": "6351",
+    "name": "Terrenos",
+    "parent_code": "635"
+  },
+  {
+    "code": "6352",
+    "name": "Edificaciones",
+    "parent_code": "635"
+  },
+  {
+    "code": "6353",
+    "name": "Maquinarias y equipos de explotación",
+    "parent_code": "635"
+  },
+  {
+    "code": "6354",
+    "name": "Equipo de transporte",
+    "parent_code": "635"
+  },
+  {
+    "code": "6355",
+    "name": "Muebles y enseres",
+    "parent_code": "635"
+  },
+  {
+    "code": "6356",
+    "name": "Equipos diversos",
+    "parent_code": "635"
+  },
+  {
+    "code": "636",
+    "name": "Servicios básicos",
+    "parent_code": "63"
+  },
+  {
+    "code": "6361",
+    "name": "Energía eléctrica",
+    "parent_code": "636"
+  },
+  {
+    "code": "6362",
+    "name": "Gas",
+    "parent_code": "636"
+  },
+  {
+    "code": "6363",
+    "name": "Agua",
+    "parent_code": "636"
+  },
+  {
+    "code": "6364",
+    "name": "Teléfono",
+    "parent_code": "636"
+  },
+  {
+    "code": "6365",
+    "name": "Internet",
+    "parent_code": "636"
+  },
+  {
+    "code": "6366",
+    "name": "Radio",
+    "parent_code": "636"
+  },
+  {
+    "code": "6367",
+    "name": "Cable",
+    "parent_code": "636"
+  },
+  {
+    "code": "637",
+    "name": "Publicidad, publicaciones, relaciones públicas",
+    "parent_code": "63"
+  },
+  {
+    "code": "6371",
+    "name": "Publicidad",
+    "parent_code": "637"
+  },
+  {
+    "code": "6372",
+    "name": "Publicaciones",
+    "parent_code": "637"
+  },
+  {
+    "code": "6373",
+    "name": "Relaciones públicas",
+    "parent_code": "637"
+  },
+  {
+    "code": "638",
+    "name": "Servicios de contratistas",
+    "parent_code": "63"
+  },
+  {
+    "code": "639",
+    "name": "Otros servicios prestados por terceros",
+    "parent_code": "63"
+  },
+  {
+    "code": "6391",
+    "name": "Gastos bancarios",
+    "parent_code": "639"
+  },
+  {
+    "code": "6392",
+    "name": "Gastos de laboratorio",
+    "parent_code": "639"
+  },
+  {
+    "code": "64",
+    "name": "GASTOS POR TRIBUTOS",
+    "parent_code": "6"
+  },
+  {
+    "code": "641",
+    "name": "Gobierno nacional",
+    "parent_code": "64"
+  },
+  {
+    "code": "6411",
+    "name": "Impuesto general a las ventas y selectivo al consumo",
+    "parent_code": "641"
+  },
+  {
+    "code": "6412",
+    "name": "Impuesto a las transacciones financieras",
+    "parent_code": "641"
+  },
+  {
+    "code": "6413",
+    "name": "Impuesto temporal a los activos netos",
+    "parent_code": "641"
+  },
+  {
+    "code": "6414",
+    "name": "Impuesto a los juegos de casino y máquinas tragamonedas",
+    "parent_code": "641"
+  },
+  {
+    "code": "6415",
+    "name": "Regalías mineras",
+    "parent_code": "641"
+  },
+  {
+    "code": "6416",
+    "name": "Cánones",
+    "parent_code": "641"
+  },
+  {
+    "code": "6419",
+    "name": "Otros",
+    "parent_code": "641"
+  },
+  {
+    "code": "642",
+    "name": "Gobierno regional",
+    "parent_code": "64"
+  },
+  {
+    "code": "643",
+    "name": "Gobierno local",
+    "parent_code": "64"
+  },
+  {
+    "code": "6431",
+    "name": "Impuesto predial",
+    "parent_code": "643"
+  },
+  {
+    "code": "6432",
+    "name": "Arbitrios municipales y seguridad ciudadana",
+    "parent_code": "643"
+  },
+  {
+    "code": "6433",
+    "name": "Impuesto al patrimonio vehicular",
+    "parent_code": "643"
+  },
+  {
+    "code": "6434",
+    "name": "Licencia de funcionamiento",
+    "parent_code": "643"
+  },
+  {
+    "code": "6439",
+    "name": "Otros",
+    "parent_code": "643"
+  },
+  {
+    "code": "644",
+    "name": "Otros gastos por tributos",
+    "parent_code": "64"
+  },
+  {
+    "code": "6442",
+    "name": "Contribución al SENCICO",
+    "parent_code": "644"
+  },
+  {
+    "code": "6443",
+    "name": "Otros",
+    "parent_code": "644"
+  },
+  {
+    "code": "645",
+    "name": "Gastos en deuda tributaria",
+    "parent_code": "64"
+  },
+  {
+    "code": "6451",
+    "name": "Intereses",
+    "parent_code": "645"
+  },
+  {
+    "code": "6452",
+    "name": "intereses - fraccionamiento",
+    "parent_code": "645"
+  },
+  {
+    "code": "6453",
+    "name": "Multas",
+    "parent_code": "645"
+  },
+  {
+    "code": "6454",
+    "name": "Costas y otros",
+    "parent_code": "645"
+  },
+  {
+    "code": "65",
+    "name": "OTROS GASTOS DE GESTION",
+    "parent_code": "6"
+  },
+  {
+    "code": "651",
+    "name": "Seguros",
+    "parent_code": "65"
+  },
+  {
+    "code": "652",
+    "name": "Regalías",
+    "parent_code": "65"
+  },
+  {
+    "code": "653",
+    "name": "Suscripciones",
+    "parent_code": "65"
+  },
+  {
+    "code": "654",
+    "name": "Licencias y derechos de vigencia",
+    "parent_code": "65"
+  },
+  {
+    "code": "655",
+    "name": "Costo neto de enajenación de activos inmovilizados y operaciones discontinuadas",
+    "parent_code": "65"
+  },
+  {
+    "code": "6551",
+    "name": "Costo neto de enajenación de activos inmovilizados",
+    "parent_code": "655"
+  },
+  {
+    "code": "65511",
+    "name": "Inversiones mobiliarias",
+    "parent_code": "6551"
+  },
+  {
+    "code": "65512",
+    "name": "Propiedades de inversión",
+    "parent_code": "6551"
+  },
+  {
+    "code": "65513",
+    "name": "Activos por derecho de uso - arrendamiento financiero",
+    "parent_code": "6551"
+  },
+  {
+    "code": "65514",
+    "name": "Propiedad, planta y equipo",
+    "parent_code": "6551"
+  },
+  {
+    "code": "65515",
+    "name": "Intangibles",
+    "parent_code": "6551"
+  },
+  {
+    "code": "65516",
+    "name": "Activos biológicos",
+    "parent_code": "6551"
+  },
+  {
+    "code": "6552",
+    "name": "Operaciones discontinuadas – Abandono de activos",
+    "parent_code": "655"
+  },
+  {
+    "code": "65521",
+    "name": "Propiedades de inversión",
+    "parent_code": "6552"
+  },
+  {
+    "code": "65522",
+    "name": "Activos por derecho de uso - Arrendamiento financiero",
+    "parent_code": "6552"
+  },
+  {
+    "code": "65523",
+    "name": "Propiedad, planta y equipo",
+    "parent_code": "6552"
+  },
+  {
+    "code": "65524",
+    "name": "Intangibles",
+    "parent_code": "6552"
+  },
+  {
+    "code": "65525",
+    "name": "Activos biológicos",
+    "parent_code": "6552"
+  },
+  {
+    "code": "656",
+    "name": "Suministros",
+    "parent_code": "65"
+  },
+  {
+    "code": "658",
+    "name": "Gestión medioambiental",
+    "parent_code": "65"
+  },
+  {
+    "code": "659",
+    "name": "Otros gastos de gestión",
+    "parent_code": "65"
+  },
+  {
+    "code": "6591",
+    "name": "Donaciones",
+    "parent_code": "659"
+  },
+  {
+    "code": "6592",
+    "name": "Sanciones administrativas",
+    "parent_code": "659"
+  },
+  {
+    "code": "66",
+    "name": "PERDIDA POR MEDICIÓN DE ACTIVOS NO FINANCIEROS AL VALOR RAZONABLE",
+    "parent_code": "6"
+  },
+  {
+    "code": "661",
+    "name": "Activo realizable",
+    "parent_code": "66"
+  },
+  {
+    "code": "6611",
+    "name": "Mercaderías",
+    "parent_code": "661"
+  },
+  {
+    "code": "6612",
+    "name": "Productos terminados",
+    "parent_code": "661"
+  },
+  {
+    "code": "6613",
+    "name": "Activos no corrientes mantenidos para la venta",
+    "parent_code": "661"
+  },
+  {
+    "code": "66131",
+    "name": "Propiedades de inversión",
+    "parent_code": "6613"
+  },
+  {
+    "code": "66132",
+    "name": "Propiedad, planta y equipo",
+    "parent_code": "6613"
+  },
+  {
+    "code": "66133",
+    "name": "Intangibles",
+    "parent_code": "6613"
+  },
+  {
+    "code": "66134",
+    "name": "Activos biológicos",
+    "parent_code": "6613"
+  },
+  {
+    "code": "662",
+    "name": "Activo inmovilizado",
+    "parent_code": "66"
+  },
+  {
+    "code": "6621",
+    "name": "Propiedades de inversión",
+    "parent_code": "662"
+  },
+  {
+    "code": "6622",
+    "name": "Activos biológicos",
+    "parent_code": "662"
+  },
+  {
+    "code": "67",
+    "name": "GASTOS FINANCIEROS",
+    "parent_code": "6"
+  },
+  {
+    "code": "671",
+    "name": "Gastos en operaciones de endeudamiento y otros",
+    "parent_code": "67"
+  },
+  {
+    "code": "6711",
+    "name": "Préstamos de instituciones financieras y otras entidades",
+    "parent_code": "671"
+  },
+  {
+    "code": "6712",
+    "name": "Contratos de arrendamiento financiero",
+    "parent_code": "671"
+  },
+  {
+    "code": "6713",
+    "name": "Emisión y colocación de instrumentos representativos de deuda y patrimonio",
+    "parent_code": "671"
+  },
+  {
+    "code": "6714",
+    "name": "Documentos vendidos o descontados",
+    "parent_code": "671"
+  },
+  {
+    "code": "672",
+    "name": "Pérdida por instrumentos financieros derivados",
+    "parent_code": "67"
+  },
+  {
+    "code": "673",
+    "name": "Intereses por préstamos y otras obligaciones",
+    "parent_code": "67"
+  },
+  {
+    "code": "6731",
+    "name": "Préstamos de instituciones financieras y otras entidades",
+    "parent_code": "673"
+  },
+  {
+    "code": "67311",
+    "name": "Instituciones financieras",
+    "parent_code": "6731"
+  },
+  {
+    "code": "67312",
+    "name": "Otras entidades",
+    "parent_code": "6731"
+  },
+  {
+    "code": "6732",
+    "name": "Contratos de arrendamiento financiero",
+    "parent_code": "673"
+  },
+  {
+    "code": "6733",
+    "name": "Otros instrumentos financieros por pagar",
+    "parent_code": "673"
+  },
+  {
+    "code": "6734",
+    "name": "Documentos vendidos o descontados",
+    "parent_code": "673"
+  },
+  {
+    "code": "6735",
+    "name": "Obligaciones emitidas",
+    "parent_code": "673"
+  },
+  {
+    "code": "6736",
+    "name": "Obligaciones comerciales",
+    "parent_code": "673"
+  },
+  {
+    "code": "674",
+    "name": "Gastos en operaciones de factoraje (factoring)",
+    "parent_code": "67"
+  },
+  {
+    "code": "6741",
+    "name": "Pérdida en instrumentos vendidos",
+    "parent_code": "674"
+  },
+  {
+    "code": "675",
+    "name": "Descuentos concedidos por pronto pago",
+    "parent_code": "67"
+  },
+  {
+    "code": "676",
+    "name": "Diferencia de cambio",
+    "parent_code": "67"
+  },
+  {
+    "code": "677",
+    "name": "Pérdida por medición de activos y pasivos financieros al valor razonable",
+    "parent_code": "67"
+  },
+  {
+    "code": "6771",
+    "name": "Inversiones mantenidas para negociación",
+    "parent_code": "677"
+  },
+  {
+    "code": "6772",
+    "name": "Otras inversiones financieras",
+    "parent_code": "677"
+  },
+  {
+    "code": "6773",
+    "name": "Otros",
+    "parent_code": "677"
+  },
+  {
+    "code": "678",
+    "name": "Participación en resultados de entidades relacionadas",
+    "parent_code": "67"
+  },
+  {
+    "code": "6781",
+    "name": "Participación en los resultados de subsidiarias y asociadas bajo el método del valor patrimonial",
+    "parent_code": "678"
+  },
+  {
+    "code": "6782",
+    "name": "Participaciones en negocios conjuntos",
+    "parent_code": "678"
+  },
+  {
+    "code": "679",
+    "name": "Otros gastos financieros",
+    "parent_code": "67"
+  },
+  {
+    "code": "6791",
+    "name": "Primas por opciones",
+    "parent_code": "679"
+  },
+  {
+    "code": "6792",
+    "name": "Gastos financieros en medición a valor descontado",
+    "parent_code": "679"
+  },
+  {
+    "code": "6793",
+    "name": "Gastos financieros en actualización de activos por derecho de uso",
+    "parent_code": "679"
+  },
+  {
+    "code": "68",
+    "name": "VALUACIÓN Y DETERIORO DE ACTIVOS Y PROVISIONES",
+    "parent_code": "6"
+  },
+  {
+    "code": "681",
+    "name": "Depreciación de propiedades de inversión",
+    "parent_code": "68"
+  },
+  {
+    "code": "6811",
+    "name": "Edificaciones",
+    "parent_code": "681"
+  },
+  {
+    "code": "68111",
+    "name": "Costo",
+    "parent_code": "6811"
+  },
+  {
+    "code": "68112",
+    "name": "Revaluación",
+    "parent_code": "6811"
+  },
+  {
+    "code": "68113",
+    "name": "Costo de financiación",
+    "parent_code": "6811"
+  },
+  {
+    "code": "682",
+    "name": "Depreciación de activos por derec ho de uso - arrendamiento financiero",
+    "parent_code": "68"
+  },
+  {
+    "code": "6821",
+    "name": "Propiedades de inversión",
+    "parent_code": "682"
+  },
+  {
+    "code": "68211",
+    "name": "Edificaciones",
+    "parent_code": "6821"
+  },
+  {
+    "code": "682111",
+    "name": "Costo",
+    "parent_code": "68211"
+  },
+  {
+    "code": "682112",
+    "name": "Revaluación",
+    "parent_code": "68211"
+  },
+  {
+    "code": "682113",
+    "name": "Costo de financiación",
+    "parent_code": "68211"
+  },
+  {
+    "code": "6822",
+    "name": "Propiedad, planta y equipo",
+    "parent_code": "682"
+  },
+  {
+    "code": "68221",
+    "name": "Edificaciones",
+    "parent_code": "6822"
+  },
+  {
+    "code": "682211",
+    "name": "Costo",
+    "parent_code": "68221"
+  },
+  {
+    "code": "682212",
+    "name": "Revaluación",
+    "parent_code": "68221"
+  },
+  {
+    "code": "682213",
+    "name": "Costo de financiación",
+    "parent_code": "68221"
+  },
+  {
+    "code": "68222",
+    "name": "Maquinarias y equipos de explotación",
+    "parent_code": "6822"
+  },
+  {
+    "code": "682221",
+    "name": "Costo",
+    "parent_code": "68222"
+  },
+  {
+    "code": "682222",
+    "name": "Revaluación",
+    "parent_code": "68222"
+  },
+  {
+    "code": "682223",
+    "name": "Costo de financiación",
+    "parent_code": "68222"
+  },
+  {
+    "code": "68223",
+    "name": "Unidades de transporte",
+    "parent_code": "6822"
+  },
+  {
+    "code": "682231",
+    "name": "Costo",
+    "parent_code": "68223"
+  },
+  {
+    "code": "682232",
+    "name": "Revaluación",
+    "parent_code": "68223"
+  },
+  {
+    "code": "68225",
+    "name": "Equipos diversos",
+    "parent_code": "6822"
+  },
+  {
+    "code": "682251",
+    "name": "Costo",
+    "parent_code": "68225"
+  },
+  {
+    "code": "682252",
+    "name": "Revaluación",
+    "parent_code": "68225"
+  },
+  {
+    "code": "683",
+    "name": "Depreciación de activos por derec ho de uso - arrendamiento operativo",
+    "parent_code": "68"
+  },
+  {
+    "code": "6831",
+    "name": "Depreciación de activos por derecho de uso - arrendamiento operativo",
+    "parent_code": "683"
+  },
+  {
+    "code": "68311",
+    "name": "Edificaciones",
+    "parent_code": "6831"
+  },
+  {
+    "code": "683111",
+    "name": "Costo",
+    "parent_code": "68311"
+  },
+  {
+    "code": "683112",
+    "name": "Revaluación",
+    "parent_code": "68311"
+  },
+  {
+    "code": "68312",
+    "name": "Maquinarias y equipos de explotación",
+    "parent_code": "6831"
+  },
+  {
+    "code": "683121",
+    "name": "Costo",
+    "parent_code": "68312"
+  },
+  {
+    "code": "683122",
+    "name": "Revaluación",
+    "parent_code": "68312"
+  },
+  {
+    "code": "68313",
+    "name": "Unidades de transporte",
+    "parent_code": "6831"
+  },
+  {
+    "code": "683131",
+    "name": "Costo",
+    "parent_code": "68313"
+  },
+  {
+    "code": "683132",
+    "name": "Revaluación",
+    "parent_code": "68313"
+  },
+  {
+    "code": "68315",
+    "name": "Equipos diversos",
+    "parent_code": "6831"
+  },
+  {
+    "code": "683152",
+    "name": "Revaluación",
+    "parent_code": "68315"
+  },
+  {
+    "code": "684",
+    "name": "Depreciación de propiedad, planta y equipo",
+    "parent_code": "68"
+  },
+  {
+    "code": "6841",
+    "name": "Depreciación de propiedad, planta y equipo - Costo",
+    "parent_code": "684"
+  },
+  {
+    "code": "68410",
+    "name": "Plantas productoras",
+    "parent_code": "6841"
+  },
+  {
+    "code": "68411",
+    "name": "Edificaciones",
+    "parent_code": "6841"
+  },
+  {
+    "code": "68412",
+    "name": "Maquinarias y equipos de explotación",
+    "parent_code": "6841"
+  },
+  {
+    "code": "68413",
+    "name": "Unidades de transporte",
+    "parent_code": "6841"
+  },
+  {
+    "code": "68414",
+    "name": "Muebles y enseres",
+    "parent_code": "6841"
+  },
+  {
+    "code": "68415",
+    "name": "Equipos diversos",
+    "parent_code": "6841"
+  },
+  {
+    "code": "68416",
+    "name": "Herramientas y unidades de reemplazo",
+    "parent_code": "6841"
+  },
+  {
+    "code": "6842",
+    "name": "Depreciación de propiedad, planta y equipo - Revaluación",
+    "parent_code": "684"
+  },
+  {
+    "code": "68420",
+    "name": "Plantas productoras",
+    "parent_code": "6842"
+  },
+  {
+    "code": "68421",
+    "name": "Edificaciones",
+    "parent_code": "6842"
+  },
+  {
+    "code": "68422",
+    "name": "Maquinarias y equipos de explotación",
+    "parent_code": "6842"
+  },
+  {
+    "code": "68423",
+    "name": "Unidades de transporte",
+    "parent_code": "6842"
+  },
+  {
+    "code": "68424",
+    "name": "Muebles y enseres",
+    "parent_code": "6842"
+  },
+  {
+    "code": "68425",
+    "name": "Equipos diversos",
+    "parent_code": "6842"
+  },
+  {
+    "code": "68426",
+    "name": "Herramientas y unidades de reemplazo",
+    "parent_code": "6842"
+  },
+  {
+    "code": "6843",
+    "name": "Depreciación de propiedad, planta y equipo - Costos de financiación",
+    "parent_code": "684"
+  },
+  {
+    "code": "68430",
+    "name": "Plantas productoras",
+    "parent_code": "6843"
+  },
+  {
+    "code": "68431",
+    "name": "Edificaciones",
+    "parent_code": "6843"
+  },
+  {
+    "code": "68432",
+    "name": "Maquinarias y equipos de explotación",
+    "parent_code": "6843"
+  },
+  {
+    "code": "685",
+    "name": "Depreciación de activos biológicos en producción",
+    "parent_code": "68"
+  },
+  {
+    "code": "6851",
+    "name": "Depreciación de activos biológicos en producción - costo",
+    "parent_code": "685"
+  },
+  {
+    "code": "68511",
+    "name": "Activos biológicos de origen animal",
+    "parent_code": "6851"
+  },
+  {
+    "code": "68512",
+    "name": "Activos biológicos de origen vegetal",
+    "parent_code": "6851"
+  },
+  {
+    "code": "6852",
+    "name": "Depreciación de activos biológicos en producción - costo de financiación",
+    "parent_code": "685"
+  },
+  {
+    "code": "68521",
+    "name": "Activos biológicos de origen animal",
+    "parent_code": "6852"
+  },
+  {
+    "code": "68522",
+    "name": "Activos biológicos de origen vegetal",
+    "parent_code": "6852"
+  },
+  {
+    "code": "686",
+    "name": "Amortización de intangibles",
+    "parent_code": "68"
+  },
+  {
+    "code": "6861",
+    "name": "Amortización de intangibles – Costo",
+    "parent_code": "686"
+  },
+  {
+    "code": "68611",
+    "name": "Concesiones, licencias y otros derechos",
+    "parent_code": "6861"
+  },
+  {
+    "code": "68612",
+    "name": "Patentes y propiedad industrial",
+    "parent_code": "6861"
+  },
+  {
+    "code": "68613",
+    "name": "Programas de computadora ( software )",
+    "parent_code": "6861"
+  },
+  {
+    "code": "68614",
+    "name": "Costos de exploración y desarrollo",
+    "parent_code": "6861"
+  },
+  {
+    "code": "68615",
+    "name": "Fórmulas, diseños y prototipos",
+    "parent_code": "6861"
+  },
+  {
+    "code": "68619",
+    "name": "Otros activos intangibles",
+    "parent_code": "6861"
+  },
+  {
+    "code": "6862",
+    "name": "Amortización de intangibles – Revaluación",
+    "parent_code": "686"
+  },
+  {
+    "code": "68621",
+    "name": "Concesiones, licencias y otros derechos",
+    "parent_code": "6862"
+  },
+  {
+    "code": "68622",
+    "name": "Patentes y propiedad industrial",
+    "parent_code": "6862"
+  },
+  {
+    "code": "68623",
+    "name": "Programas de computadora ( software )",
+    "parent_code": "6862"
+  },
+  {
+    "code": "68624",
+    "name": "Costos de exploración y desarrollo",
+    "parent_code": "6862"
+  },
+  {
+    "code": "68625",
+    "name": "Fórmulas, diseños y prototipos",
+    "parent_code": "6862"
+  },
+  {
+    "code": "68629",
+    "name": "Otros activos intangibles",
+    "parent_code": "6862"
+  },
+  {
+    "code": "687",
+    "name": "Valuación de activos",
+    "parent_code": "68"
+  },
+  {
+    "code": "6871",
+    "name": "Estimación de cuentas de cobranza dudosa",
+    "parent_code": "687"
+  },
+  {
+    "code": "68711",
+    "name": "Cuentas por cobrar comerciales – Terceros",
+    "parent_code": "6871"
+  },
+  {
+    "code": "68712",
+    "name": "Cuentas por cobrar comerciales – Relacionadas",
+    "parent_code": "6871"
+  },
+  {
+    "code": "68713",
+    "name": "Cuentas por cobrar al personal , a los accionistas (socios) y directores",
+    "parent_code": "6871"
+  },
+  {
+    "code": "68714",
+    "name": "Cuentas por cobrar diversas – Terceros",
+    "parent_code": "6871"
+  },
+  {
+    "code": "68715",
+    "name": "Cuentas por cobrar diversas – Relacionadas",
+    "parent_code": "6871"
+  },
+  {
+    "code": "6873",
+    "name": "Desvalorización de inversiones mobiliarias",
+    "parent_code": "687"
+  },
+  {
+    "code": "68731",
+    "name": "Inversiones a ser mantenidas hasta el vencimiento",
+    "parent_code": "6873"
+  },
+  {
+    "code": "68732",
+    "name": "Instrumentos financieros representativos de derecho patrimonial",
+    "parent_code": "6873"
+  },
+  {
+    "code": "688",
+    "name": "Deterioro del valor de los activos",
+    "parent_code": "68"
+  },
+  {
+    "code": "6882",
+    "name": "Desvalorización de activos por derecho de uso - arrendamiento financiero",
+    "parent_code": "688"
+  },
+  {
+    "code": "68820",
+    "name": "Planta productora en producción",
+    "parent_code": "6882"
+  },
+  {
+    "code": "68821",
+    "name": "Planta productora en desarrollo",
+    "parent_code": "6882"
+  },
+  {
+    "code": "68822",
+    "name": "Terrenos",
+    "parent_code": "6882"
+  },
+  {
+    "code": "68823",
+    "name": "Edificaciones",
+    "parent_code": "6882"
+  },
+  {
+    "code": "68824",
+    "name": "Maquinarias y equipos de explotación",
+    "parent_code": "6882"
+  },
+  {
+    "code": "68825",
+    "name": "Unidades de transporte",
+    "parent_code": "6882"
+  },
+  {
+    "code": "68826",
+    "name": "Muebles y enseres",
+    "parent_code": "6882"
+  },
+  {
+    "code": "68827",
+    "name": "Equipos diversos",
+    "parent_code": "6882"
+  },
+  {
+    "code": "68828",
+    "name": "Herramientas y unidades de reemplazo",
+    "parent_code": "6882"
+  },
+  {
+    "code": "6883",
+    "name": "Desvalorización de propiedad, planta y equipo",
+    "parent_code": "688"
+  },
+  {
+    "code": "68830",
+    "name": "Planta productora en producción",
+    "parent_code": "6883"
+  },
+  {
+    "code": "68831",
+    "name": "Planta productora en desarrollo",
+    "parent_code": "6883"
+  },
+  {
+    "code": "68832",
+    "name": "Terrenos",
+    "parent_code": "6883"
+  },
+  {
+    "code": "68833",
+    "name": "Edificaciones",
+    "parent_code": "6883"
+  },
+  {
+    "code": "68834",
+    "name": "Maquinarias y equipos de explotación",
+    "parent_code": "6883"
+  },
+  {
+    "code": "68835",
+    "name": "Unidades de transporte",
+    "parent_code": "6883"
+  },
+  {
+    "code": "68836",
+    "name": "Muebles y enseres",
+    "parent_code": "6883"
+  },
+  {
+    "code": "68837",
+    "name": "Equipos diversos",
+    "parent_code": "6883"
+  },
+  {
+    "code": "68838",
+    "name": "Herramientas y unidades de reemplazo",
+    "parent_code": "6883"
+  },
+  {
+    "code": "6884",
+    "name": "Desvalorización de intangibles",
+    "parent_code": "688"
+  },
+  {
+    "code": "68841",
+    "name": "Concesiones, licencias y otros derechos",
+    "parent_code": "6884"
+  },
+  {
+    "code": "68842",
+    "name": "Patentes y propiedad industrial",
+    "parent_code": "6884"
+  },
+  {
+    "code": "68843",
+    "name": "Programas de computadora ( software )",
+    "parent_code": "6884"
+  },
+  {
+    "code": "68844",
+    "name": "Costos de exploración y desarrollo",
+    "parent_code": "6884"
+  },
+  {
+    "code": "68845",
+    "name": "Fórmulas, diseños y prototipos",
+    "parent_code": "6884"
+  },
+  {
+    "code": "68846",
+    "name": "Otros activos intangibles",
+    "parent_code": "6884"
+  },
+  {
+    "code": "68847",
+    "name": "Plusvalía mercantil",
+    "parent_code": "6884"
+  },
+  {
+    "code": "6889",
+    "name": "Desvalorización de activos biológicos en producción",
+    "parent_code": "688"
+  },
+  {
+    "code": "68891",
+    "name": "Activos biológicos de origen animal",
+    "parent_code": "6889"
+  },
+  {
+    "code": "68892",
+    "name": "Activos biológicos de origen vegetal",
+    "parent_code": "6889"
+  },
+  {
+    "code": "689",
+    "name": "Provisiones",
+    "parent_code": "68"
+  },
+  {
+    "code": "6891",
+    "name": "Provisión para litigios",
+    "parent_code": "689"
+  },
+  {
+    "code": "68911",
+    "name": "Provisión para litigios – Costo",
+    "parent_code": "6891"
+  },
+  {
+    "code": "68912",
+    "name": "Provisión para litigios – Actualización financiera",
+    "parent_code": "6891"
+  },
+  {
+    "code": "6892",
+    "name": "Provisión por desmantelamiento, retiro o rehabilitación del inmovilizado",
+    "parent_code": "689"
+  },
+  {
+    "code": "68921",
+    "name": "Provisión por desmantelamiento, retiro o rehabilitación del inmovilizado – Costo",
+    "parent_code": "6892"
+  },
+  {
+    "code": "68922",
+    "name": "Provisión por desmantelamiento, retiro o rehabilitación del inmovilizado – Actualización financiera",
+    "parent_code": "6892"
+  },
+  {
+    "code": "6893",
+    "name": "Provisión para reestructuraciones",
+    "parent_code": "689"
+  },
+  {
+    "code": "6894",
+    "name": "Provisión para protección y remediación del medio ambiente",
+    "parent_code": "689"
+  },
+  {
+    "code": "68941",
+    "name": "Provisión para protección y remediación del medio ambiente – Costo",
+    "parent_code": "6894"
+  },
+  {
+    "code": "68942",
+    "name": "Provisión para protección y remediación del medio ambiente – Actualización financiera",
+    "parent_code": "6894"
+  },
+  {
+    "code": "6896",
+    "name": "Provisión para garantías",
+    "parent_code": "689"
+  },
+  {
+    "code": "68961",
+    "name": "Provisión para garantías – Costo",
+    "parent_code": "6896"
+  },
+  {
+    "code": "68962",
+    "name": "Provisión para garantías – Actualización financiera",
+    "parent_code": "6896"
+  },
+  {
+    "code": "6897",
+    "name": "Provisión por activos por derecho de uso",
+    "parent_code": "689"
+  },
+  {
+    "code": "68971",
+    "name": "Provisión por activos por derecho de uso arrendamiento operativo",
+    "parent_code": "6897"
+  },
+  {
+    "code": "68972",
+    "name": "Provisión por activos por derecho de uso arrendamiento operativo - actualización financiera",
+    "parent_code": "6897"
+  },
+  {
+    "code": "6899",
+    "name": "Otras provisiones",
+    "parent_code": "689"
+  },
+  {
+    "code": "69",
+    "name": "COSTO DE VENTAS",
+    "parent_code": "6"
+  },
+  {
+    "code": "691",
+    "name": "Mercaderías",
+    "parent_code": "69"
+  },
+  {
+    "code": "6911",
+    "name": "Mercaderías - exportación",
+    "parent_code": "691"
+  },
+  {
+    "code": "69111",
+    "name": "Terceros",
+    "parent_code": "6911"
+  },
+  {
+    "code": "69112",
+    "name": "Relacionadas",
+    "parent_code": "6911"
+  },
+  {
+    "code": "6912",
+    "name": "Mercaderías - venta local",
+    "parent_code": "691"
+  },
+  {
+    "code": "69121",
+    "name": "Terceros",
+    "parent_code": "6912"
+  },
+  {
+    "code": "69122",
+    "name": "Relacionadas",
+    "parent_code": "6912"
+  },
+  {
+    "code": "692",
+    "name": "Productos terminados",
+    "parent_code": "69"
+  },
+  {
+    "code": "6921",
+    "name": "Productos terminados - Exportación",
+    "parent_code": "692"
+  },
+  {
+    "code": "69211",
+    "name": "Terceros",
+    "parent_code": "6921"
+  },
+  {
+    "code": "69212",
+    "name": "Relacionadas",
+    "parent_code": "6921"
+  },
+  {
+    "code": "6922",
+    "name": "Productos terminados - Venta local",
+    "parent_code": "692"
+  },
+  {
+    "code": "69221",
+    "name": "Terceros",
+    "parent_code": "6922"
+  },
+  {
+    "code": "69222",
+    "name": "Relacionadas",
+    "parent_code": "6922"
+  },
+  {
+    "code": "6923",
+    "name": "Costos de financiación – Productos terminados",
+    "parent_code": "692"
+  },
+  {
+    "code": "69231",
+    "name": "Terceros",
+    "parent_code": "6923"
+  },
+  {
+    "code": "69232",
+    "name": "Relacionadas",
+    "parent_code": "6923"
+  },
+  {
+    "code": "6924",
+    "name": "Costos de producción no abs orbido – Productos terminados",
+    "parent_code": "692"
+  },
+  {
+    "code": "6925",
+    "name": "Costo de ineficiencia – Productos terminados",
+    "parent_code": "692"
+  },
+  {
+    "code": "693",
+    "name": "Servicios terminados",
+    "parent_code": "69"
+  },
+  {
+    "code": "6931",
+    "name": "Servicios – Exportación",
+    "parent_code": "693"
+  },
+  {
+    "code": "69311",
+    "name": "Terceros",
+    "parent_code": "6931"
+  },
+  {
+    "code": "69312",
+    "name": "Relacionadas",
+    "parent_code": "6931"
+  },
+  {
+    "code": "6932",
+    "name": "Servicios – local",
+    "parent_code": "693"
+  },
+  {
+    "code": "69321",
+    "name": "Terceros",
+    "parent_code": "6932"
+  },
+  {
+    "code": "69322",
+    "name": "Relacionadas",
+    "parent_code": "6932"
+  },
+  {
+    "code": "694",
+    "name": "Subproductos, desechos y desperdicios",
+    "parent_code": "69"
+  },
+  {
+    "code": "6941",
+    "name": "Subproductos",
+    "parent_code": "694"
+  },
+  {
+    "code": "69411",
+    "name": "Terceros",
+    "parent_code": "6941"
+  },
+  {
+    "code": "69412",
+    "name": "Relacionadas",
+    "parent_code": "6941"
+  },
+  {
+    "code": "6942",
+    "name": "Desechos y desperdicios",
+    "parent_code": "694"
+  },
+  {
+    "code": "69421",
+    "name": "Terceros",
+    "parent_code": "6942"
+  },
+  {
+    "code": "69422",
+    "name": "Relacionadas",
+    "parent_code": "6942"
+  },
+  {
+    "code": "695",
+    "name": "Gastos por desvalorización de inventarios al costo",
+    "parent_code": "69"
+  },
+  {
+    "code": "6951",
+    "name": "Mercaderías",
+    "parent_code": "695"
+  },
+  {
+    "code": "6952",
+    "name": "Productos terminados",
+    "parent_code": "695"
+  },
+  {
+    "code": "6953",
+    "name": "Subproductos, desechos y desperdicios",
+    "parent_code": "695"
+  },
+  {
+    "code": "6954",
+    "name": "Productos en proceso",
+    "parent_code": "695"
+  },
+  {
+    "code": "6955",
+    "name": "Materias primas",
+    "parent_code": "695"
+  },
+  {
+    "code": "6956",
+    "name": "Materiales auxiliares, suministros y repuestos",
+    "parent_code": "695"
+  },
+  {
+    "code": "6957",
+    "name": "Envases y embalajes",
+    "parent_code": "695"
+  },
+  {
+    "code": "6958",
+    "name": "Inventarios por recibir",
+    "parent_code": "695"
+  },
+  {
+    "code": "7",
+    "name": "INGRESOS",
+    "parent_code": null
+  },
+  {
+    "code": "70",
+    "name": "VENTAS",
+    "parent_code": "7"
+  },
+  {
+    "code": "701",
+    "name": "Mercaderías",
+    "parent_code": "70"
+  },
+  {
+    "code": "7011",
+    "name": "Mercaderías - venta de exportación",
+    "parent_code": "701"
+  },
+  {
+    "code": "70111",
+    "name": "Terceros",
+    "parent_code": "7011"
+  },
+  {
+    "code": "70112",
+    "name": "Relacionadas",
+    "parent_code": "7011"
+  },
+  {
+    "code": "7012",
+    "name": "Mercaderías - venta local",
+    "parent_code": "701"
+  },
+  {
+    "code": "702",
+    "name": "Productos terminados",
+    "parent_code": "70"
+  },
+  {
+    "code": "7021",
+    "name": "Productos terminados - venta de exportación",
+    "parent_code": "702"
+  },
+  {
+    "code": "70211",
+    "name": "Terceros",
+    "parent_code": "7021"
+  },
+  {
+    "code": "70212",
+    "name": "Relacionadas",
+    "parent_code": "7021"
+  },
+  {
+    "code": "7022",
+    "name": "Productos terminados - venta local",
+    "parent_code": "702"
+  },
+  {
+    "code": "70221",
+    "name": "Terceros",
+    "parent_code": "7022"
+  },
+  {
+    "code": "70222",
+    "name": "Relacionadas",
+    "parent_code": "7022"
+  },
+  {
+    "code": "703",
+    "name": "Servicios terminados",
+    "parent_code": "70"
+  },
+  {
+    "code": "7031",
+    "name": "Servicios – exportación",
+    "parent_code": "703"
+  },
+  {
+    "code": "70311",
+    "name": "Terceros",
+    "parent_code": "7031"
+  },
+  {
+    "code": "70312",
+    "name": "Relacionadas",
+    "parent_code": "7031"
+  },
+  {
+    "code": "7032",
+    "name": "Servicios – local",
+    "parent_code": "703"
+  },
+  {
+    "code": "70321",
+    "name": "Terceros",
+    "parent_code": "7032"
+  },
+  {
+    "code": "70322",
+    "name": "Relacionadas",
+    "parent_code": "7032"
+  },
+  {
+    "code": "704",
+    "name": "Subproductos, desechos y desperdicios",
+    "parent_code": "70"
+  },
+  {
+    "code": "7041",
+    "name": "Subproductos",
+    "parent_code": "704"
+  },
+  {
+    "code": "70411",
+    "name": "Terceros",
+    "parent_code": "7041"
+  },
+  {
+    "code": "70412",
+    "name": "Relacionadas",
+    "parent_code": "7041"
+  },
+  {
+    "code": "7042",
+    "name": "Desechos y desperdicios",
+    "parent_code": "704"
+  },
+  {
+    "code": "70421",
+    "name": "Terceros",
+    "parent_code": "7042"
+  },
+  {
+    "code": "70422",
+    "name": "Relacionadas",
+    "parent_code": "7042"
+  },
+  {
+    "code": "709",
+    "name": "Devoluciones sobre ventas",
+    "parent_code": "70"
+  },
+  {
+    "code": "7091",
+    "name": "Mercaderías - Venta de exportación",
+    "parent_code": "709"
+  },
+  {
+    "code": "70911",
+    "name": "Terceros",
+    "parent_code": "7091"
+  },
+  {
+    "code": "70912",
+    "name": "Relacionadas",
+    "parent_code": "7091"
+  },
+  {
+    "code": "7092",
+    "name": "Mercaderías - Venta local",
+    "parent_code": "709"
+  },
+  {
+    "code": "70921",
+    "name": "Terceros",
+    "parent_code": "7092"
+  },
+  {
+    "code": "70922",
+    "name": "Relacionadas",
+    "parent_code": "7092"
+  },
+  {
+    "code": "7093",
+    "name": "Productos terminados - Venta de exportación",
+    "parent_code": "709"
+  },
+  {
+    "code": "70931",
+    "name": "Terceros",
+    "parent_code": "7093"
+  },
+  {
+    "code": "70932",
+    "name": "Relacionadas",
+    "parent_code": "7093"
+  },
+  {
+    "code": "7094",
+    "name": "Productos terminados - Venta local",
+    "parent_code": "709"
+  },
+  {
+    "code": "70941",
+    "name": "Terceros",
+    "parent_code": "7094"
+  },
+  {
+    "code": "70942",
+    "name": "Relacionadas",
+    "parent_code": "7094"
+  },
+  {
+    "code": "7095",
+    "name": "Inventarios de servicios rechazados",
+    "parent_code": "709"
+  },
+  {
+    "code": "70951",
+    "name": "Terceros",
+    "parent_code": "7095"
+  },
+  {
+    "code": "70952",
+    "name": "Relacionadas",
+    "parent_code": "7095"
+  },
+  {
+    "code": "7096",
+    "name": "Subproductos, desechos y desperdicios",
+    "parent_code": "709"
+  },
+  {
+    "code": "70961",
+    "name": "Terceros",
+    "parent_code": "7096"
+  },
+  {
+    "code": "70962",
+    "name": "Relacionadas",
+    "parent_code": "7096"
+  },
+  {
+    "code": "71",
+    "name": "VARIACIÓN DE LA PRODUCCIÓN ALMACENADA",
+    "parent_code": "7"
+  },
+  {
+    "code": "711",
+    "name": "Variación de productos terminados",
+    "parent_code": "71"
+  },
+  {
+    "code": "7111",
+    "name": "Productos terminados",
+    "parent_code": "711"
+  },
+  {
+    "code": "712",
+    "name": "Variación de subproductos, desechos y desperdicios",
+    "parent_code": "71"
+  },
+  {
+    "code": "7121",
+    "name": "Subproductos",
+    "parent_code": "712"
+  },
+  {
+    "code": "7122",
+    "name": "Desechos y desperdicios",
+    "parent_code": "712"
+  },
+  {
+    "code": "713",
+    "name": "Variación de productos en proceso",
+    "parent_code": "71"
+  },
+  {
+    "code": "7131",
+    "name": "Productos en proceso de manufactura",
+    "parent_code": "713"
+  },
+  {
+    "code": "714",
+    "name": "Variación de envases y embalajes",
+    "parent_code": "71"
+  },
+  {
+    "code": "7141",
+    "name": "Envases",
+    "parent_code": "714"
+  },
+  {
+    "code": "7142",
+    "name": "Embalajes",
+    "parent_code": "714"
+  },
+  {
+    "code": "715",
+    "name": "Variación de inventarios de servicios",
+    "parent_code": "71"
+  },
+  {
+    "code": "7151",
+    "name": "Inventarios de servicios en proceso",
+    "parent_code": "715"
+  },
+  {
+    "code": "72",
+    "name": "PRODUCCIÓN DE ACTIVO INMOVILIZADO",
+    "parent_code": "7"
+  },
+  {
+    "code": "721",
+    "name": "Propiedades de inversión",
+    "parent_code": "72"
+  },
+  {
+    "code": "7211",
+    "name": "Edificaciones",
+    "parent_code": "721"
+  },
+  {
+    "code": "722",
+    "name": "Propiedad, planta y equipo",
+    "parent_code": "72"
+  },
+  {
+    "code": "7220",
+    "name": "Planta productora",
+    "parent_code": "722"
+  },
+  {
+    "code": "7221",
+    "name": "Edificaciones",
+    "parent_code": "722"
+  },
+  {
+    "code": "7222",
+    "name": "Maquinarias y otros equipos de explotación",
+    "parent_code": "722"
+  },
+  {
+    "code": "7223",
+    "name": "Unidades de transporte",
+    "parent_code": "722"
+  },
+  {
+    "code": "7224",
+    "name": "Muebles y enseres",
+    "parent_code": "722"
+  },
+  {
+    "code": "7225",
+    "name": "Equipos diversos",
+    "parent_code": "722"
+  },
+  {
+    "code": "723",
+    "name": "Intangibles",
+    "parent_code": "72"
+  },
+  {
+    "code": "7231",
+    "name": "Programas de computadora ( software )",
+    "parent_code": "723"
+  },
+  {
+    "code": "7232",
+    "name": "Costos de exploración y desarrollo",
+    "parent_code": "723"
+  },
+  {
+    "code": "7233",
+    "name": "Fórmulas, diseños y prototipos",
+    "parent_code": "723"
+  },
+  {
+    "code": "724",
+    "name": "Activos biológicos",
+    "parent_code": "72"
+  },
+  {
+    "code": "7241",
+    "name": "Activos biológicos en desarrollo de origen animal",
+    "parent_code": "724"
+  },
+  {
+    "code": "7242",
+    "name": "Activos biológicos en desarrollo de origen vegetal",
+    "parent_code": "724"
+  },
+  {
+    "code": "725",
+    "name": "Costos de financiación capitalizados",
+    "parent_code": "72"
+  },
+  {
+    "code": "7251",
+    "name": "Costos de financiación – Propiedades de inversión",
+    "parent_code": "725"
+  },
+  {
+    "code": "72511",
+    "name": "Plantas productoras en desarrollo",
+    "parent_code": "7251"
+  },
+  {
+    "code": "72512",
+    "name": "Edificaciones",
+    "parent_code": "7251"
+  },
+  {
+    "code": "7252",
+    "name": "Costos de financiación – Propiedad, planta y equipo",
+    "parent_code": "725"
+  },
+  {
+    "code": "72521",
+    "name": "Plantas productoras en desarrollo",
+    "parent_code": "7252"
+  },
+  {
+    "code": "72522",
+    "name": "Edificaciones",
+    "parent_code": "7252"
+  },
+  {
+    "code": "72523",
+    "name": "Maquinarias y otros equipos de explotación",
+    "parent_code": "7252"
+  },
+  {
+    "code": "7253",
+    "name": "Costos de financiación – Intangibles",
+    "parent_code": "725"
+  },
+  {
+    "code": "7254",
+    "name": "Costos de financiación – Activos biológicos en desarrollo",
+    "parent_code": "725"
+  },
+  {
+    "code": "72541",
+    "name": "Activos biológicos de origen animal",
+    "parent_code": "7254"
+  },
+  {
+    "code": "72542",
+    "name": "Activos biológicos de origen vegetal",
+    "parent_code": "7254"
+  },
+  {
+    "code": "73",
+    "name": "DESCUENTOS, REBAJAS Y BONIFICACIONES OBTENIDOS",
+    "parent_code": "7"
+  },
+  {
+    "code": "731",
+    "name": "Descuentos, rebajas y bonificaciones obtenidos",
+    "parent_code": "73"
+  },
+  {
+    "code": "7311",
+    "name": "Terceros",
+    "parent_code": "731"
+  },
+  {
+    "code": "7312",
+    "name": "Relacionadas",
+    "parent_code": "731"
+  },
+  {
+    "code": "74",
+    "name": "DESCUENTOS, REBAJAS y BONIFICACIONES CONCEDIDOS",
+    "parent_code": "7"
+  },
+  {
+    "code": "741",
+    "name": "Descuentos, rebajas y bonificaciones concedidos",
+    "parent_code": "74"
+  },
+  {
+    "code": "7411",
+    "name": "Terceros",
+    "parent_code": "741"
+  },
+  {
+    "code": "7412",
+    "name": "Relacionadas",
+    "parent_code": "741"
+  },
+  {
+    "code": "75",
+    "name": "OTROS INGRESOS DE GESTIÓN",
+    "parent_code": "7"
+  },
+  {
+    "code": "751",
+    "name": "Servicios en beneficio del personal",
+    "parent_code": "75"
+  },
+  {
+    "code": "752",
+    "name": "Comisiones y corretajes",
+    "parent_code": "75"
+  },
+  {
+    "code": "753",
+    "name": "Regalías",
+    "parent_code": "75"
+  },
+  {
+    "code": "754",
+    "name": "Alquileres",
+    "parent_code": "75"
+  },
+  {
+    "code": "7540",
+    "name": "Plantas productoras",
+    "parent_code": "754"
+  },
+  {
+    "code": "7541",
+    "name": "Terrenos",
+    "parent_code": "754"
+  },
+  {
+    "code": "7542",
+    "name": "Edificaciones",
+    "parent_code": "754"
+  },
+  {
+    "code": "7543",
+    "name": "Maquinarias y equipos de explotación",
+    "parent_code": "754"
+  },
+  {
+    "code": "7544",
+    "name": "Unidades de transporte",
+    "parent_code": "754"
+  },
+  {
+    "code": "7545",
+    "name": "Equipos diversos",
+    "parent_code": "754"
+  },
+  {
+    "code": "755",
+    "name": "Recuperación de cuentas de valuación",
+    "parent_code": "75"
+  },
+  {
+    "code": "7551",
+    "name": "Recuperación – Cuentas de cobranza dudosa",
+    "parent_code": "755"
+  },
+  {
+    "code": "7552",
+    "name": "Recuperación – Desvalorización de inventarios",
+    "parent_code": "755"
+  },
+  {
+    "code": "7553",
+    "name": "Recuperación – Desvalorización de inversiones mobiliarias",
+    "parent_code": "755"
+  },
+  {
+    "code": "756",
+    "name": "Enajenación de activos inmovilizados",
+    "parent_code": "75"
+  },
+  {
+    "code": "7561",
+    "name": "Inversiones mobiliarias",
+    "parent_code": "756"
+  },
+  {
+    "code": "7562",
+    "name": "Propiedades de inversión",
+    "parent_code": "756"
+  },
+  {
+    "code": "7563",
+    "name": "Activos adquiridos en arrendamiento financiero",
+    "parent_code": "756"
+  },
+  {
+    "code": "7564",
+    "name": "Propiedad, planta y equipo",
+    "parent_code": "756"
+  },
+  {
+    "code": "7565",
+    "name": "Intangibles",
+    "parent_code": "756"
+  },
+  {
+    "code": "7566",
+    "name": "Activos biológicos",
+    "parent_code": "756"
+  },
+  {
+    "code": "757",
+    "name": "Recuperación de deterioro de cuentas de activos inmovilizados",
+    "parent_code": "75"
+  },
+  {
+    "code": "7571",
+    "name": "Recuperación de deterioro de propiedades de inversión",
+    "parent_code": "757"
+  },
+  {
+    "code": "7572",
+    "name": "Recuperación de deterioro de propiedad, planta y equipo",
+    "parent_code": "757"
+  },
+  {
+    "code": "7573",
+    "name": "Recuperación de deterioro de intangibles",
+    "parent_code": "757"
+  },
+  {
+    "code": "7574",
+    "name": "Recuperación de deterioro de activos biológicos",
+    "parent_code": "757"
+  },
+  {
+    "code": "759",
+    "name": "Otros ingresos de gestión",
+    "parent_code": "75"
+  },
+  {
+    "code": "7591",
+    "name": "Subsidios gubernamentales",
+    "parent_code": "759"
+  },
+  {
+    "code": "7592",
+    "name": "Reclamos al seguro",
+    "parent_code": "759"
+  },
+  {
+    "code": "7593",
+    "name": "Donaciones",
+    "parent_code": "759"
+  },
+  {
+    "code": "7594",
+    "name": "Devoluciones tributarias",
+    "parent_code": "759"
+  },
+  {
+    "code": "7599",
+    "name": "Otros ingresos de gestión",
+    "parent_code": "759"
+  },
+  {
+    "code": "76",
+    "name": "GANANCIA POR MEDICIÓN DE ACTIVOS NO FINANCIEROS AL VALOR RAZONABLE",
+    "parent_code": "7"
+  },
+  {
+    "code": "761",
+    "name": "Activo realizable",
+    "parent_code": "76"
+  },
+  {
+    "code": "7611",
+    "name": "Mercaderías",
+    "parent_code": "761"
+  },
+  {
+    "code": "7612",
+    "name": "Productos terminados",
+    "parent_code": "761"
+  },
+  {
+    "code": "7613",
+    "name": "Activos no corrientes mantenidos para la venta",
+    "parent_code": "761"
+  },
+  {
+    "code": "76131",
+    "name": "Propiedades de inversión",
+    "parent_code": "7613"
+  },
+  {
+    "code": "76132",
+    "name": "Propiedad, planta y equipo",
+    "parent_code": "7613"
+  },
+  {
+    "code": "76133",
+    "name": "Intangibles",
+    "parent_code": "7613"
+  },
+  {
+    "code": "76134",
+    "name": "Activos biológicos",
+    "parent_code": "7613"
+  },
+  {
+    "code": "762",
+    "name": "Activo inmovilizado",
+    "parent_code": "76"
+  },
+  {
+    "code": "7621",
+    "name": "Propiedades de inversión",
+    "parent_code": "762"
+  },
+  {
+    "code": "7622",
+    "name": "Activos biológicos",
+    "parent_code": "762"
+  },
+  {
+    "code": "77",
+    "name": "INGRESOS FINANCIEROS",
+    "parent_code": "7"
+  },
+  {
+    "code": "771",
+    "name": "Ganancia por instrumento financiero derivado",
+    "parent_code": "77"
+  },
+  {
+    "code": "772",
+    "name": "Rendimientos ganados",
+    "parent_code": "77"
+  },
+  {
+    "code": "7721",
+    "name": "Depósitos en instituciones financieras",
+    "parent_code": "772"
+  },
+  {
+    "code": "7722",
+    "name": "Cuentas por cobrar comerciales",
+    "parent_code": "772"
+  },
+  {
+    "code": "7723",
+    "name": "Préstamos otorgados",
+    "parent_code": "772"
+  },
+  {
+    "code": "7724",
+    "name": "Inversiones a ser mantenidas hasta el vencimiento",
+    "parent_code": "772"
+  },
+  {
+    "code": "7725",
+    "name": "Instrumentos financieros representativos de derecho patrimonial",
+    "parent_code": "772"
+  },
+  {
+    "code": "773",
+    "name": "Dividendos",
+    "parent_code": "77"
+  },
+  {
+    "code": "774",
+    "name": "Ingresos en operaciones de factoraje (factoring)",
+    "parent_code": "77"
+  },
+  {
+    "code": "775",
+    "name": "Descuentos obtenidos por pronto pago",
+    "parent_code": "77"
+  },
+  {
+    "code": "776",
+    "name": "Diferencia en cambio",
+    "parent_code": "77"
+  },
+  {
+    "code": "777",
+    "name": "Ganancia por medición de activos y pasivos financieros al valor razonable",
+    "parent_code": "77"
+  },
+  {
+    "code": "7771",
+    "name": "Inversiones mantenidas para negociación",
+    "parent_code": "777"
+  },
+  {
+    "code": "7772",
+    "name": "Otras inversiones",
+    "parent_code": "777"
+  },
+  {
+    "code": "7773",
+    "name": "Otras",
+    "parent_code": "777"
+  },
+  {
+    "code": "778",
+    "name": "Participación en resultados de entidades relacionadas",
+    "parent_code": "77"
+  },
+  {
+    "code": "7781",
+    "name": "Participación en los resultados de subsidiarias y asociadas bajo el método del valor patrimonial",
+    "parent_code": "778"
+  },
+  {
+    "code": "7782",
+    "name": "Ingresos por participaciones en negocios conjuntos",
+    "parent_code": "778"
+  },
+  {
+    "code": "779",
+    "name": "Otros ingresos financieros",
+    "parent_code": "77"
+  },
+  {
+    "code": "7792",
+    "name": "Ingresos financieros en medición a valor descontado",
+    "parent_code": "779"
+  },
+  {
+    "code": "78",
+    "name": "CARGAS CUBIERTAS POR PROVISIONES",
+    "parent_code": "7"
+  },
+  {
+    "code": "781",
+    "name": "Cargas cubiertas por provisiones",
+    "parent_code": "78"
+  },
+  {
+    "code": "79",
+    "name": "CARGAS IMPUTABLES A CUENTAS DE COSTOS Y GASTOS",
+    "parent_code": "7"
+  },
+  {
+    "code": "791",
+    "name": "Cargas imputables a cuentas de costos y gastos",
+    "parent_code": "79"
+  },
+  {
+    "code": "792",
+    "name": "Gastos financieros imputables a cuentas de inventarios",
+    "parent_code": "79"
+  },
+  {
+    "code": "8",
+    "name": "SALDOS INTERMEDIARIOS DE GESTIÓN Y DETERMINACIÓN DEL RESULTADO DEL EJERCICIO",
+    "parent_code": null
+  },
+  {
+    "code": "80",
+    "name": "MARGEN COMERCIAL",
+    "parent_code": "8"
+  },
+  {
+    "code": "801",
+    "name": "Margen comercial",
+    "parent_code": "80"
+  },
+  {
+    "code": "81",
+    "name": "PRODUCCIÓN DEL EJERCICIO",
+    "parent_code": "8"
+  },
+  {
+    "code": "811",
+    "name": "Producción de bienes",
+    "parent_code": "81"
+  },
+  {
+    "code": "812",
+    "name": "Producción de servicios",
+    "parent_code": "81"
+  },
+  {
+    "code": "813",
+    "name": "Producción de activo inmovilizado",
+    "parent_code": "81"
+  },
+  {
+    "code": "82",
+    "name": "VALOR AGREGADO",
+    "parent_code": "8"
+  },
+  {
+    "code": "821",
+    "name": "Valor agregado",
+    "parent_code": "82"
+  },
+  {
+    "code": "83",
+    "name": "EXCEDENTE BRUTO (INSUFICIENCIA BRUTA) DE EXPLOTACIÓN",
+    "parent_code": "8"
+  },
+  {
+    "code": "831",
+    "name": "Excedente bruto (insuficiencia bruta) de explotación",
+    "parent_code": "83"
+  },
+  {
+    "code": "84",
+    "name": "RESULTADO DE EXPLOTACIÓN",
+    "parent_code": "8"
+  },
+  {
+    "code": "841",
+    "name": "Resultado de explotación",
+    "parent_code": "84"
+  },
+  {
+    "code": "85",
+    "name": "RESULTADO ANTES DE IMPUESTO A LAS GANANCIAS",
+    "parent_code": "8"
+  },
+  {
+    "code": "851",
+    "name": "Resultado antes del impuesto a las ganancias",
+    "parent_code": "85"
+  },
+  {
+    "code": "88",
+    "name": "IMPUESTO A LAS GANANCIAS",
+    "parent_code": "8"
+  },
+  {
+    "code": "881",
+    "name": "Impuesto a las ganancias – Corriente",
+    "parent_code": "88"
+  },
+  {
+    "code": "882",
+    "name": "Impuesto a las ganancias – Diferido",
+    "parent_code": "88"
+  },
+  {
+    "code": "89",
+    "name": "DETERMINACIÓN DEL RESULTADO DEL EJERCICIO",
+    "parent_code": "8"
+  },
+  {
+    "code": "891",
+    "name": "Utilidad",
+    "parent_code": "89"
+  },
+  {
+    "code": "892",
+    "name": "Pérdida",
+    "parent_code": "89"
+  }
+]

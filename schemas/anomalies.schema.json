@@ -1,0 +1,127 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PCGEAnomalies",
+  "description": "Schema for PCGE documented anomalies file",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "\\S"
+      },
+      "type": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "\\S"
+      },
+      "code": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "^\\S(?:[\\s\\S]*\\S)?(?![\\s\\S])"
+      },
+      "codes": {
+        "type": "array",
+        "minItems": 1,
+        "uniqueItems": true,
+        "items": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^\\S(?:[\\s\\S]*\\S)?(?![\\s\\S])"
+        }
+      },
+      "status": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "\\S"
+      },
+      "description": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "\\S"
+      },
+      "decision": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "\\S"
+      },
+      "confirmation_no_invented_code": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "\\S"
+      },
+      "occurrences": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "properties": {
+            "occurrence_index": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "pdf_page": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "printed_page": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "printed_code": {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "^\\S(?:[\\s\\S]*\\S)?(?![\\s\\S])"
+            },
+            "printed_name": {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            },
+            "printed_parent_code": {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "^\\S(?:[\\s\\S]*\\S)?(?![\\s\\S])"
+            },
+            "disposition": {
+              "type": "string",
+              "minLength": 1,
+              "pattern": "\\S"
+            }
+          },
+          "required": [
+            "occurrence_index",
+            "pdf_page",
+            "printed_page",
+            "printed_code",
+            "printed_name",
+            "printed_parent_code",
+            "disposition"
+          ],
+          "additionalProperties": false
+        }
+      }
+    },
+    "required": [
+      "id",
+      "type",
+      "status",
+      "description",
+      "decision",
+      "confirmation_no_invented_code",
+      "occurrences"
+    ],
+    "oneOf": [
+      {
+        "required": ["code"],
+        "not": { "required": ["codes"] }
+      },
+      {
+        "required": ["codes"],
+        "not": { "required": ["code"] }
+      }
+    ],
+    "additionalProperties": false
+  }
+}

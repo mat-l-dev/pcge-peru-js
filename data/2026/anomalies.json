@@ -1,0 +1,31 @@
+[
+  {
+    "id": "ANOMALY-2026-70992",
+    "type": "duplicate_code",
+    "code": "70992",
+    "status": "unresolved_source_anomaly",
+    "description": "El código 70992 está impreso en dos ubicaciones distintas del catálogo detallado del Capítulo II.",
+    "decision": "Se conserva en el catálogo canónico la segunda aparición (70992 / Contrato de consultoría TI) por ser coherente con su código y padre impreso 7099. Se excluye del catálogo canónico la primera aparición (70992 / Relacionadas / padre impreso 7090). No se crea el código 70902 para evitar introducir códigos no impresos en la fuente oficial.",
+    "confirmation_no_invented_code": "Se confirma que el código 70902 no fue creado ni incorporado al catálogo canónico.",
+    "occurrences": [
+      {
+        "occurrence_index": 1,
+        "pdf_page": 48,
+        "printed_page": 46,
+        "printed_code": "70992",
+        "printed_name": "Relacionadas",
+        "printed_parent_code": "7090",
+        "disposition": "excluded_from_canonical_catalog"
+      },
+      {
+        "occurrence_index": 2,
+        "pdf_page": 49,
+        "printed_page": 47,
+        "printed_code": "70992",
+        "printed_name": "Contrato de consultoría TI",
+        "printed_parent_code": "7099",
+        "disposition": "retained_in_canonical_catalog"
+      }
+    ]
+  }
+]
