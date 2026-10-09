@@ -1,0 +1,373 @@
+[
+  {
+    "id": "ANOMALY-2019-27233",
+    "type": "duplicate_code",
+    "code": "27233",
+    "status": "unresolved_source_anomaly",
+    "description": "El código 27233 aparece impreso bajo 2723 (Edificaciones) y vuelve a aparecer erróneamente dentro del bloque 2724 (Maquinarias y equipos de explotación).",
+    "decision": "Se conserva la primera aparición coherente bajo 2723. Se excluye la segunda aparición bajo 2724. No se crea el código 27243.",
+    "confirmation_no_invented_code": "Se confirma que el código 27243 no fue creado ni incorporado al catálogo canónico.",
+    "occurrences": [
+      {
+        "occurrence_index": 1,
+        "pdf_page": 27,
+        "printed_page": 26,
+        "printed_code": "27233",
+        "printed_name": "Costo de financiación",
+        "printed_parent_code": "2723",
+        "disposition": "retained_in_canonical_catalog"
+      },
+      {
+        "occurrence_index": 2,
+        "pdf_page": 27,
+        "printed_page": 26,
+        "printed_code": "27233",
+        "printed_name": "Costo de financiación",
+        "printed_parent_code": "2724",
+        "disposition": "excluded_from_canonical_catalog"
+      }
+    ]
+  },
+  {
+    "id": "ANOMALY-2019-30221-30224",
+    "type": "misplaced_duplicate_codes",
+    "codes": [
+      "30221",
+      "30224"
+    ],
+    "status": "unresolved_source_anomaly",
+    "description": "Los códigos 30221 (Costo) y 30224 (Valor razonable) aparecen impresos dentro del bloque 3011 (Instrumentos financieros representativos de deuda) y posteriormente vuelven a aparecer en su ubicación coherente bajo 3022 (Acciones representativas de capital social – Comunes).",
+    "decision": "Se excluyen las ocurrencias colocadas bajo 3011 y se conservan las apariciones coherentes bajo 3022. No se inventan 30111 ni 30114.",
+    "confirmation_no_invented_code": "Se confirma que los códigos 30111 y 30114 no fueron creados ni incorporados al catálogo canónico.",
+    "occurrences": [
+      {
+        "occurrence_index": 1,
+        "pdf_page": 31,
+        "printed_page": 30,
+        "printed_code": "30221",
+        "printed_name": "Costo",
+        "printed_parent_code": "3011",
+        "disposition": "excluded_from_canonical_catalog"
+      },
+      {
+        "occurrence_index": 2,
+        "pdf_page": 31,
+        "printed_page": 30,
+        "printed_code": "30224",
+        "printed_name": "Valor razonable",
+        "printed_parent_code": "3011",
+        "disposition": "excluded_from_canonical_catalog"
+      },
+      {
+        "occurrence_index": 3,
+        "pdf_page": 31,
+        "printed_page": 30,
+        "printed_code": "30221",
+        "printed_name": "Costo",
+        "printed_parent_code": "3022",
+        "disposition": "retained_in_canonical_catalog"
+      },
+      {
+        "occurrence_index": 4,
+        "pdf_page": 31,
+        "printed_page": 30,
+        "printed_code": "30224",
+        "printed_name": "Valor razonable",
+        "printed_parent_code": "3022",
+        "disposition": "retained_in_canonical_catalog"
+      }
+    ]
+  },
+  {
+    "id": "ANOMALY-2019-33404",
+    "type": "misplaced_isolated_code",
+    "code": "33404",
+    "status": "unresolved_source_anomaly",
+    "description": "Dentro del bloque 3640 (Planta productora en producción) aparece impreso el código 33404 entre los códigos 36403 y 36405.",
+    "decision": "Se excluye la ocurrencia 33404. No se convierte en 36404 ni se reubica bajo un eventual 3340.",
+    "confirmation_no_invented_code": "Se confirma que el código 36404 no fue creado ni incorporado al catálogo canónico.",
+    "occurrences": [
+      {
+        "occurrence_index": 1,
+        "pdf_page": 38,
+        "printed_page": 37,
+        "printed_code": "33404",
+        "printed_name": "Planta productora en producción - Valor razonable",
+        "printed_parent_code": "3640",
+        "disposition": "excluded_from_canonical_catalog"
+      }
+    ]
+  },
+  {
+    "id": "ANOMALY-2019-38472-38474",
+    "type": "misplaced_code_group",
+    "codes": [
+      "38472",
+      "38473",
+      "38474"
+    ],
+    "status": "unresolved_source_anomaly",
+    "description": "Dentro del bloque 3647 (Herramientas y unidades de reemplazo), después de 36471, aparecen impresos los códigos 38472, 38473 y 38474.",
+    "decision": "Se excluyen las ocurrencias 38472, 38473 y 38474. No se inventan 36472, 36473 ni 36474.",
+    "confirmation_no_invented_code": "Se confirma que los códigos 36472, 36473 y 36474 no fueron creados ni incorporados al catálogo canónico.",
+    "occurrences": [
+      {
+        "occurrence_index": 1,
+        "pdf_page": 39,
+        "printed_page": 38,
+        "printed_code": "38472",
+        "printed_name": "Herramientas - Revaluación",
+        "printed_parent_code": "3647",
+        "disposition": "excluded_from_canonical_catalog"
+      },
+      {
+        "occurrence_index": 2,
+        "pdf_page": 39,
+        "printed_page": 38,
+        "printed_code": "38473",
+        "printed_name": "Unidades de reemplazo - costo",
+        "printed_parent_code": "3647",
+        "disposition": "excluded_from_canonical_catalog"
+      },
+      {
+        "occurrence_index": 3,
+        "pdf_page": 39,
+        "printed_page": 38,
+        "printed_code": "38474",
+        "printed_name": "Unidades de reemplazo - Revaluación",
+        "printed_parent_code": "3647",
+        "disposition": "excluded_from_canonical_catalog"
+      }
+    ]
+  },
+  {
+    "id": "ANOMALY-2019-38352",
+    "type": "misplaced_isolated_code",
+    "code": "38352",
+    "status": "unresolved_source_anomaly",
+    "description": "Dentro del bloque 3935 (Muebles y enseres), después de 39351 Costo, aparece impreso 38352 Revaluación.",
+    "decision": "Se excluye la ocurrencia 38352. No se inventa 39352.",
+    "confirmation_no_invented_code": "Se confirma que el código 39352 no fue creado ni incorporado al catálogo canónico.",
+    "occurrences": [
+      {
+        "occurrence_index": 1,
+        "pdf_page": 41,
+        "printed_page": 40,
+        "printed_code": "38352",
+        "printed_name": "Revaluación",
+        "printed_parent_code": "3935",
+        "disposition": "excluded_from_canonical_catalog"
+      }
+    ]
+  },
+  {
+    "id": "ANOMALY-2019-63432",
+    "type": "misplaced_isolated_code",
+    "code": "63432",
+    "status": "unresolved_source_anomaly",
+    "description": "Dentro del bloque 6342 (Activos por derecho de uso), entre 63421 Financiero y el inicio de 6343 Propiedad, planta y equipo, aparece impreso 63432 Operativo.",
+    "decision": "Se excluye la ocurrencia 63432 ubicada dentro del bloque 6342. No se convierte en 63422 ni se relocaliza bajo 6343.",
+    "confirmation_no_invented_code": "El código 63432 está impreso en la fuente y fue excluido del catálogo canónico conforme al criterio de canonicalización. Se confirma que el código 63422 no fue creado ni incorporado al catálogo canónico.",
+    "occurrences": [
+      {
+        "occurrence_index": 1,
+        "pdf_page": 50,
+        "printed_page": 49,
+        "printed_code": "63432",
+        "printed_name": "Operativo",
+        "printed_parent_code": "6342",
+        "disposition": "excluded_from_canonical_catalog"
+      }
+    ]
+  },
+  {
+    "id": "ANOMALY-2019-683351",
+    "type": "misplaced_isolated_code",
+    "code": "683351",
+    "status": "unresolved_source_anomaly",
+    "description": "Dentro de 68315 (Equipos diversos) aparece impreso 683351 Costo, seguido por 683152 Revaluación.",
+    "decision": "Se excluye 683351 y se conserva 683152. No se inventa 683151.",
+    "confirmation_no_invented_code": "Se confirma que el código 683151 no fue creado ni incorporado al catálogo canónico.",
+    "occurrences": [
+      {
+        "occurrence_index": 1,
+        "pdf_page": 54,
+        "printed_page": 53,
+        "printed_code": "683351",
+        "printed_name": "Costo",
+        "printed_parent_code": "68315",
+        "disposition": "excluded_from_canonical_catalog"
+      }
+    ]
+  },
+  {
+    "id": "ANOMALY-2019-6882-68812-68813",
+    "type": "duplicate_block_with_erroneous_children",
+    "codes": [
+      "6882",
+      "68812",
+      "68813"
+    ],
+    "status": "unresolved_source_anomaly",
+    "description": "Aparece una primera ocurrencia de 6882 (Desvalorización de propiedad de inversión) seguida por 68812 (Edificaciones) y 68813 (Construcciones en curso). Más adelante aparece nuevamente 6882 (Desvalorización de activos por derecho de uso - arrendamiento financiero) con subdivisionarias coherentes 68820 a 68828.",
+    "decision": "Se excluye la primera aparición de 6882 junto con 68812 y 68813. Se conserva la segunda aparición de 6882 y sus subdivisionarias coherentes. No se inventa 6881.",
+    "confirmation_no_invented_code": "Se confirma que el código 6881 no fue creado ni incorporado al catálogo canónico.",
+    "occurrences": [
+      {
+        "occurrence_index": 1,
+        "pdf_page": 55,
+        "printed_page": 54,
+        "printed_code": "6882",
+        "printed_name": "Desvalorización de propiedad de inversión",
+        "printed_parent_code": "688",
+        "disposition": "excluded_from_canonical_catalog"
+      },
+      {
+        "occurrence_index": 2,
+        "pdf_page": 55,
+        "printed_page": 54,
+        "printed_code": "68812",
+        "printed_name": "Edificaciones",
+        "printed_parent_code": "6882",
+        "disposition": "excluded_from_canonical_catalog"
+      },
+      {
+        "occurrence_index": 3,
+        "pdf_page": 55,
+        "printed_page": 54,
+        "printed_code": "68813",
+        "printed_name": "Construcciones en curso",
+        "printed_parent_code": "6882",
+        "disposition": "excluded_from_canonical_catalog"
+      },
+      {
+        "occurrence_index": 4,
+        "pdf_page": 55,
+        "printed_page": 54,
+        "printed_code": "6882",
+        "printed_name": "Desvalorización de activos por derecho de uso - arrendamiento financiero",
+        "printed_parent_code": "688",
+        "disposition": "retained_in_canonical_catalog"
+      }
+    ]
+  },
+  {
+    "id": "ANOMALY-2019-70111-70112",
+    "type": "duplicate_code_group",
+    "codes": [
+      "70111",
+      "70112"
+    ],
+    "status": "unresolved_source_anomaly",
+    "description": "Los códigos 70111 (Terceros) y 70112 (Relacionadas) aparecen correctamente bajo 7011 (Mercaderías - venta de exportación). Luego, bajo 7012 (Mercaderías - venta local), el PDF vuelve a imprimir 70111 Terceros y 70112 Relacionadas.",
+    "decision": "Se conservan las primeras ocurrencias bajo 7011 y se excluyen las repeticiones bajo 7012. No se inventan 70121 ni 70122.",
+    "confirmation_no_invented_code": "Se confirma que los códigos 70121 y 70122 no fueron creados ni incorporados al catálogo canónico.",
+    "occurrences": [
+      {
+        "occurrence_index": 1,
+        "pdf_page": 58,
+        "printed_page": 57,
+        "printed_code": "70111",
+        "printed_name": "Terceros",
+        "printed_parent_code": "7011",
+        "disposition": "retained_in_canonical_catalog"
+      },
+      {
+        "occurrence_index": 2,
+        "pdf_page": 58,
+        "printed_page": 57,
+        "printed_code": "70112",
+        "printed_name": "Relacionadas",
+        "printed_parent_code": "7011",
+        "disposition": "retained_in_canonical_catalog"
+      },
+      {
+        "occurrence_index": 3,
+        "pdf_page": 58,
+        "printed_page": 57,
+        "printed_code": "70111",
+        "printed_name": "Terceros",
+        "printed_parent_code": "7012",
+        "disposition": "excluded_from_canonical_catalog"
+      },
+      {
+        "occurrence_index": 4,
+        "pdf_page": 58,
+        "printed_page": 57,
+        "printed_code": "70112",
+        "printed_name": "Relacionadas",
+        "printed_parent_code": "7012",
+        "disposition": "excluded_from_canonical_catalog"
+      }
+    ]
+  },
+  {
+    "id": "ANOMALY-2019-NOMENCLATURE-61-85-88",
+    "type": "classification_table_discrepancy",
+    "codes": [
+      "61",
+      "85",
+      "88"
+    ],
+    "status": "documented_source_discrepancy",
+    "description": "Discrepancia de nomenclatura entre el cuadro general de clasificación (páginas PDF 19-20) y el catálogo detallado del Capítulo II (páginas PDF 21-62).",
+    "decision": "Por criterio de canonicalización documental, entries.json utiliza la denominación del Catálogo de Cuentas detallado del Capítulo II, definido como fuente canónica del dataset: cuenta 61 como VARIACIÓN DE INVENTARIOS, cuenta 85 como RESULTADO ANTES DE IMPUESTO A LAS GANANCIAS, y cuenta 88 como IMPUESTO A LAS GANANCIAS.",
+    "confirmation_no_invented_code": "No se alteraron los códigos ni la jerarquía oficial.",
+    "occurrences": [
+      {
+        "occurrence_index": 1,
+        "pdf_page": 20,
+        "printed_page": 19,
+        "printed_code": "61",
+        "printed_name": "Variación de existencias",
+        "printed_parent_code": "6",
+        "disposition": "not_selected_for_canonical_name"
+      },
+      {
+        "occurrence_index": 2,
+        "pdf_page": 48,
+        "printed_page": 47,
+        "printed_code": "61",
+        "printed_name": "VARIACIÓN DE INVENTARIOS",
+        "printed_parent_code": "6",
+        "disposition": "retained_in_canonical_catalog"
+      },
+      {
+        "occurrence_index": 3,
+        "pdf_page": 20,
+        "printed_page": 19,
+        "printed_code": "85",
+        "printed_name": "Resultado antes de participaciones e impuestos",
+        "printed_parent_code": "8",
+        "disposition": "not_selected_for_canonical_name"
+      },
+      {
+        "occurrence_index": 4,
+        "pdf_page": 62,
+        "printed_page": 61,
+        "printed_code": "85",
+        "printed_name": "RESULTADO ANTES DE IMPUESTO A LAS GANANCIAS",
+        "printed_parent_code": "8",
+        "disposition": "retained_in_canonical_catalog"
+      },
+      {
+        "occurrence_index": 5,
+        "pdf_page": 20,
+        "printed_page": 19,
+        "printed_code": "88",
+        "printed_name": "Impuesto a la renta",
+        "printed_parent_code": "8",
+        "disposition": "not_selected_for_canonical_name"
+      },
+      {
+        "occurrence_index": 6,
+        "pdf_page": 62,
+        "printed_page": 61,
+        "printed_code": "88",
+        "printed_name": "IMPUESTO A LAS GANANCIAS",
+        "printed_parent_code": "8",
+        "disposition": "retained_in_canonical_catalog"
+      }
+    ]
+  }
+]

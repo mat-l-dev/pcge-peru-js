@@ -1,0 +1,21 @@
+{
+  "title": "Plan Contable General Empresarial Modificado 2019",
+  "authority": "Consejo Normativo de Contabilidad",
+  "resolution": "Resolución N.° 002-2019-EF/30",
+  "resolution_date": "2019-05-16",
+  "publication_date": "2019-05-24",
+  "mandatory_effective_date": "2020-01-01",
+  "resolution_url": "https://busquedas.elperuano.pe/dispositivo/NL/1772236-1",
+  "source_filename": "PCGE_2019.pdf",
+  "source_sha256": "EC0CA9D36CD2F5CDB6D14ECB45A6E510879DF929372FDB033BC2DF88329EB9F2",
+  "dataset_sha256": "FC70E43B94D0718373AB3B9F81202731E5295EDEDF0DF75231A2FFB3C2BEEC04",
+  "catalog_chapter": "Capítulo II",
+  "catalog_pdf_pages": {
+    "first": 21,
+    "last": 62
+  },
+  "catalog_printed_pages": {
+    "first": 20,
+    "last": 61
+  }
+}

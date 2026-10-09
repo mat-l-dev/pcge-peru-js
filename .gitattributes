@@ -1,0 +1,4 @@
+* text=auto
+/data/**/*.json -text
+/test/fixtures/*.json -text
+/LICENSE -text

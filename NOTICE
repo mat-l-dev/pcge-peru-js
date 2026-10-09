@@ -1,0 +1,14 @@
+pcge-peru-js
+
+Adaptación de pcge-peru, de mat-l-dev.
+Fuente: https://github.com/mat-l-dev/pcge-peru
+Revisión: e9e69ed9075c09e8d1e5475760e5b691aa73b251
+
+El código fuente original se distribuye bajo Apache License 2.0.
+Los archivos de datos y esquemas se conservan sin cambios. La adaptación
+implementa la consulta y validación para Node.js en un repositorio separado.
+No se atribuye Apache License 2.0 a los textos oficiales del Estado Peruano.
+
+Las tablas de búsqueda derivan de Unicode Character Database 16.0.0,
+UnicodeData.txt y CaseFolding.txt, bajo Unicode License v3 (Unicode-3.0).
+Copyright © 2001-2024 Unicode, Inc. Consulte LICENSE-UNICODE.

@@ -1,0 +1,21 @@
+{
+  "title": "Plan Contable General Empresarial 2026",
+  "authority": "Consejo Normativo de Contabilidad",
+  "resolution": "Resolución N.° 002-2026-EF/30",
+  "resolution_date": "2026-09-01",
+  "publication_date": "2026-09-04",
+  "mandatory_effective_date": "2028-01-01",
+  "resolution_url": "https://busquedas.elperuano.pe/dispositivo/NL/2550786-1",
+  "source_filename": "8559148-plan-contable-general-empresarial-pcge-2026(2).pdf",
+  "source_sha256": "48C568CA196C68348743DDA96C55C38593B0437CE732A4C5D77D7C9ACA896B19",
+  "dataset_sha256": "70D6CB7DFC501A1306A0E934DF48409F70E83FFAE033676B49F297D9CBEAF43A",
+  "catalog_chapter": "Capítulo II",
+  "catalog_pdf_pages": {
+    "first": 19,
+    "last": 52
+  },
+  "catalog_printed_pages": {
+    "first": 17,
+    "last": 50
+  }
+}
